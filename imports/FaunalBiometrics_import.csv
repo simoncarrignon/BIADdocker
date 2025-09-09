@@ -1,0 +1,1283 @@
+MetricID	BoneID	Measurement	PhaseID	TaxonCode	SkeletalElement	Sex	Castrate	Value	time_added	user_added	time_last_update	user_last_update
+M043995	B11266	Bd	DRZ	bostaur	femur	0.5	\N	64.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M044000	B11267	Bd	DRZ	bostaur	femur	0.5	\N	97.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M044005	B11268	Bd	DRZ	bostaur	femur	0.5	\N	84.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M044010	B11269	SD	DRZ	bostaur	humerus	0.5	\N	33.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044016	B11270	SD	DRZ	bostaur	humerus	0.5	\N	41	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044022	B11271	GL	DRZ	bostaur	metacarpal	0.5	\N	200.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044023	B11271	SD	DRZ	bostaur	metacarpal	0.5	\N	38.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044027	B11272	SD	DRZ	bostaur	metacarpal	0.5	\N	38.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044032	B11273	GL	DRZ	bostaur	metatarsal	0.5	\N	211.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M044038	B11274	Bd	DRZ	bostaur	radius	0.5	\N	63.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044044	B11275	Bd	DRZ	bostaur	radius	0.5	\N	68.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044050	B11276	SD	DRZ	bostaur	tibia	0.5	\N	44.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044055	B11277	SD	DRZ	bostaur	tibia	0.5	\N	49.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044060	B11278	SD	DRZ	bostaur	tibia	0.5	\N	47.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044065	B11279	Bd	DRZ	susscrd	astragalus	0.5	\N	24.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044066	B11279	GLl	DRZ	susscrd	astragalus	0.5	\N	43.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044067	B11279	GLm	DRZ	susscrd	astragalus	0.5	\N	39.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044074	B11280	Bd	DRZ	susscrd	astragalus	0.5	\N	31.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044075	B11280	GLl	DRZ	susscrd	astragalus	0.5	\N	54.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044076	B11280	GLm	DRZ	susscrd	astragalus	0.5	\N	50.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044083	B11281	BM3	DRZ	susscrd	maxilla	0.5	\N	18.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M044084	B11281	LM3	DRZ	susscrd	maxilla	0.5	\N	31.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M044088	B11282	GLP	DRZ	susscrd	scapula	0.5	\N	35.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044089	B11282	LG	DRZ	susscrd	scapula	0.5	\N	31.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044092	B11283	GLP	DRZ	susscrd	scapula	0.5	\N	35.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044093	B11283	LG	DRZ	susscrd	scapula	0.5	\N	32.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044096	B11284	GLP	DRZ	susscrd	scapula	0.5	\N	35.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044097	B11284	LG	DRZ	susscrd	scapula	0.5	\N	32	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M044100	B11285	GL	DRZ	susscrd	tibia	0.5	\N	91.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042366	B11019	GL	MRO	bostaur	calcaneus	0.5	\N	120	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M042368	B11020	Bd	MRO	bostaur	humerus	0.5	\N	76	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042369	B11020	BT	MRO	bostaur	humerus	0.5	\N	69	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042374	B11021	Bd	MRO	bostaur	humerus	0.5	\N	78	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042380	B11022	BT	MRO	bostaur	humerus	0.5	\N	68	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042386	B11023	LM3	MRO	bostaur	mandible	0.5	\N	37	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042409	B11024	LM3	MRO	bostaur	mandible	0.5	\N	38	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042432	B11025	LM3	MRO	bostaur	mandible	0.5	\N	38	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042455	B11026	LM3	MRO	bostaur	mandible	0.5	\N	40	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042478	B11027	Bd	MRO	bostaur	metacarpal	1	0	54	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042479	B11027	Bp	MRO	bostaur	metacarpal	1	0	54	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042480	B11027	GL	MRO	bostaur	metacarpal	1	0	193	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042481	B11027	SD	MRO	bostaur	metacarpal	1	0	29	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042483	B11028	Bd	MRO	bostaur	metacarpal	0.5	\N	58	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042488	B11029	Bp	MRO	bostaur	metatarsal	0.5	\N	49	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042494	B11030	Bp	MRO	bostaur	metatarsal	0.5	\N	46	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042500	B11031	Bd	MRO	bostaur	metatarsal	0.5	\N	49	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042506	B11032	GB	MRO	bostaur	os centrotarsale	0.5	\N	63	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M042507	B11033	Bd	MRO	bostaur	phalanx 1	0.5	\N	25	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M042508	B11033	Bp	MRO	bostaur	phalanx 1	0.5	\N	25.5	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M042509	B11033	GLpe	MRO	bostaur	phalanx 1	0.5	\N	54	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M042510	B11033	SD	MRO	bostaur	phalanx 1	0.5	\N	21	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M042514	B11034	Bd	MRO	bostaur	phalanx 1	0.5	\N	25	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M042515	B11034	GLpe	MRO	bostaur	phalanx 1	0.5	\N	55.5	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M042516	B11034	SD	MRO	bostaur	phalanx 1	0.5	\N	25	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M042521	B11035	Bd	MRO	bostaur	phalanx 2	0.5	\N	22.5	\N	\N	2024-09-27 14:59:04	robert@localhost
+M042522	B11035	Bp	MRO	bostaur	phalanx 2	0.5	\N	27	\N	\N	2024-09-27 14:59:04	robert@localhost
+M042523	B11035	GLpe	MRO	bostaur	phalanx 2	0.5	\N	37	\N	\N	2024-09-27 14:59:04	robert@localhost
+M042524	B11035	SD	MRO	bostaur	phalanx 2	0.5	\N	20.5	\N	\N	2024-09-27 14:59:04	robert@localhost
+M042528	B11036	Bd	MRO	bostaur	radius	0.5	\N	72	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042529	B11036	Bp	MRO	bostaur	radius	0.5	\N	84	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042530	B11036	GL	MRO	bostaur	radius	0.5	\N	262	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042531	B11036	SD	MRO	bostaur	radius	0.5	\N	42	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042534	B11037	Bd	MRO	bostaur	radius	0.5	\N	88	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042540	B11038	BG	MRO	bostaur	scapula	0.5	\N	44	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042541	B11038	LG	MRO	bostaur	scapula	0.5	\N	50	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042542	B11038	SLC	MRO	bostaur	scapula	0.5	\N	52	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042545	B11039	SLC	MRO	bostaur	scapula	0.5	\N	56	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042550	B11040	Bd	MRO	bostaur	tibia	0.5	\N	64	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042555	B11041	Bp	MRO	bostaur	tibia	0.5	\N	104	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042560	B11042	GL	MRO	canifam	astragalus	0.5	\N	23	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042569	B11043	GB	MRO	canifam	calcaneus	0.5	\N	15	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M042570	B11043	GL	MRO	canifam	calcaneus	0.5	\N	40	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M042571	B11044	Bp	MRO	canifam	radius	0.5	\N	17.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042577	B11045	LM3	MRO	caprhir	mandible	0.5	\N	23	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M042600	B11046	Bp	MRO	caprhir	radius	0.5	\N	30	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042606	B11047	Bd	MRO	ovisari	metacarpal	0.5	\N	24	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042607	B11047	SD	MRO	ovisari	metacarpal	0.5	\N	12	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042611	B11048	Bd	MRO	ovisari	radius	0.5	\N	27.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042612	B11048	Bp	MRO	ovisari	radius	0.5	\N	30	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042613	B11048	GL	MRO	ovisari	radius	0.5	\N	140	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042614	B11048	SD	MRO	ovisari	radius	0.5	\N	14.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042617	B11049	Bd	MRO	ovisari	tibia	0.5	\N	26	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042622	B11050	Bp	MRO	susscrd	femur	0.5	\N	62	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M042627	B11051	Bd	MRO	susscrd	humerus	0.5	\N	41	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042628	B11051	BT	MRO	susscrd	humerus	0.5	\N	35	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042633	B11052	Bd	MRO	susscrd	metacarpal 4	0.5	\N	16	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042634	B11052	Bp	MRO	susscrd	metacarpal 4	0.5	\N	19	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042635	B11052	GL	MRO	susscrd	metacarpal 4	0.5	\N	75	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042636	B11052	SD	MRO	susscrd	metacarpal 4	0.5	\N	13	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042637	B11053	Bd	MRO	susscrd	radius	0.5	\N	35	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042643	B11054	Bd	MRO	susscrd	tibia	0.5	\N	31.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M042648	B11055	Bd	MRO	susscrd	tibia	0.5	\N	30	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093653	B18797	Bd	RAT	bostaur	astragalus	0.5	\N	50.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093654	B18797	GLl	RAT	bostaur	astragalus	0.5	\N	76	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093655	B18797	GLm	RAT	bostaur	astragalus	0.5	\N	69.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093656	B18797	Dl	RAT	bostaur	astragalus	0.5	\N	43	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093657	B18797	Dm	RAT	bostaur	astragalus	0.5	\N	45	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093662	B18798	Bd	RAT	bostaur	astragalus	0.5	\N	46.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093663	B18798	GLl	RAT	bostaur	astragalus	0.5	\N	73.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093664	B18798	GLm	RAT	bostaur	astragalus	0.5	\N	67	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093665	B18798	Dl	RAT	bostaur	astragalus	0.5	\N	41.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093666	B18798	Dm	RAT	bostaur	astragalus	0.5	\N	42.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093671	B18799	Bd	RAT	bostaur	astragalus	0.5	\N	43.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093672	B18799	GLl	RAT	bostaur	astragalus	0.5	\N	70	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093673	B18799	GLm	RAT	bostaur	astragalus	0.5	\N	63	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093674	B18799	Dl	RAT	bostaur	astragalus	0.5	\N	38.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093675	B18799	Dm	RAT	bostaur	astragalus	0.5	\N	39.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093680	B18800	GB	RAT	bostaur	calcaneus	0.5	\N	48	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093681	B18800	GL	RAT	bostaur	calcaneus	0.5	\N	139	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093682	B18801	Bd	RAT	bostaur	femur	0.5	\N	94	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093687	B18802	DC	RAT	bostaur	femur	0.5	\N	51	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093692	B18803	DC	RAT	bostaur	femur	0.5	\N	46.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093697	B18804	Bd	RAT	bostaur	humerus	0.5	\N	85	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093704	B18805	Bd	RAT	bostaur	metacarpal	\N	0.5	68.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093709	B18806	Bp	RAT	bostaur	metacarpal	1	0	59.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093714	B18807	Bp	RAT	bostaur	metacarpal	1	0	61	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093719	B18808	Bd	RAT	bostaur	metacarpal	0.25	\N	70.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093724	B18809	Bp	RAT	bostaur	metatarsal	1	0	56	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093730	B18810	Bp	RAT	bostaur	metatarsal	1	0	52	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093736	B18811	Bd	RAT	bostaur	metatarsal	1	0	61	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093742	B18812	Bd	RAT	bostaur	metatarsal	1	0	64	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093748	B18813	Bd	RAT	bostaur	metatarsal	1	0	64	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093754	B18814	Bd	RAT	bostaur	metatarsal	1	0	63.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093760	B18815	GB	RAT	bostaur	os centroquartale	0.5	\N	52.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093761	B18816	GD	RAT	bostaur	horncore	1	0	56	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M093762	B18816	Ld	RAT	bostaur	horncore	1	0	49.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M093770	B18817	GD	RAT	bostaur	horncore	1	0	56.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M093771	B18817	Ld	RAT	bostaur	horncore	1	0	48	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M093779	B18818	GLpe	RAT	bostaur	phalanx 1	0.5	\N	69	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M093786	B18819	GLpe	RAT	bostaur	phalanx 1	0.5	\N	69	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M093793	B18820	Bd	RAT	bostaur	phalanx 1: anterior	0.5	\N	30	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093794	B18820	Bp	RAT	bostaur	phalanx 1: anterior	0.5	\N	39	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093795	B18820	GLpe	RAT	bostaur	phalanx 1: anterior	0.5	\N	62	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093796	B18820	SD	RAT	bostaur	phalanx 1: anterior	0.5	\N	26.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093801	B18821	DLS	RAT	bostaur	PH3	0.5	\N	76.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093802	B18821	Ld	RAT	bostaur	PH3	0.5	\N	60.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093803	B18821	MBS	RAT	bostaur	PH3	0.5	\N	25.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093806	B18822	MBS	RAT	bostaur	PH3	0.5	\N	29	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093811	B18823	Bd	RAT	bostaur	tibia	0.5	\N	71.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093816	B18824	Bd	RAT	bostaur	tibia	0.5	\N	71	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093821	B18825	Bd	RAT	bostaur	tibia	0.5	\N	64.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093826	B18826	BM3	RAT	susscrd	mandible	0.5	\N	15	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093827	B18826	LM3	RAT	susscrd	mandible	0.5	\N	28.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093828	B18826	LMR	RAT	susscrd	mandible	0.5	\N	61.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093849	B18827	BM3	RAT	susscrd	mandible	0.5	\N	15	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093850	B18827	LM3	RAT	susscrd	mandible	0.5	\N	32.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093872	B18828	BM3	RAT	susscrd	mandible	0.5	\N	14.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093873	B18828	LM3	RAT	susscrd	mandible	0.5	\N	33	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093895	B18829	BM3	RAT	susscrd	mandible	0.5	\N	15	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093896	B18829	LM3	RAT	susscrd	mandible	0.5	\N	30.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093918	B18830	BM3	RAT	susscrd	mandible	0.5	\N	15.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093919	B18830	LM3	RAT	susscrd	mandible	0.5	\N	35	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093941	B18831	BM3	RAT	susscrd	mandible	0.5	\N	14	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093942	B18831	LM3	RAT	susscrd	mandible	0.5	\N	31	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M093964	B18832	Bd	RAT	susscrd	phalanx 1	0.5	\N	7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M093965	B18832	Bp	RAT	susscrd	phalanx 1	0.5	\N	8	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M093966	B18832	GLpe	RAT	susscrd	phalanx 1	0.5	\N	24.5	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M093967	B18832	SD	RAT	susscrd	phalanx 1	0.5	\N	4	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M093972	B18833	DLS	RAT	susscrd	PH3	0.5	\N	27	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093973	B18833	Ld	RAT	susscrd	PH3	0.5	\N	26	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093974	B18833	MBS	RAT	susscrd	PH3	0.5	\N	10	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M093977	B18834	BG	RAT	susscrd	scapula	0.5	\N	24.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093978	B18834	GLP	RAT	susscrd	scapula	0.5	\N	37	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093979	B18834	SLC	RAT	susscrd	scapula	0.5	\N	23.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093980	B18834	LG	RAT	susscrd	scapula	0.5	\N	31	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093982	B18835	SLC	RAT	susscrd	scapula	0.5	\N	23.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093987	B18836	Bd	RAT	susscrd	tibia	0.5	\N	32.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093992	B18837	Bd	RAT	susscrf	humerus	0.5	\N	48	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M093993	B18837	BT	RAT	susscrf	humerus	0.5	\N	35.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097591	B19346	Bp	LSMII	bosprim	radius	0.5	\N	97	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097597	B19347	Bd	LSMII	bostaur	astragalus	0.5	\N	48.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097598	B19347	GLl	LSMII	bostaur	astragalus	0.5	\N	76	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097606	B19348	Bp	LSMII	bostaur	metacarpal	0.5	\N	71	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097611	B19349	Bd	LSMII	bostaur	metacarpal	0.5	\N	73	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097612	B19349	Dd	LSMII	bostaur	metacarpal	0.5	\N	38.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097613	B19349	SD	LSMII	bostaur	metacarpal	0.5	\N	41.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097617	B19350	Bp	LSMII	bostaur	metatarsal	0.5	\N	54.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M097618	B19350	Dp	LSMII	bostaur	metatarsal	0.5	\N	49	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M097624	B19351	Bp	LSMII	bostaur	metatarsal	0.5	\N	53	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M097625	B19351	Dp	LSMII	bostaur	metatarsal	0.5	\N	52	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M097626	B19351	SD	LSMII	bostaur	metatarsal	0.5	\N	31	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M097631	B19352	Dp	LSMII	bostaur	metatarsal	0.5	\N	54	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M097632	B19352	SD	LSMII	bostaur	metatarsal	0.5	\N	32	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M097638	B19353	Bp	LSMII	bostaur	phalanx 1	0.5	\N	34.5	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097646	B19354	Dp	LSMII	bostaur	phalanx 2	0.5	\N	34	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097647	B19354	GLpe	LSMII	bostaur	phalanx 2	0.5	\N	45.5	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097654	B19355	BG	LSMII	bostaur	scapula	0.5	\N	69.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097655	B19355	GLP	LSMII	bostaur	scapula	0.5	\N	45	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097656	B19355	SLC	LSMII	bostaur	scapula	0.5	\N	23	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097659	B19356	Bd	LSMII	bostaur	tibia	0.5	\N	71.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097660	B19356	Dd	LSMII	bostaur	tibia	0.5	\N	53	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097665	B19357	Bd	LSMII	susscrd	astragalus	0.5	\N	22	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097666	B19357	GLl	LSMII	susscrd	astragalus	0.5	\N	43	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097674	B19358	Bd	LSMII	susscrd	astragalus	0.5	\N	24	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097675	B19358	GLl	LSMII	susscrd	astragalus	0.5	\N	41.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097683	B19359	Bd	LSMII	susscrd	astragalus	0.5	\N	25.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097684	B19359	GLl	LSMII	susscrd	astragalus	0.5	\N	41.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097692	B19360	Bd	LSMII	susscrd	humerus	0.5	\N	39.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097698	B19361	Bd	LSMII	susscrd	metacarpal 4	0.5	\N	16.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097699	B19361	GL	LSMII	susscrd	metacarpal 4	0.5	\N	89.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097700	B19362	Bp	LSMII	susscrd	phalanx 1	0.5	\N	18	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097701	B19362	GLpe	LSMII	susscrd	phalanx 1	0.5	\N	41	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097707	B19363	Bp	LSMII	susscrd	phalanx 1	0.5	\N	18.7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097708	B19363	GLpe	LSMII	susscrd	phalanx 1	0.5	\N	44	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097714	B19364	Bp	LSMII	susscrd	phalanx 1	0.5	\N	18.7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097715	B19364	GLpe	LSMII	susscrd	phalanx 1	0.5	\N	41	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097721	B19365	Bp	LSMII	susscrd	phalanx 1	0.5	\N	17.5	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097722	B19365	GLpe	LSMII	susscrd	phalanx 1	0.5	\N	38	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M097728	B19366	Bp	LSMII	susscrd	phalanx 2	0.5	\N	18	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097729	B19366	GLpe	LSMII	susscrd	phalanx 2	0.5	\N	31.8	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097735	B19367	Bp	LSMII	susscrd	phalanx 2	0.5	\N	15.7	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097736	B19367	GLpe	LSMII	susscrd	phalanx 2	0.5	\N	24.6	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097742	B19368	Bp	LSMII	susscrd	phalanx 2	0.5	\N	18.3	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097743	B19368	GLpe	LSMII	susscrd	phalanx 2	0.5	\N	28.5	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097749	B19369	Bp	LSMII	susscrd	phalanx 2	0.5	\N	17.1	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097750	B19369	GLpe	LSMII	susscrd	phalanx 2	0.5	\N	26.3	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097756	B19370	Bp	LSMII	susscrd	phalanx 2	0.5	\N	17.1	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097757	B19370	GLpe	LSMII	susscrd	phalanx 2	0.5	\N	26.4	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097763	B19371	Bp	LSMII	susscrd	phalanx 2	0.5	\N	16.3	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097764	B19371	GLpe	LSMII	susscrd	phalanx 2	0.5	\N	27.5	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097770	B19372	Bp	LSMII	susscrd	phalanx 2	0.5	\N	16.5	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097771	B19372	GLpe	LSMII	susscrd	phalanx 2	0.5	\N	26	\N	\N	2024-09-27 14:59:04	robert@localhost
+M097777	B19373	BG	LSMII	susscrd	scapula	0.5	\N	39.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097778	B19373	GLP	LSMII	susscrd	scapula	0.5	\N	26.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097779	B19373	SLC	LSMII	susscrd	scapula	0.5	\N	15.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097782	B19374	Bd	LSMII	susscrd	tibia	0.5	\N	30.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097783	B19374	Dd	LSMII	susscrd	tibia	0.5	\N	25.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097784	B19374	SD	LSMII	susscrd	tibia	0.5	\N	18.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097788	B19375	Bd	LSMII	susscrd	tibia	0.5	\N	32	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097789	B19375	Dd	LSMII	susscrd	tibia	0.5	\N	27.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097790	B19375	SD	LSMII	susscrd	tibia	0.5	\N	19.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097794	B19376	Bd	LSMII	susscrd	tibia	0.5	\N	29.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097795	B19376	Dd	LSMII	susscrd	tibia	0.5	\N	25.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097800	B19377	Bd	LSMII	susscrd	tibia	0.5	\N	29.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097801	B19377	Dd	LSMII	susscrd	tibia	0.5	\N	25	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097806	B19378	BG	LSMII	susscrf	scapula	0.5	\N	43.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097807	B19378	GLP	LSMII	susscrf	scapula	0.5	\N	29.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M097808	B19378	SLC	LSMII	susscrf	scapula	0.5	\N	14.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059848	B13478	Bd	HENE1	bosprim	humerus	0.5	\N	95.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059849	B13478	BT	HENE1	bosprim	humerus	0.5	\N	87.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059854	B13479	Bp	HENE1	bosprim	phalanx 1: anterior	0.5	\N	34.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059861	B13480	Bd	HENE1	bosprim	phalanx 2	0.5	\N	25.9	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059862	B13480	Bp	HENE1	bosprim	phalanx 2	0.5	\N	30.4	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059863	B13480	GLpe	HENE1	bosprim	phalanx 2	0.5	\N	44.3	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059864	B13480	SD	HENE1	bosprim	phalanx 2	0.5	\N	24.2	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059868	B13481	Bd	HENE1	bosprim	phalanx 2	0.5	\N	28.7	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059869	B13481	Bp	HENE1	bosprim	phalanx 2	0.5	\N	34.4	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059870	B13481	GLpe	HENE1	bosprim	phalanx 2	0.5	\N	47.9	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059871	B13481	SD	HENE1	bosprim	phalanx 2	0.5	\N	24.8	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059875	B13482	Bd	HENE1	bosprim	phalanx 2	0.5	\N	40.1	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059876	B13482	Bp	HENE1	bosprim	phalanx 2	0.5	\N	42.6	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059877	B13482	GLpe	HENE1	bosprim	phalanx 2	0.5	\N	53.7	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059878	B13482	SD	HENE1	bosprim	phalanx 2	0.5	\N	34.1	\N	\N	2024-09-27 14:59:04	robert@localhost
+M059882	B13483	Bd	HENE1	bostaur	astragalus	0.5	\N	40.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059883	B13483	GLl	HENE1	bostaur	astragalus	0.5	\N	66.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059884	B13483	GLm	HENE1	bostaur	astragalus	0.5	\N	61.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059885	B13483	Dl	HENE1	bostaur	astragalus	0.5	\N	36.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059891	B13484	Bd	HENE1	bostaur	astragalus	0.5	\N	41.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059892	B13484	GLl	HENE1	bostaur	astragalus	0.5	\N	65.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059893	B13484	GLm	HENE1	bostaur	astragalus	0.5	\N	57.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059894	B13484	Dl	HENE1	bostaur	astragalus	0.5	\N	36.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059895	B13484	Dm	HENE1	bostaur	astragalus	0.5	\N	35.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059900	B13485	Bd	HENE1	bostaur	astragalus	0.5	\N	41.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059901	B13485	GLl	HENE1	bostaur	astragalus	0.5	\N	66.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059902	B13485	GLm	HENE1	bostaur	astragalus	0.5	\N	60.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059903	B13485	Dl	HENE1	bostaur	astragalus	0.5	\N	36.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059904	B13485	Dm	HENE1	bostaur	astragalus	0.5	\N	37.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059909	B13486	Bd	HENE1	bostaur	astragalus	0.5	\N	42.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059910	B13486	GLl	HENE1	bostaur	astragalus	0.5	\N	69.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059911	B13486	GLm	HENE1	bostaur	astragalus	0.5	\N	63.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059912	B13486	Dl	HENE1	bostaur	astragalus	0.5	\N	38.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059913	B13486	Dm	HENE1	bostaur	astragalus	0.5	\N	38	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059918	B13487	Bd	HENE1	bostaur	astragalus	0.5	\N	43.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059919	B13487	GLl	HENE1	bostaur	astragalus	0.5	\N	68.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059920	B13487	GLm	HENE1	bostaur	astragalus	0.5	\N	62.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059921	B13487	Dl	HENE1	bostaur	astragalus	0.5	\N	38.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059922	B13487	Dm	HENE1	bostaur	astragalus	0.5	\N	38.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059927	B13488	Bd	HENE1	bostaur	astragalus	0.5	\N	42.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059928	B13488	GLl	HENE1	bostaur	astragalus	0.5	\N	68.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059929	B13488	GLm	HENE1	bostaur	astragalus	0.5	\N	63.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059930	B13488	Dl	HENE1	bostaur	astragalus	0.5	\N	38.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059931	B13488	Dm	HENE1	bostaur	astragalus	0.5	\N	37.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059936	B13489	Bd	HENE1	bostaur	astragalus	0.5	\N	41.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059937	B13489	GLl	HENE1	bostaur	astragalus	0.5	\N	71.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059938	B13489	GLm	HENE1	bostaur	astragalus	0.5	\N	45.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059939	B13489	Dl	HENE1	bostaur	astragalus	0.5	\N	39.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059940	B13489	Dm	HENE1	bostaur	astragalus	0.5	\N	38.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059945	B13490	Bd	HENE1	bostaur	astragalus	0.5	\N	41	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059946	B13490	GLl	HENE1	bostaur	astragalus	0.5	\N	70.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059947	B13490	GLm	HENE1	bostaur	astragalus	0.5	\N	65.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059948	B13490	Dl	HENE1	bostaur	astragalus	0.5	\N	39.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059949	B13490	Dm	HENE1	bostaur	astragalus	0.5	\N	38.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059954	B13491	GLm	HENE1	bostaur	astragalus	0.5	\N	60.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059955	B13491	Dl	HENE1	bostaur	astragalus	0.5	\N	35.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059956	B13491	Dm	HENE1	bostaur	astragalus	0.5	\N	40.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059963	B13492	Bd	HENE1	bostaur	astragalus	0.5	\N	42.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059964	B13492	GLl	HENE1	bostaur	astragalus	0.5	\N	70.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059965	B13492	Dl	HENE1	bostaur	astragalus	0.5	\N	37.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059972	B13493	Bd	HENE1	bostaur	astragalus	0.5	\N	40.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059973	B13493	GLl	HENE1	bostaur	astragalus	0.5	\N	64.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059974	B13493	GLm	HENE1	bostaur	astragalus	0.5	\N	60.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059975	B13493	Dl	HENE1	bostaur	astragalus	0.5	\N	36.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059976	B13493	Dm	HENE1	bostaur	astragalus	0.5	\N	35.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059981	B13494	Bd	HENE1	bostaur	astragalus	0.5	\N	43.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059982	B13494	GLl	HENE1	bostaur	astragalus	0.5	\N	69.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059983	B13494	GLm	HENE1	bostaur	astragalus	0.5	\N	63.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059984	B13494	Dl	HENE1	bostaur	astragalus	0.5	\N	38.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059985	B13494	Dm	HENE1	bostaur	astragalus	0.5	\N	38.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059990	B13495	GLl	HENE1	bostaur	astragalus	0.5	\N	70	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059991	B13495	Dl	HENE1	bostaur	astragalus	0.5	\N	39.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059992	B13495	Dm	HENE1	bostaur	astragalus	0.5	\N	38.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M059999	B13496	Bd	HENE1	bostaur	astragalus	0.5	\N	41.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060000	B13496	GLl	HENE1	bostaur	astragalus	0.5	\N	66	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060001	B13496	GLm	HENE1	bostaur	astragalus	0.5	\N	61	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060002	B13496	Dl	HENE1	bostaur	astragalus	0.5	\N	38	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060003	B13496	Dm	HENE1	bostaur	astragalus	0.5	\N	37	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060008	B13497	Bd	HENE1	bostaur	astragalus	0.5	\N	42	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060009	B13497	GLl	HENE1	bostaur	astragalus	0.5	\N	66.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060010	B13497	GLm	HENE1	bostaur	astragalus	0.5	\N	62.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060011	B13497	Dl	HENE1	bostaur	astragalus	0.5	\N	37.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060012	B13497	Dm	HENE1	bostaur	astragalus	0.5	\N	37.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060017	B13498	Bd	HENE1	bostaur	astragalus	0.5	\N	45.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060018	B13498	GLl	HENE1	bostaur	astragalus	0.5	\N	68	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060019	B13498	GLm	HENE1	bostaur	astragalus	0.5	\N	62.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060020	B13498	Dl	HENE1	bostaur	astragalus	0.5	\N	39	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060021	B13498	Dm	HENE1	bostaur	astragalus	0.5	\N	39.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060026	B13499	Bd	HENE1	bostaur	astragalus	0.5	\N	42.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060027	B13499	GLl	HENE1	bostaur	astragalus	0.5	\N	69.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060028	B13499	GLm	HENE1	bostaur	astragalus	0.5	\N	63.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060029	B13499	Dl	HENE1	bostaur	astragalus	0.5	\N	38.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060030	B13499	Dm	HENE1	bostaur	astragalus	0.5	\N	38.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060035	B13500	Bd	HENE1	bostaur	astragalus	0.5	\N	43.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060036	B13500	GLl	HENE1	bostaur	astragalus	0.5	\N	67.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060037	B13500	GLm	HENE1	bostaur	astragalus	0.5	\N	61.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060038	B13500	Dl	HENE1	bostaur	astragalus	0.5	\N	37.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060039	B13500	Dm	HENE1	bostaur	astragalus	0.5	\N	38.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060044	B13501	BFcd	HENE1	bostaur	atlas	1	0	84.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060048	B13502	BFcd	HENE1	bostaur	atlas	0.25	\N	99.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060049	B13502	BFcr	HENE1	bostaur	atlas	0.25	\N	112	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060050	B13502	GB	HENE1	bostaur	atlas	0.25	\N	137.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060052	B13503	BFcd	HENE1	bostaur	atlas	0.25	\N	97.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060053	B13503	BFcr	HENE1	bostaur	atlas	0.25	\N	102.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060054	B13503	GB	HENE1	bostaur	atlas	0.25	\N	134	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060056	B13504	GB	HENE1	bostaur	calcaneus	0.5	\N	39.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060057	B13504	GL	HENE1	bostaur	calcaneus	0.5	\N	133.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060058	B13505	GB	HENE1	bostaur	calcaneus	0.5	\N	46.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060059	B13505	GL	HENE1	bostaur	calcaneus	0.5	\N	134.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060060	B13506	GB	HENE1	bostaur	calcaneus	0.5	\N	46	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060061	B13506	GL	HENE1	bostaur	calcaneus	0.5	\N	132.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060062	B13507	GB	HENE1	bostaur	calcaneus	0.5	\N	44.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060063	B13507	GL	HENE1	bostaur	calcaneus	0.5	\N	130.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060064	B13508	GB	HENE1	bostaur	calcaneus	0.5	\N	48.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060065	B13508	GL	HENE1	bostaur	calcaneus	0.5	\N	137.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060066	B13509	GB	HENE1	bostaur	calcaneus	0.5	\N	45.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060067	B13509	GL	HENE1	bostaur	calcaneus	0.5	\N	133.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060068	B13510	GB	HENE1	bostaur	calcaneus	0.5	\N	55.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060070	B13511	DC	HENE1	bostaur	femur	0.5	\N	46.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060075	B13512	Bd	HENE1	bostaur	femur	0.5	\N	90.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060076	B13512	GLC	HENE1	bostaur	femur	0.5	\N	335.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060077	B13512	SD	HENE1	bostaur	femur	0.5	\N	35	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060078	B13512	DC	HENE1	bostaur	femur	0.5	\N	46	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060080	B13513	Bd	HENE1	bostaur	femur	0.5	\N	93.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060081	B13513	GLC	HENE1	bostaur	femur	0.5	\N	338	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060082	B13513	SD	HENE1	bostaur	femur	0.5	\N	33.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060083	B13513	DC	HENE1	bostaur	femur	0.5	\N	45.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060085	B13514	SD	HENE1	bostaur	femur	0.5	\N	36.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060086	B13514	DC	HENE1	bostaur	femur	0.5	\N	45.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060090	B13515	Bd	HENE1	bostaur	femur	0.5	\N	95.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060091	B13515	Bp	HENE1	bostaur	femur	0.5	\N	111.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060092	B13515	GL	HENE1	bostaur	femur	0.5	\N	348.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060093	B13515	GLC	HENE1	bostaur	femur	0.5	\N	325.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060094	B13515	SD	HENE1	bostaur	femur	0.5	\N	33.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060096	B13516	DC	HENE1	bostaur	femur	0.5	\N	44.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060101	B13517	Bd	HENE1	bostaur	femur	0.5	\N	93.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060102	B13517	GL	HENE1	bostaur	femur	0.5	\N	366	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060103	B13517	SD	HENE1	bostaur	femur	0.5	\N	33.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060107	B13518	Bd	HENE1	bostaur	femur	0.5	\N	100	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060112	B13519	Bd	HENE1	bostaur	femur	0.5	\N	98.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060117	B13520	DC	HENE1	bostaur	femur	0.5	\N	45.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060122	B13521	Bd	HENE1	bostaur	humerus	0.5	\N	83.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060123	B13521	BT	HENE1	bostaur	humerus	0.5	\N	75.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060128	B13522	Bd	HENE1	bostaur	humerus	0.5	\N	82.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060129	B13522	BT	HENE1	bostaur	humerus	0.5	\N	77	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060134	B13523	Bd	HENE1	bostaur	humerus	0.5	\N	83	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060135	B13523	BT	HENE1	bostaur	humerus	0.5	\N	75	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060136	B13523	GLC	HENE1	bostaur	humerus	0.5	\N	259.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060137	B13523	SD	HENE1	bostaur	humerus	0.5	\N	33.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060140	B13524	Bd	HENE1	bostaur	humerus	0.5	\N	93.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060141	B13524	BT	HENE1	bostaur	humerus	0.5	\N	82.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060146	B13525	Bd	HENE1	bostaur	humerus	0.5	\N	80.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060147	B13525	BT	HENE1	bostaur	humerus	0.5	\N	76.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060148	B13525	GLC	HENE1	bostaur	humerus	0.5	\N	253.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060149	B13525	SD	HENE1	bostaur	humerus	0.5	\N	32.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060152	B13526	BT	HENE1	bostaur	humerus	0.5	\N	70.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060158	B13527	Bd	HENE1	bostaur	humerus	0.5	\N	79.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060159	B13527	BT	HENE1	bostaur	humerus	0.5	\N	72.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060164	B13528	Bd	HENE1	bostaur	humerus	0.5	\N	77.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060193	B13530	BM3	HENE1	bostaur	mandible	0.5	\N	14.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060194	B13530	LM3	HENE1	bostaur	mandible	0.5	\N	39.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060216	B13531	BM3	HENE1	bostaur	mandible	0.5	\N	12.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060217	B13531	LM3	HENE1	bostaur	mandible	0.5	\N	31.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060239	B13532	BM3	HENE1	bostaur	mandible	0.5	\N	12.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060240	B13532	LM3	HENE1	bostaur	mandible	0.5	\N	32.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060262	B13533	BM3	HENE1	bostaur	mandible	0.5	\N	12.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060263	B13533	LM3	HENE1	bostaur	mandible	0.5	\N	42.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060264	B13533	LMR	HENE1	bostaur	mandible	0.5	\N	99.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060265	B13533	LPR	HENE1	bostaur	mandible	0.5	\N	65.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060266	B13533	LZR	HENE1	bostaur	mandible	0.5	\N	163.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060285	B13534	LPR	HENE1	bostaur	mandible	0.5	\N	56.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060308	B13535	BM3	HENE1	bostaur	mandible	0.5	\N	16.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060309	B13535	LM3	HENE1	bostaur	mandible	0.5	\N	39.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060331	B13536	BM3	HENE1	bostaur	mandible	0.5	\N	14.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060332	B13536	LM3	HENE1	bostaur	mandible	0.5	\N	37.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060333	B13536	LMR	HENE1	bostaur	mandible	0.5	\N	91.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060334	B13536	LPR	HENE1	bostaur	mandible	0.5	\N	51.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060335	B13536	LZR	HENE1	bostaur	mandible	0.5	\N	144.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060354	B13537	BM3	HENE1	bostaur	mandible	0.5	\N	15.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060355	B13537	LM3	HENE1	bostaur	mandible	0.5	\N	38.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060356	B13537	LMR	HENE1	bostaur	mandible	0.5	\N	91.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060357	B13537	LPR	HENE1	bostaur	mandible	0.5	\N	52.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060358	B13537	LZR	HENE1	bostaur	mandible	0.5	\N	144.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060377	B13538	LPR	HENE1	bostaur	mandible	0.5	\N	60.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060400	B13539	BM3	HENE1	bostaur	mandible	0.5	\N	13	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060401	B13539	LM3	HENE1	bostaur	mandible	0.5	\N	34.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060423	B13540	BM3	HENE1	bostaur	mandible	0.5	\N	13.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060424	B13540	LM3	HENE1	bostaur	mandible	0.5	\N	36.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060446	B13541	LPR	HENE1	bostaur	mandible	0.5	\N	55.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060469	B13542	BM3	HENE1	bostaur	mandible	0.5	\N	12.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060470	B13542	LM3	HENE1	bostaur	mandible	0.5	\N	37.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060471	B13542	LMR	HENE1	bostaur	mandible	0.5	\N	94.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060492	B13543	LMR	HENE1	bostaur	mandible	0.5	\N	95.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060515	B13544	LPR	HENE1	bostaur	mandible	0.5	\N	44	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060538	B13545	BM3	HENE1	bostaur	mandible	0.5	\N	14.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060539	B13545	LM3	HENE1	bostaur	mandible	0.5	\N	39.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060561	B13546	BM3	HENE1	bostaur	mandible	0.5	\N	13.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060562	B13546	LM3	HENE1	bostaur	mandible	0.5	\N	36.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060584	B13547	BM3	HENE1	bostaur	mandible	0.5	\N	15.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060585	B13547	LM3	HENE1	bostaur	mandible	0.5	\N	41.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060607	B13548	BM3	HENE1	bostaur	maxilla	0.5	\N	18.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060608	B13548	LM3	HENE1	bostaur	maxilla	0.5	\N	29	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060609	B13548	LMR	HENE1	bostaur	maxilla	0.5	\N	83.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060612	B13549	BM3	HENE1	bostaur	maxilla	0.5	\N	19	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060613	B13549	LM3	HENE1	bostaur	maxilla	0.5	\N	29.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060614	B13549	LMR	HENE1	bostaur	maxilla	0.5	\N	81.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060617	B13550	BM3	HENE1	bostaur	maxilla	0.5	\N	18.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060618	B13550	LM3	HENE1	bostaur	maxilla	0.5	\N	30.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060622	B13551	BM3	HENE1	bostaur	maxilla	0.5	\N	23.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060623	B13551	LM3	HENE1	bostaur	maxilla	0.5	\N	32.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060627	B13552	Bd	HENE1	bostaur	metacarpal	1	0	56.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060628	B13552	Dd	HENE1	bostaur	metacarpal	1	0	36	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060633	B13553	Bd	HENE1	bostaur	metacarpal	1	0	56	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060634	B13553	Bp	HENE1	bostaur	metacarpal	1	0	53.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060635	B13553	GL	HENE1	bostaur	metacarpal	1	0	205.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060636	B13553	Dp	HENE1	bostaur	metacarpal	1	0	28.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060639	B13554	Bd	HENE1	bostaur	metacarpal	1	0	56.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060644	B13555	Bp	HENE1	bostaur	metacarpal	0	0	60.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060645	B13555	Dd	HENE1	bostaur	metacarpal	0	0	30	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060650	B13556	Bp	HENE1	bostaur	metacarpal	0	0	58.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060651	B13556	Dd	HENE1	bostaur	metacarpal	0	0	30	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060656	B13557	Bp	HENE1	bostaur	metacarpal	0.5	\N	63.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060661	B13558	Bp	HENE1	bostaur	metacarpal	0.5	\N	58.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060662	B13558	Dp	HENE1	bostaur	metacarpal	0.5	\N	34.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060667	B13559	Bd	HENE1	bostaur	metacarpal	0.5	\N	56	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060672	B13560	Bd	HENE1	bostaur	metacarpal	0.5	\N	58	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060677	B13561	Bd	HENE1	bostaur	metacarpal	0.5	\N	68	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060682	B13562	Bp	HENE1	bostaur	metatarsal	0	1	48.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060688	B13563	Bd	HENE1	bostaur	metatarsal	0	1	54.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060694	B13564	Bd	HENE1	bostaur	metatarsal	0	1	58.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060695	B13564	Bp	HENE1	bostaur	metatarsal	0	1	48.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060696	B13564	GL	HENE1	bostaur	metatarsal	0	1	231.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060697	B13564	SD	HENE1	bostaur	metatarsal	0	1	26.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060700	B13565	Bp	HENE1	bostaur	metatarsal	1	0	43.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060701	B13565	SD	HENE1	bostaur	metatarsal	1	0	24.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060706	B13566	Bp	HENE1	bostaur	metatarsal	1	0	45.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060712	B13567	Bd	HENE1	bostaur	metatarsal	1	0	52.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060718	B13568	Bp	HENE1	bostaur	metatarsal	1	0	46.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060724	B13569	Bp	HENE1	bostaur	metatarsal	1	0	46.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060730	B13570	Bp	HENE1	bostaur	metatarsal	1	0	46.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060731	B13570	Dp	HENE1	bostaur	metatarsal	1	0	44.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060736	B13571	Bd	HENE1	bostaur	metatarsal	1	0	51.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060737	B13571	SD	HENE1	bostaur	metatarsal	1	0	25.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060742	B13572	Bd	HENE1	bostaur	metatarsal	1	0	51.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060748	B13573	Bp	HENE1	bostaur	metatarsal	0	0	51.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060754	B13574	Bp	HENE1	bostaur	metatarsal	0	0	46.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060760	B13575	Bd	HENE1	bostaur	metatarsal	0.5	\N	55.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060766	B13576	Bd	HENE1	bostaur	metatarsal	0.5	\N	52	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060767	B13576	Bp	HENE1	bostaur	metatarsal	0.5	\N	48.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060768	B13576	GL	HENE1	bostaur	metatarsal	0.5	\N	215.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060769	B13576	SD	HENE1	bostaur	metatarsal	0.5	\N	24.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060772	B13577	Bd	HENE1	bostaur	metatarsal	0.5	\N	51.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060778	B13578	Bp	HENE1	bostaur	metatarsal	0.5	\N	47.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060779	B13578	Dp	HENE1	bostaur	metatarsal	0.5	\N	46.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060784	B13579	Bp	HENE1	bostaur	metatarsal	0.5	\N	44	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060785	B13579	SD	HENE1	bostaur	metatarsal	0.5	\N	24	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060786	B13579	Dp	HENE1	bostaur	metatarsal	0.5	\N	42.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M060790	B13580	GB	HENE1	bostaur	os centrotarsale	0.5	\N	53.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060791	B13581	GB	HENE1	bostaur	os centrotarsale	0.5	\N	53.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060792	B13582	GB	HENE1	bostaur	os centrotarsale	0.5	\N	53.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060793	B13583	GB	HENE1	bostaur	os centrotarsale	0.5	\N	47	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060794	B13584	GB	HENE1	bostaur	os centrotarsale	0.5	\N	52.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060795	B13585	GB	HENE1	bostaur	os centrotarsale	0.5	\N	51.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060796	B13586	GD	HENE1	bostaur	horncore	0	1	70.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060797	B13586	SD	HENE1	bostaur	horncore	0	1	54.2	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060798	B13586	UB	HENE1	bostaur	horncore	0	1	197	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060804	B13587	GD	HENE1	bostaur	horncore	0	1	63.7	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060805	B13587	SD	HENE1	bostaur	horncore	0	1	47.4	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060806	B13587	UB	HENE1	bostaur	horncore	0	1	183	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060812	B13588	GD	HENE1	bostaur	horncore	1	0	61.7	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060813	B13588	SD	HENE1	bostaur	horncore	1	0	44.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060814	B13588	UB	HENE1	bostaur	horncore	1	0	178	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060820	B13589	SD	HENE1	bostaur	horncore	1	0	46.9	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060827	B13590	GD	HENE1	bostaur	horncore	1	0	46.9	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060828	B13590	SD	HENE1	bostaur	horncore	1	0	38.7	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060829	B13590	UB	HENE1	bostaur	horncore	1	0	137	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060835	B13591	GD	HENE1	bostaur	horncore	1	0	57.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060836	B13591	SD	HENE1	bostaur	horncore	1	0	39.7	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060837	B13591	UB	HENE1	bostaur	horncore	1	0	157	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060843	B13592	GD	HENE1	bostaur	horncore	1	0	46.9	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060844	B13592	SD	HENE1	bostaur	horncore	1	0	38.7	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060845	B13592	UB	HENE1	bostaur	horncore	1	0	137	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060851	B13593	GD	HENE1	bostaur	horncore	1	0	61	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060852	B13593	GL	HENE1	bostaur	horncore	1	0	242	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060853	B13593	SD	HENE1	bostaur	horncore	1	0	46.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060854	B13593	UB	HENE1	bostaur	horncore	1	0	179	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060859	B13594	GD	HENE1	bostaur	horncore	0	0	50.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060867	B13595	GD	HENE1	bostaur	horncore	0.25	\N	81.7	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060868	B13595	GL	HENE1	bostaur	horncore	0.25	\N	295	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060869	B13595	SD	HENE1	bostaur	horncore	0.25	\N	65.9	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060870	B13595	UB	HENE1	bostaur	horncore	0.25	\N	241	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060875	B13596	GD	HENE1	bostaur	horncore	0.25	\N	67	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060876	B13596	SD	HENE1	bostaur	horncore	0.25	\N	47.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060877	B13596	UB	HENE1	bostaur	horncore	0.25	\N	180	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M060883	B13597	GL	HENE1	bostaur	patella	0.5	\N	64	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060885	B13598	GB	HENE1	bostaur	patella	0.5	\N	47.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060886	B13598	GL	HENE1	bostaur	patella	0.5	\N	58.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060887	B13599	GB	HENE1	bostaur	patella	0.5	\N	52.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060888	B13599	GL	HENE1	bostaur	patella	0.5	\N	62.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060889	B13600	LA	HENE1	bostaur	pelvis	1	0	78.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060891	B13601	LA	HENE1	bostaur	pelvis	1	0	73.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060893	B13602	LA	HENE1	bostaur	pelvis	0	0	78	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060895	B13603	LA	HENE1	bostaur	pelvis	0	0	73.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060897	B13604	LA	HENE1	bostaur	pelvis	0.5	\N	72.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060899	B13605	LA	HENE1	bostaur	pelvis	0.5	\N	65.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060901	B13606	Bd	HENE1	bostaur	phalanx 1: anterior	0.5	\N	30.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060902	B13606	Bp	HENE1	bostaur	phalanx 1: anterior	0.5	\N	34.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060903	B13606	GLpe	HENE1	bostaur	phalanx 1: anterior	0.5	\N	63.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060904	B13606	SD	HENE1	bostaur	phalanx 1: anterior	0.5	\N	28.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060908	B13607	Bp	HENE1	bostaur	phalanx 1: anterior	0.5	\N	31.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060909	B13607	GLpe	HENE1	bostaur	phalanx 1: anterior	0.5	\N	59.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060910	B13607	SD	HENE1	bostaur	phalanx 1: anterior	0.5	\N	28.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060915	B13608	Bd	HENE1	bostaur	phalanx 1: anterior	0.5	\N	26.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060916	B13608	Bp	HENE1	bostaur	phalanx 1: anterior	0.5	\N	31	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060917	B13608	GLpe	HENE1	bostaur	phalanx 1: anterior	0.5	\N	59	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060918	B13608	SD	HENE1	bostaur	phalanx 1: anterior	0.5	\N	25.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060922	B13609	Bd	HENE1	bostaur	phalanx 1: anterior	0.5	\N	26.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060923	B13609	Bp	HENE1	bostaur	phalanx 1: anterior	0.5	\N	28.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060924	B13609	GLpe	HENE1	bostaur	phalanx 1: anterior	0.5	\N	56.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060925	B13609	SD	HENE1	bostaur	phalanx 1: anterior	0.5	\N	24.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060929	B13610	Bd	HENE1	bostaur	phalanx 1: anterior	0.5	\N	29.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060930	B13610	Bp	HENE1	bostaur	phalanx 1: anterior	0.5	\N	32.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060931	B13610	GLpe	HENE1	bostaur	phalanx 1: anterior	0.5	\N	59.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060932	B13610	SD	HENE1	bostaur	phalanx 1: anterior	0.5	\N	26.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060936	B13611	Bp	HENE1	bostaur	phalanx 1: anterior	0.5	\N	29.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060937	B13611	GLpe	HENE1	bostaur	phalanx 1: anterior	0.5	\N	60.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060938	B13611	SD	HENE1	bostaur	phalanx 1: anterior	0.5	\N	25.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M060943	B13612	Bd	HENE1	bostaur	phalanx 1: posterior	0.5	\N	23	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060944	B13612	GLpe	HENE1	bostaur	phalanx 1: posterior	0.5	\N	55.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060945	B13612	SD	HENE1	bostaur	phalanx 1: posterior	0.5	\N	19.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060951	B13613	Bd	HENE1	bostaur	phalanx 1: posterior	0.5	\N	26.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060952	B13613	Bp	HENE1	bostaur	phalanx 1: posterior	0.5	\N	29.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060953	B13613	GLpe	HENE1	bostaur	phalanx 1: posterior	0.5	\N	56.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060954	B13613	SD	HENE1	bostaur	phalanx 1: posterior	0.5	\N	23.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060959	B13614	Bd	HENE1	bostaur	phalanx 1: posterior	0.5	\N	28.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060960	B13614	Bp	HENE1	bostaur	phalanx 1: posterior	0.5	\N	28.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060961	B13614	GLpe	HENE1	bostaur	phalanx 1: posterior	0.5	\N	59.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060962	B13614	SD	HENE1	bostaur	phalanx 1: posterior	0.5	\N	23.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060967	B13615	Bd	HENE1	bostaur	phalanx 1: posterior	0.5	\N	27.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060968	B13615	Bp	HENE1	bostaur	phalanx 1: posterior	0.5	\N	28.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060969	B13615	GLpe	HENE1	bostaur	phalanx 1: posterior	0.5	\N	61.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060970	B13615	SD	HENE1	bostaur	phalanx 1: posterior	0.5	\N	23.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060975	B13616	Bd	HENE1	bostaur	phalanx 1: posterior	0.5	\N	25.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060976	B13616	Bp	HENE1	bostaur	phalanx 1: posterior	0.5	\N	29.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060977	B13616	GLpe	HENE1	bostaur	phalanx 1: posterior	0.5	\N	56.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060978	B13616	SD	HENE1	bostaur	phalanx 1: posterior	0.5	\N	22.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060983	B13617	Bd	HENE1	bostaur	phalanx 1: posterior	0.5	\N	26.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060984	B13617	Bp	HENE1	bostaur	phalanx 1: posterior	0.5	\N	28.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060985	B13617	GLpe	HENE1	bostaur	phalanx 1: posterior	0.5	\N	62.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060986	B13617	SD	HENE1	bostaur	phalanx 1: posterior	0.5	\N	22.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060991	B13618	Bd	HENE1	bostaur	phalanx 1: posterior	0.5	\N	26.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060992	B13618	Bp	HENE1	bostaur	phalanx 1: posterior	0.5	\N	28.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060993	B13618	GLpe	HENE1	bostaur	phalanx 1: posterior	0.5	\N	63.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060994	B13618	SD	HENE1	bostaur	phalanx 1: posterior	0.5	\N	22.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M060999	B13619	Bd	HENE1	bostaur	phalanx 2	0.5	\N	24.1	\N	\N	2024-09-27 14:59:04	robert@localhost
+M061006	B13620	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	24.3	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061007	B13620	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	28.5	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061008	B13620	GL	HENE1	bostaur	phalanx 2: anterior	0.5	\N	38	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061009	B13620	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	22	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061014	B13621	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	25	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061015	B13621	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	29.8	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061016	B13621	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	23.1	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061022	B13622	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	28.9	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061023	B13622	GL	HENE1	bostaur	phalanx 2: anterior	0.5	\N	40.8	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061024	B13622	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	23.7	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061030	B13623	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	24.9	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061031	B13623	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	27.7	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061032	B13623	GL	HENE1	bostaur	phalanx 2: anterior	0.5	\N	37.5	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061033	B13623	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	22.8	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061038	B13624	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	25.8	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061039	B13624	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	30.3	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061040	B13624	GL	HENE1	bostaur	phalanx 2: anterior	0.5	\N	38.8	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061041	B13624	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	23.5	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061046	B13625	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	23.5	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061047	B13625	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	29	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061048	B13625	GL	HENE1	bostaur	phalanx 2: anterior	0.5	\N	40.2	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061049	B13625	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	21.7	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061054	B13626	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	27.9	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061055	B13626	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	31.3	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061056	B13626	GL	HENE1	bostaur	phalanx 2: anterior	0.5	\N	40.1	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061057	B13626	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	24.9	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061062	B13627	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	22.6	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061063	B13627	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	29.5	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061064	B13627	GL	HENE1	bostaur	phalanx 2: anterior	0.5	\N	39.3	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061065	B13627	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	22.7	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061070	B13628	Bd	HENE1	bostaur	phalanx 2: anterior	0.5	\N	27.4	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061071	B13628	Bp	HENE1	bostaur	phalanx 2: anterior	0.5	\N	31.1	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061072	B13628	SD	HENE1	bostaur	phalanx 2: anterior	0.5	\N	23.6	\N	\N	2024-09-27 15:01:31	robert@localhost
+M061078	B13629	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	23.1	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061079	B13629	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	28	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061080	B13629	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	39.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061081	B13629	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061086	B13630	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	25	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061087	B13630	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	29.2	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061088	B13630	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	40.3	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061089	B13630	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	24.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061094	B13631	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	30.7	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061095	B13631	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	24.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061102	B13632	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	23.8	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061103	B13632	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	29.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061104	B13632	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	39.2	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061105	B13632	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	23.1	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061110	B13633	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	24.6	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061111	B13633	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	29	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061112	B13633	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	40.3	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061113	B13633	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22.6	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061118	B13634	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061119	B13634	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	25.7	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061120	B13634	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	37.8	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061121	B13634	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	20.9	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061126	B13635	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061127	B13635	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	26.1	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061128	B13635	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	37.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061129	B13635	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	20.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061134	B13636	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22.7	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061135	B13636	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	27.6	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061136	B13636	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	38.3	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061137	B13636	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	21.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061142	B13637	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22.7	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061143	B13637	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	26.8	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061144	B13637	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	37.1	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061145	B13637	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	20.6	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061150	B13638	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	23.7	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061151	B13638	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	29	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061152	B13638	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	38.8	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061153	B13638	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	23.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061158	B13639	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22.1	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061159	B13639	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	28.2	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061160	B13639	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	38	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061166	B13640	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	24.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061167	B13640	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	28.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061168	B13640	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	38.6	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061169	B13640	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	22.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061174	B13641	Bd	HENE1	bostaur	phalanx 2: posterior	0.5	\N	23.7	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061175	B13641	Bp	HENE1	bostaur	phalanx 2: posterior	0.5	\N	27.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061176	B13641	GL	HENE1	bostaur	phalanx 2: posterior	0.5	\N	35.4	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061177	B13641	SD	HENE1	bostaur	phalanx 2: posterior	0.5	\N	21.5	\N	\N	2024-09-27 15:02:10	robert@localhost
+M061184	B13642	DLS	HENE1	bostaur	PH3	0.5	\N	67.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061192	B13643	DLS	HENE1	bostaur	PH3	0.5	\N	62.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061198	B13644	BFp	HENE1	bostaur	radius	0.5	\N	76.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061199	B13644	Bp	HENE1	bostaur	radius	0.5	\N	84	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061204	B13645	Bd	HENE1	bostaur	radius	0.5	\N	74.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061205	B13645	BFd	HENE1	bostaur	radius	0.5	\N	67.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061206	B13645	BFp	HENE1	bostaur	radius	0.5	\N	73.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061207	B13645	Bp	HENE1	bostaur	radius	0.5	\N	79.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061208	B13645	GL	HENE1	bostaur	radius	0.5	\N	287.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061209	B13645	SD	HENE1	bostaur	radius	0.5	\N	40	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061210	B13646	Bd	HENE1	bostaur	radius	0.5	\N	63.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061211	B13646	BFd	HENE1	bostaur	radius	0.5	\N	54.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061212	B13646	BFp	HENE1	bostaur	radius	0.5	\N	76	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061213	B13646	Bp	HENE1	bostaur	radius	0.5	\N	83	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061214	B13646	GL	HENE1	bostaur	radius	0.5	\N	288.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061215	B13646	SD	HENE1	bostaur	radius	0.5	\N	36.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061216	B13647	BFp	HENE1	bostaur	radius	0.5	\N	75.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061217	B13647	Bp	HENE1	bostaur	radius	0.5	\N	83.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061222	B13648	BFp	HENE1	bostaur	radius	0.5	\N	77	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061223	B13648	Bp	HENE1	bostaur	radius	0.5	\N	83.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061228	B13649	BFp	HENE1	bostaur	radius	0.5	\N	74	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061229	B13649	Bp	HENE1	bostaur	radius	0.5	\N	80.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061234	B13650	Bd	HENE1	bostaur	radius	0.5	\N	70.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061235	B13650	BFd	HENE1	bostaur	radius	0.5	\N	69.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061236	B13650	BFp	HENE1	bostaur	radius	0.5	\N	80	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061237	B13650	Bp	HENE1	bostaur	radius	0.5	\N	85.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061238	B13650	GL	HENE1	bostaur	radius	0.5	\N	290.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061239	B13650	SD	HENE1	bostaur	radius	0.5	\N	40.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061240	B13651	BFp	HENE1	bostaur	radius	0.5	\N	77	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061241	B13651	Bp	HENE1	bostaur	radius	0.5	\N	83	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061246	B13652	BG	HENE1	bostaur	scapula	0.5	\N	46.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061247	B13652	GLP	HENE1	bostaur	scapula	0.5	\N	68.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061248	B13652	SLC	HENE1	bostaur	scapula	0.5	\N	54	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061249	B13652	LG	HENE1	bostaur	scapula	0.5	\N	56.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061251	B13653	BG	HENE1	bostaur	scapula	0.5	\N	47	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061252	B13653	GLP	HENE1	bostaur	scapula	0.5	\N	69	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061253	B13653	LG	HENE1	bostaur	scapula	0.5	\N	57.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061255	B13654	Bd	HENE1	bostaur	tibia	0.5	\N	60.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061260	B13655	Bd	HENE1	bostaur	tibia	0.5	\N	62.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061265	B13656	Bd	HENE1	bostaur	tibia	0.5	\N	61.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061266	B13656	Bp	HENE1	bostaur	tibia	0.5	\N	96.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061267	B13656	GL	HENE1	bostaur	tibia	0.5	\N	347.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061268	B13656	SD	HENE1	bostaur	tibia	0.5	\N	34.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061270	B13657	Bd	HENE1	bostaur	tibia	0.5	\N	61.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061271	B13657	Bp	HENE1	bostaur	tibia	0.5	\N	97.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061275	B13658	Bd	HENE1	bostaur	tibia	0.5	\N	58.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061276	B13658	Bp	HENE1	bostaur	tibia	0.5	\N	96.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061277	B13658	GL	HENE1	bostaur	tibia	0.5	\N	326.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061278	B13658	SD	HENE1	bostaur	tibia	0.5	\N	34.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061280	B13659	Bd	HENE1	bostaur	tibia	0.5	\N	60.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061285	B13660	Bd	HENE1	bostaur	tibia	0.5	\N	63.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061286	B13660	Bp	HENE1	bostaur	tibia	0.5	\N	98.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061287	B13660	GL	HENE1	bostaur	tibia	0.5	\N	356	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061288	B13660	SD	HENE1	bostaur	tibia	0.5	\N	35.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061290	B13661	Bp	HENE1	bostaur	tibia	0.5	\N	82.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061295	B13662	Bd	HENE1	bostaur	tibia	0.5	\N	57.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061300	B13663	Bp	HENE1	bostaur	tibia	0.5	\N	81.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061305	B13664	BPC	HENE1	bostaur	ulna	0.5	\N	43.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061306	B13664	SDO	HENE1	bostaur	ulna	0.5	\N	50.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061307	B13664	LO	HENE1	bostaur	ulna	0.5	\N	99.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061308	B13664	DPA	HENE1	bostaur	ulna	0.5	\N	64.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061312	B13665	BPC	HENE1	bostaur	ulna	0.5	\N	45.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061313	B13665	LO	HENE1	bostaur	ulna	0.5	\N	93.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061314	B13665	DPA	HENE1	bostaur	ulna	0.5	\N	59.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061318	B13666	BPC	HENE1	bostaur	ulna	0.5	\N	40.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061319	B13666	SDO	HENE1	bostaur	ulna	0.5	\N	54.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061320	B13666	LO	HENE1	bostaur	ulna	0.5	\N	102.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061321	B13666	DPA	HENE1	bostaur	ulna	0.5	\N	64.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061325	B13667	BFcd	HENE1	canifam	axis	0.5	\N	13.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061326	B13667	BFcr	HENE1	canifam	axis	0.5	\N	23.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061327	B13668	Bp	HENE1	canifam	femur	0.5	\N	32	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061328	B13668	DC	HENE1	canifam	femur	0.5	\N	16	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061332	B13669	DC	HENE1	canifam	femur	0.5	\N	13.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061337	B13670	Bd	HENE1	canifam	humerus	0.5	\N	28.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061343	B13671	LPR	HENE1	canifam	mandible	0.5	\N	31.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061366	B13672	LMR	HENE1	canifam	mandible	0.5	\N	30.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061367	B13672	LPR	HENE1	canifam	mandible	0.5	\N	31.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061368	B13672	LZR	HENE1	canifam	mandible	0.5	\N	60.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061389	B13673	LMR	HENE1	canifam	mandible	0.5	\N	31.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061412	B13674	LMR	HENE1	canifam	mandible	0.5	\N	38.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061413	B13674	LPR	HENE1	canifam	mandible	0.5	\N	35.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061414	B13674	LZR	HENE1	canifam	mandible	0.5	\N	72.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061435	B13675	Bd	HENE1	canifam	metatarsal	0.5	\N	6.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061436	B13675	GL	HENE1	canifam	metatarsal	0.5	\N	48.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061441	B13676	BG	HENE1	canifam	scapula	0.5	\N	12.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061442	B13676	SLC	HENE1	canifam	scapula	0.5	\N	17	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061446	B13677	BG	HENE1	canifam	scapula	0.5	\N	14.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061447	B13677	GLP	HENE1	canifam	scapula	0.5	\N	23.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061448	B13677	SLC	HENE1	canifam	scapula	0.5	\N	20.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061449	B13677	LG	HENE1	canifam	scapula	0.5	\N	19.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061451	B13678	Bp	HENE1	canifam	tibia	0.5	\N	27.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061456	B13679	Bd	HENE1	canifam	tibia	0.5	\N	15.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061461	B13680	Bd	HENE1	caprhir	astragalus	0.5	\N	16.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061462	B13680	GL	HENE1	caprhir	astragalus	0.5	\N	25.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061463	B13680	GLm	HENE1	caprhir	astragalus	0.5	\N	25.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061464	B13680	Dl	HENE1	caprhir	astragalus	0.5	\N	14.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061465	B13680	Dm	HENE1	caprhir	astragalus	0.5	\N	15.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061470	B13681	GB	HENE1	caprhir	calcaneus	0.5	\N	16.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061471	B13681	GL	HENE1	caprhir	calcaneus	0.5	\N	53.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061472	B13682	Bd	HENE1	caprhir	femur	0.5	\N	32.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061473	B13682	Bp	HENE1	caprhir	femur	0.5	\N	41.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061474	B13682	GL	HENE1	caprhir	femur	0.5	\N	163.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061475	B13682	GLC	HENE1	caprhir	femur	0.5	\N	162.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061476	B13682	SD	HENE1	caprhir	femur	0.5	\N	13.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061477	B13682	DC	HENE1	caprhir	femur	0.5	\N	19	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061478	B13683	Bp	HENE1	caprhir	metatarsal	0.5	\N	18.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061484	B13684	Bd	HENE1	caprhir	metatarsal	0.5	\N	23.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061490	B13685	BFp	HENE1	caprhir	radius	0.5	\N	23.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061491	B13685	Bp	HENE1	caprhir	radius	0.5	\N	24.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061496	B13686	BFp	HENE1	caprhir	radius	0.5	\N	28.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061497	B13686	Bp	HENE1	caprhir	radius	0.5	\N	30.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061502	B13687	BG	HENE1	caprhir	scapula	0.5	\N	25	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061503	B13687	GLP	HENE1	caprhir	scapula	0.5	\N	34.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061504	B13687	SLC	HENE1	caprhir	scapula	0.5	\N	19.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061505	B13687	LG	HENE1	caprhir	scapula	0.5	\N	28.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061507	B13688	Bp	HENE1	caprhir	tibia	0.5	\N	42.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061512	B13689	Bd	HENE1	caprhir	tibia	0.5	\N	24.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061517	B13690	GLl	HENE1	ovisari	astragalus	0.5	\N	26	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061518	B13690	Dl	HENE1	ovisari	astragalus	0.5	\N	14.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061526	B13691	Bd	HENE1	ovisari	astragalus	0.5	\N	16.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061527	B13691	GLl	HENE1	ovisari	astragalus	0.5	\N	26.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061528	B13691	GLm	HENE1	ovisari	astragalus	0.5	\N	24.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061529	B13691	Dl	HENE1	ovisari	astragalus	0.5	\N	15	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061530	B13691	Dm	HENE1	ovisari	astragalus	0.5	\N	15.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061535	B13692	GLl	HENE1	ovisari	astragalus	0.5	\N	25.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061536	B13692	Dl	HENE1	ovisari	astragalus	0.5	\N	14.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061544	B13693	GLl	HENE1	ovisari	astragalus	0.5	\N	25.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061545	B13693	Dl	HENE1	ovisari	astragalus	0.5	\N	14.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061553	B13694	GLl	HENE1	ovisari	astragalus	0.5	\N	25.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061554	B13694	GLm	HENE1	ovisari	astragalus	0.5	\N	24	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061555	B13694	Dl	HENE1	ovisari	astragalus	0.5	\N	14.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061556	B13694	Dm	HENE1	ovisari	astragalus	0.5	\N	14.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061562	B13695	Bd	HENE1	ovisari	astragalus	0.5	\N	17.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061563	B13695	GLl	HENE1	ovisari	astragalus	0.5	\N	26.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061564	B13695	GLm	HENE1	ovisari	astragalus	0.5	\N	25.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061565	B13695	Dl	HENE1	ovisari	astragalus	0.5	\N	15	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061566	B13695	Dm	HENE1	ovisari	astragalus	0.5	\N	15.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061571	B13696	GLl	HENE1	ovisari	astragalus	0.5	\N	26.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061572	B13696	GLm	HENE1	ovisari	astragalus	0.5	\N	24.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061573	B13696	Dl	HENE1	ovisari	astragalus	0.5	\N	15	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061574	B13696	Dm	HENE1	ovisari	astragalus	0.5	\N	16	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061580	B13697	Bd	HENE1	ovisari	astragalus	0.5	\N	17.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061581	B13697	GLl	HENE1	ovisari	astragalus	0.5	\N	28.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061582	B13697	GLm	HENE1	ovisari	astragalus	0.5	\N	27	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061583	B13697	Dl	HENE1	ovisari	astragalus	0.5	\N	15.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061584	B13697	Dm	HENE1	ovisari	astragalus	0.5	\N	16	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061589	B13698	Bd	HENE1	ovisari	astragalus	0.5	\N	20.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061590	B13698	GLm	HENE1	ovisari	astragalus	0.5	\N	29.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061591	B13698	Dm	HENE1	ovisari	astragalus	0.5	\N	18.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061598	B13699	Bd	HENE1	ovisari	astragalus	0.5	\N	17.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061599	B13699	GLl	HENE1	ovisari	astragalus	0.5	\N	29.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061600	B13699	GLm	HENE1	ovisari	astragalus	0.5	\N	28.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061601	B13699	Dl	HENE1	ovisari	astragalus	0.5	\N	16.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061602	B13699	Dm	HENE1	ovisari	astragalus	0.5	\N	17.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061607	B13700	Bd	HENE1	ovisari	astragalus	0.5	\N	16.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061608	B13700	GLl	HENE1	ovisari	astragalus	0.5	\N	26.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061609	B13700	GLm	HENE1	ovisari	astragalus	0.5	\N	24.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061610	B13700	Dl	HENE1	ovisari	astragalus	0.5	\N	15	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061616	B13701	Bd	HENE1	ovisari	astragalus	0.5	\N	17.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061617	B13701	GLl	HENE1	ovisari	astragalus	0.5	\N	27.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061618	B13701	GLm	HENE1	ovisari	astragalus	0.5	\N	25.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061619	B13701	Dl	HENE1	ovisari	astragalus	0.5	\N	15.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061620	B13701	Dm	HENE1	ovisari	astragalus	0.5	\N	15.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061625	B13702	BFcd	HENE1	ovisari	atlas	0.5	\N	44.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061626	B13702	H	HENE1	ovisari	atlas	0.5	\N	32.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061629	B13703	BFcd	HENE1	ovisari	atlas	0.5	\N	39.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061630	B13703	BFcr	HENE1	ovisari	atlas	0.5	\N	42.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061631	B13703	H	HENE1	ovisari	atlas	0.5	\N	31.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061633	B13704	BFcd	HENE1	ovisari	atlas	0.5	\N	41.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061634	B13704	BFcr	HENE1	ovisari	atlas	0.5	\N	45.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061635	B13704	H	HENE1	ovisari	atlas	0.5	\N	33.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061637	B13705	GB	HENE1	ovisari	calcaneus	0.5	\N	15.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061638	B13705	GL	HENE1	ovisari	calcaneus	0.5	\N	52.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061639	B13706	GB	HENE1	ovisari	calcaneus	0.5	\N	16.9	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061640	B13706	GL	HENE1	ovisari	calcaneus	0.5	\N	53.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061641	B13707	GB	HENE1	ovisari	calcaneus	0.5	\N	18.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061642	B13707	GL	HENE1	ovisari	calcaneus	0.5	\N	56.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061643	B13708	Bp	HENE1	ovisari	femur	0.5	\N	40.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061644	B13708	DC	HENE1	ovisari	femur	0.5	\N	19.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061648	B13709	Bp	HENE1	ovisari	femur	0.5	\N	41.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061649	B13709	DC	HENE1	ovisari	femur	0.5	\N	19	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061653	B13710	Bd	HENE1	ovisari	femur	0.5	\N	33.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061658	B13711	Bd	HENE1	ovisari	femur	0.5	\N	33.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061663	B13712	Bp	HENE1	ovisari	femur	0.5	\N	40.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061664	B13712	DC	HENE1	ovisari	femur	0.5	\N	17.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061668	B13713	Bd	HENE1	ovisari	femur	0.5	\N	33.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061669	B13713	Bp	HENE1	ovisari	femur	0.5	\N	40.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061670	B13713	GLC	HENE1	ovisari	femur	0.5	\N	165.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061671	B13713	SD	HENE1	ovisari	femur	0.5	\N	14	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061672	B13713	DC	HENE1	ovisari	femur	0.5	\N	19.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061673	B13714	Bd	HENE1	ovisari	femur	0.5	\N	35.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061674	B13714	GL	HENE1	ovisari	femur	0.5	\N	166.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061675	B13714	SD	HENE1	ovisari	femur	0.5	\N	12.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061679	B13715	DC	HENE1	ovisari	femur	0.5	\N	18.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061684	B13716	Bd	HENE1	ovisari	femur	0.5	\N	35	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061689	B13717	Bp	HENE1	ovisari	femur	0.5	\N	43.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061690	B13717	SD	HENE1	ovisari	femur	0.5	\N	15.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061691	B13717	DC	HENE1	ovisari	femur	0.5	\N	20.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061694	B13718	Bp	HENE1	ovisari	femur	0.5	\N	39.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061695	B13718	SD	HENE1	ovisari	femur	0.5	\N	14.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061696	B13718	DC	HENE1	ovisari	femur	0.5	\N	19.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061699	B13719	Bd	HENE1	ovisari	femur	0.5	\N	33.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061700	B13719	SD	HENE1	ovisari	femur	0.5	\N	12.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061704	B13720	Bd	HENE1	ovisari	femur	0.5	\N	32.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061709	B13721	DC	HENE1	ovisari	femur	0.5	\N	19.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061714	B13722	Bd	HENE1	ovisari	femur	0.5	\N	37.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061719	B13723	Bd	HENE1	ovisari	humerus	0.5	\N	27.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061720	B13723	BT	HENE1	ovisari	humerus	0.5	\N	25.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061725	B13724	Bd	HENE1	ovisari	humerus	0.5	\N	29.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061726	B13724	BT	HENE1	ovisari	humerus	0.5	\N	27.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061731	B13725	Bd	HENE1	ovisari	humerus	0.5	\N	29.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061732	B13725	BT	HENE1	ovisari	humerus	0.5	\N	28.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061737	B13726	Bd	HENE1	ovisari	humerus	0.5	\N	25.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061743	B13727	Bd	HENE1	ovisari	humerus	0.5	\N	26.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061744	B13727	BT	HENE1	ovisari	humerus	0.5	\N	25.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061745	B13727	GLC	HENE1	ovisari	humerus	0.5	\N	125.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061746	B13727	SD	HENE1	ovisari	humerus	0.5	\N	12.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061749	B13728	Bd	HENE1	ovisari	humerus	0.5	\N	27	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061750	B13728	BT	HENE1	ovisari	humerus	0.5	\N	25.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061751	B13728	SD	HENE1	ovisari	humerus	0.5	\N	13.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061755	B13729	BM3	HENE1	ovisari	mandible	0.5	\N	8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061757	B13729	LMR	HENE1	ovisari	mandible	0.5	\N	49.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061758	B13729	LPR	HENE1	ovisari	mandible	0.5	\N	24.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061759	B13729	LZR	HENE1	ovisari	mandible	0.5	\N	75.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061779	B13730	BM3	HENE1	ovisari	maxilla	0.5	\N	8.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061780	B13730	LM3	HENE1	ovisari	maxilla	0.5	\N	15.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061784	B13731	BM3	HENE1	ovisari	maxilla	0.5	\N	9.3	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061785	B13731	LM3	HENE1	ovisari	maxilla	0.5	\N	16.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061789	B13732	BM3	HENE1	ovisari	maxilla	0.5	\N	11.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061790	B13732	LM3	HENE1	ovisari	maxilla	0.5	\N	16.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061794	B13733	BM3	HENE1	ovisari	maxilla	0.5	\N	11.1	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061795	B13733	LM3	HENE1	ovisari	maxilla	0.5	\N	16.7	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061799	B13734	Bd	HENE1	ovisari	metacarpal	0.5	\N	23	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061804	B13735	Bd	HENE1	ovisari	metacarpal	0.5	\N	24.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061805	B13735	Bp	HENE1	ovisari	metacarpal	0.5	\N	20.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061806	B13735	GL	HENE1	ovisari	metacarpal	0.5	\N	118.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061807	B13735	SD	HENE1	ovisari	metacarpal	0.5	\N	11.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061810	B13736	Bd	HENE1	ovisari	metacarpal	0.5	\N	24.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061815	B13737	Bp	HENE1	ovisari	metacarpal	0.5	\N	21.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061820	B13738	Bp	HENE1	ovisari	metacarpal	0.5	\N	21.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061825	B13739	Bd	HENE1	ovisari	metacarpal	0.5	\N	22.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061830	B13740	Bd	HENE1	ovisari	metatarsal	0.5	\N	22.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061831	B13740	Bp	HENE1	ovisari	metatarsal	0.5	\N	18.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061832	B13740	GL	HENE1	ovisari	metatarsal	0.5	\N	132.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061833	B13740	SD	HENE1	ovisari	metatarsal	0.5	\N	10.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061836	B13741	Bp	HENE1	ovisari	metatarsal	0.5	\N	17.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061842	B13742	Bd	HENE1	ovisari	metatarsal	0.5	\N	22.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061843	B13742	Bp	HENE1	ovisari	metatarsal	0.5	\N	19.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061844	B13742	GL	HENE1	ovisari	metatarsal	0.5	\N	133.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061845	B13742	SD	HENE1	ovisari	metatarsal	0.5	\N	10.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061848	B13743	Bd	HENE1	ovisari	metatarsal	0.5	\N	20.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061849	B13743	Bp	HENE1	ovisari	metatarsal	0.5	\N	16.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061850	B13743	GL	HENE1	ovisari	metatarsal	0.5	\N	125.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061851	B13743	SD	HENE1	ovisari	metatarsal	0.5	\N	9.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061854	B13744	Bd	HENE1	ovisari	metatarsal	0.5	\N	23	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061855	B13744	Bp	HENE1	ovisari	metatarsal	0.5	\N	18.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061856	B13744	GL	HENE1	ovisari	metatarsal	0.5	\N	135.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061857	B13744	SD	HENE1	ovisari	metatarsal	0.5	\N	9.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061860	B13745	Bd	HENE1	ovisari	metatarsal	0.5	\N	21.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061861	B13745	SD	HENE1	ovisari	metatarsal	0.5	\N	9.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061866	B13746	Bd	HENE1	ovisari	metatarsal	0.5	\N	22.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061867	B13746	Bp	HENE1	ovisari	metatarsal	0.5	\N	18.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061868	B13746	GL	HENE1	ovisari	metatarsal	0.5	\N	135.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061869	B13746	SD	HENE1	ovisari	metatarsal	0.5	\N	9.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M061872	B13747	GB	HENE1	ovisari	os centrotarsale	0.5	\N	20.4	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061873	B13748	GB	HENE1	ovisari	os centrotarsale	0.5	\N	21.8	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061874	B13749	GB	HENE1	ovisari	os centrotarsale	0.5	\N	19.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061875	B13750	GD	HENE1	ovisari	horncore	1	0	26.8	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061876	B13750	GL	HENE1	ovisari	horncore	1	0	64	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061883	B13751	GD	HENE1	ovisari	horncore	1	0	26.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061884	B13751	GL	HENE1	ovisari	horncore	1	0	64	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061885	B13751	SD	HENE1	ovisari	horncore	1	0	19.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061886	B13751	UB	HENE1	ovisari	horncore	1	0	78	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061891	B13752	GD	HENE1	ovisari	horncore	1	0	29.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061892	B13752	SD	HENE1	ovisari	horncore	1	0	18.1	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061893	B13752	UB	HENE1	ovisari	horncore	1	0	78	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061899	B13753	GD	HENE1	ovisari	horncore	1	0	30.1	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061900	B13753	SD	HENE1	ovisari	horncore	1	0	18.1	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061901	B13753	UB	HENE1	ovisari	horncore	1	0	80	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061907	B13754	GD	HENE1	ovisari	horncore	1	0	33.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061908	B13754	SD	HENE1	ovisari	horncore	1	0	19.8	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061909	B13754	UB	HENE1	ovisari	horncore	1	0	93	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061915	B13755	GD	HENE1	ovisari	horncore	1	0	32.6	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061916	B13755	SD	HENE1	ovisari	horncore	1	0	19	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061917	B13755	UB	HENE1	ovisari	horncore	1	0	85	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061923	B13756	GD	HENE1	ovisari	horncore	1	0	29.2	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061924	B13756	GL	HENE1	ovisari	horncore	1	0	63	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061925	B13756	SD	HENE1	ovisari	horncore	1	0	17.1	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061926	B13756	UB	HENE1	ovisari	horncore	1	0	79	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061931	B13757	GD	HENE1	ovisari	horncore	1	0	33.2	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061932	B13757	GL	HENE1	ovisari	horncore	1	0	83	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061933	B13757	SD	HENE1	ovisari	horncore	1	0	21.1	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061934	B13757	UB	HENE1	ovisari	horncore	1	0	93	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061939	B13758	SD	HENE1	ovisari	horncore	0	0	17.1	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061946	B13759	GD	HENE1	ovisari	horncore	0	0	40.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061947	B13759	SD	HENE1	ovisari	horncore	0	0	28.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061948	B13759	UB	HENE1	ovisari	horncore	0	0	117	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061954	B13760	GD	HENE1	ovisari	horncore	0	0	53	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061955	B13760	SD	HENE1	ovisari	horncore	0	0	39.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061956	B13760	UB	HENE1	ovisari	horncore	0	0	162	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061962	B13761	GD	HENE1	ovisari	horncore	0	0	55.1	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061963	B13761	SD	HENE1	ovisari	horncore	0	0	36.5	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061964	B13761	UB	HENE1	ovisari	horncore	0	0	144	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061970	B13762	GD	HENE1	ovisari	horncore	0	0	38.3	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061971	B13762	SD	HENE1	ovisari	horncore	0	0	25.7	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061972	B13762	UB	HENE1	ovisari	horncore	0	0	111	\N	\N	2022-07-08 09:35:49	jelena@localhost
+M061978	B13763	GB	HENE1	ovisari	patella	0.5	\N	16.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M061980	B13764	LA	HENE1	ovisari	pelvis	1	0	24.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061982	B13765	LA	HENE1	ovisari	pelvis	1	0	26.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061984	B13766	LA	HENE1	ovisari	pelvis	0	0	25.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061986	B13767	LA	HENE1	ovisari	pelvis	0	0	25.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061988	B13768	LA	HENE1	ovisari	pelvis	0	0	26	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061990	B13769	LA	HENE1	ovisari	pelvis	0.5	\N	25.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061991	B13769	LAR	HENE1	ovisari	pelvis	0.5	\N	23.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061992	B13770	LA	HENE1	ovisari	pelvis	0.5	\N	25	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M061994	B13771	Bp	HENE1	ovisari	phalanx 1	0.5	\N	12	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M061995	B13771	SD	HENE1	ovisari	phalanx 1	0.5	\N	8.4	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062001	B13772	Bd	HENE1	ovisari	phalanx 1	0.5	\N	10.8	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062002	B13772	Bp	HENE1	ovisari	phalanx 1	0.5	\N	11.8	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062003	B13772	GL	HENE1	ovisari	phalanx 1	0.5	\N	33.4	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062004	B13772	SD	HENE1	ovisari	phalanx 1	0.5	\N	8.7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062008	B13773	Bd	HENE1	ovisari	phalanx 1	0.5	\N	8.3	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062010	B13773	Bp	HENE1	ovisari	phalanx 1	0.5	\N	11.3	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062011	B13773	GL	HENE1	ovisari	phalanx 1	0.5	\N	31.3	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062016	B13774	Bd	HENE1	ovisari	phalanx 1	0.5	\N	8.9	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062018	B13774	Bp	HENE1	ovisari	phalanx 1	0.5	\N	11.3	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062019	B13774	GL	HENE1	ovisari	phalanx 1	0.5	\N	30.8	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062025	B13775	Bp	HENE1	ovisari	phalanx 1	0.5	\N	10.3	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062026	B13775	GL	HENE1	ovisari	phalanx 1	0.5	\N	31.3	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062032	B13776	Bd	HENE1	ovisari	phalanx 1	0.5	\N	9.3	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062033	B13776	Bp	HENE1	ovisari	phalanx 1	0.5	\N	9.9	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062034	B13776	GL	HENE1	ovisari	phalanx 1	0.5	\N	31.5	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062035	B13776	SD	HENE1	ovisari	phalanx 1	0.5	\N	7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062039	B13777	Bd	HENE1	ovisari	phalanx 1	0.5	\N	9.7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062040	B13777	Bp	HENE1	ovisari	phalanx 1	0.5	\N	10.2	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062041	B13777	GL	HENE1	ovisari	phalanx 1	0.5	\N	31	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062042	B13777	SD	HENE1	ovisari	phalanx 1	0.5	\N	7.4	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062046	B13778	Bp	HENE1	ovisari	phalanx 1	0.5	\N	11.6	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062047	B13778	GL	HENE1	ovisari	phalanx 1	0.5	\N	33	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062048	B13778	SD	HENE1	ovisari	phalanx 1	0.5	\N	7.8	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062053	B13779	Bd	HENE1	ovisari	phalanx 1	0.5	\N	10.6	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062054	B13779	Bp	HENE1	ovisari	phalanx 1	0.5	\N	10.7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062055	B13779	GL	HENE1	ovisari	phalanx 1	0.5	\N	32.2	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062056	B13779	SD	HENE1	ovisari	phalanx 1	0.5	\N	8.7	\N	\N	2022-07-08 09:38:51	jelena@localhost
+M062060	B13780	Bd	HENE1	ovisari	phalanx 2	0.5	\N	7.8	\N	\N	2024-09-27 14:59:04	robert@localhost
+M062062	B13780	SD	HENE1	ovisari	phalanx 2	0.5	\N	6.9	\N	\N	2024-09-27 14:59:04	robert@localhost
+M062067	B13781	Bp	HENE1	ovisari	radius	0.5	\N	27.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062073	B13782	Bd	HENE1	ovisari	radius	0.5	\N	25.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062074	B13782	BFd	HENE1	ovisari	radius	0.5	\N	22.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062075	B13782	Bp	HENE1	ovisari	radius	0.5	\N	26.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062076	B13782	GL	HENE1	ovisari	radius	0.5	\N	147.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062077	B13782	SD	HENE1	ovisari	radius	0.5	\N	14.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062079	B13783	Bd	HENE1	ovisari	radius	0.5	\N	26.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062080	B13783	BFd	HENE1	ovisari	radius	0.5	\N	22.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062081	B13783	BFp	HENE1	ovisari	radius	0.5	\N	26	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062082	B13783	Bp	HENE1	ovisari	radius	0.5	\N	27.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062083	B13783	GL	HENE1	ovisari	radius	0.5	\N	143.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062084	B13783	SD	HENE1	ovisari	radius	0.5	\N	14.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062085	B13784	BFp	HENE1	ovisari	radius	0.5	\N	25.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062086	B13784	Bp	HENE1	ovisari	radius	0.5	\N	27	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062091	B13785	Bp	HENE1	ovisari	radius	0.5	\N	27	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062097	B13786	BFp	HENE1	ovisari	radius	0.5	\N	27.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062098	B13786	Bp	HENE1	ovisari	radius	0.5	\N	28.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062103	B13787	BFd	HENE1	ovisari	radius	0.5	\N	22.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062109	B13788	BFp	HENE1	ovisari	radius	0.5	\N	25.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062110	B13788	Bp	HENE1	ovisari	radius	0.5	\N	27.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062115	B13789	BFp	HENE1	ovisari	radius	0.5	\N	25.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062116	B13789	Bp	HENE1	ovisari	radius	0.5	\N	27.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062121	B13790	SD	HENE1	ovisari	radius	0.5	\N	12.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062127	B13791	Bd	HENE1	ovisari	radius	0.5	\N	25.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062128	B13791	BFd	HENE1	ovisari	radius	0.5	\N	20.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062133	B13792	BFd	HENE1	ovisari	radius	0.5	\N	21.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062134	B13792	BFp	HENE1	ovisari	radius	0.5	\N	27.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062135	B13792	Bp	HENE1	ovisari	radius	0.5	\N	29.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062136	B13792	GL	HENE1	ovisari	radius	0.5	\N	154	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062137	B13792	SD	HENE1	ovisari	radius	0.5	\N	15.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062139	B13793	BFd	HENE1	ovisari	radius	0.5	\N	21	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062140	B13793	GL	HENE1	ovisari	radius	0.5	\N	136.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062141	B13793	SD	HENE1	ovisari	radius	0.5	\N	13.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062145	B13794	Bd	HENE1	ovisari	radius	0.5	\N	25.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062146	B13794	BFd	HENE1	ovisari	radius	0.5	\N	20.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062151	B13795	BFp	HENE1	ovisari	radius	0.5	\N	27.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062152	B13795	Bp	HENE1	ovisari	radius	0.5	\N	28.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062157	B13796	BFp	HENE1	ovisari	radius	0.5	\N	25.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062158	B13796	Bp	HENE1	ovisari	radius	0.5	\N	27.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062159	B13796	SD	HENE1	ovisari	radius	0.5	\N	16.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062163	B13797	BFd	HENE1	ovisari	radius	0.5	\N	19.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062169	B13798	Bd	HENE1	ovisari	radius	0.5	\N	26.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062170	B13798	BFd	HENE1	ovisari	radius	0.5	\N	22.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062171	B13798	BFp	HENE1	ovisari	radius	0.5	\N	26.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062172	B13798	Bp	HENE1	ovisari	radius	0.5	\N	27.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062173	B13798	GL	HENE1	ovisari	radius	0.5	\N	141.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062174	B13798	SD	HENE1	ovisari	radius	0.5	\N	14.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062175	B13799	BFp	HENE1	ovisari	radius	0.5	\N	24.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062176	B13799	Bp	HENE1	ovisari	radius	0.5	\N	26	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062181	B13800	Bd	HENE1	ovisari	radius	0.5	\N	27	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062182	B13800	BFd	HENE1	ovisari	radius	0.5	\N	22.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062183	B13800	BFp	HENE1	ovisari	radius	0.5	\N	23.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062184	B13800	Bp	HENE1	ovisari	radius	0.5	\N	29.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062185	B13800	GL	HENE1	ovisari	radius	0.5	\N	149	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062186	B13800	SD	HENE1	ovisari	radius	0.5	\N	14.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062187	B13801	Bd	HENE1	ovisari	radius	0.5	\N	25.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062188	B13801	BFd	HENE1	ovisari	radius	0.5	\N	22.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062189	B13801	BFp	HENE1	ovisari	radius	0.5	\N	26.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062190	B13801	Bp	HENE1	ovisari	radius	0.5	\N	27.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062192	B13801	SD	HENE1	ovisari	radius	0.5	\N	14.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062194	B13802	BG	HENE1	ovisari	scapula	0.5	\N	17.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062195	B13802	GLP	HENE1	ovisari	scapula	0.5	\N	29.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062196	B13802	SLC	HENE1	ovisari	scapula	0.5	\N	18.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062197	B13802	LG	HENE1	ovisari	scapula	0.5	\N	23	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062199	B13803	BG	HENE1	ovisari	scapula	0.5	\N	17.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062200	B13803	GLP	HENE1	ovisari	scapula	0.5	\N	28	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062201	B13803	SLC	HENE1	ovisari	scapula	0.5	\N	17	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062202	B13803	LG	HENE1	ovisari	scapula	0.5	\N	23.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062204	B13804	BG	HENE1	ovisari	scapula	0.5	\N	18.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062205	B13804	GLP	HENE1	ovisari	scapula	0.5	\N	29.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062206	B13804	SLC	HENE1	ovisari	scapula	0.5	\N	17.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062207	B13804	LG	HENE1	ovisari	scapula	0.5	\N	22.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062209	B13805	BG	HENE1	ovisari	scapula	0.5	\N	17.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062210	B13805	GLP	HENE1	ovisari	scapula	0.5	\N	31.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062211	B13805	SLC	HENE1	ovisari	scapula	0.5	\N	18.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062212	B13805	LG	HENE1	ovisari	scapula	0.5	\N	23.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062214	B13806	BG	HENE1	ovisari	scapula	0.5	\N	16.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062215	B13806	SLC	HENE1	ovisari	scapula	0.5	\N	16.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062219	B13807	BG	HENE1	ovisari	scapula	0.5	\N	17.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062220	B13807	GLP	HENE1	ovisari	scapula	0.5	\N	30.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062221	B13807	SLC	HENE1	ovisari	scapula	0.5	\N	18.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062222	B13807	LG	HENE1	ovisari	scapula	0.5	\N	24.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062224	B13808	BG	HENE1	ovisari	scapula	0.5	\N	17.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062225	B13808	GLP	HENE1	ovisari	scapula	0.5	\N	29.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062226	B13808	SLC	HENE1	ovisari	scapula	0.5	\N	18.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062227	B13808	LG	HENE1	ovisari	scapula	0.5	\N	23.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062229	B13809	BG	HENE1	ovisari	scapula	0.5	\N	19.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062230	B13809	GLP	HENE1	ovisari	scapula	0.5	\N	30.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062231	B13809	SLC	HENE1	ovisari	scapula	0.5	\N	18.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062232	B13809	LG	HENE1	ovisari	scapula	0.5	\N	23.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062234	B13810	BG	HENE1	ovisari	scapula	0.5	\N	18.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062235	B13810	GLP	HENE1	ovisari	scapula	0.5	\N	29	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062236	B13810	SLC	HENE1	ovisari	scapula	0.5	\N	18	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062237	B13810	LG	HENE1	ovisari	scapula	0.5	\N	23	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062239	B13811	BG	HENE1	ovisari	scapula	0.5	\N	18.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062240	B13811	GLP	HENE1	ovisari	scapula	0.5	\N	27.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062241	B13811	SLC	HENE1	ovisari	scapula	0.5	\N	15.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062242	B13811	LG	HENE1	ovisari	scapula	0.5	\N	22.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062244	B13812	BG	HENE1	ovisari	scapula	0.5	\N	18	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062245	B13812	GLP	HENE1	ovisari	scapula	0.5	\N	28.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062246	B13812	LG	HENE1	ovisari	scapula	0.5	\N	24.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062248	B13813	BG	HENE1	ovisari	scapula	0.5	\N	18.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062249	B13813	SLC	HENE1	ovisari	scapula	0.5	\N	18.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062253	B13814	BG	HENE1	ovisari	scapula	0.5	\N	18.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062254	B13814	GLP	HENE1	ovisari	scapula	0.5	\N	31	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062255	B13814	SLC	HENE1	ovisari	scapula	0.5	\N	19.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062256	B13814	LG	HENE1	ovisari	scapula	0.5	\N	24.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062258	B13815	BG	HENE1	ovisari	scapula	0.5	\N	16.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062259	B13815	GLP	HENE1	ovisari	scapula	0.5	\N	28.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062260	B13815	SLC	HENE1	ovisari	scapula	0.5	\N	18.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062261	B13815	LG	HENE1	ovisari	scapula	0.5	\N	22.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062263	B13816	BG	HENE1	ovisari	scapula	0.5	\N	16.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062264	B13816	GLP	HENE1	ovisari	scapula	0.5	\N	28.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062265	B13816	SLC	HENE1	ovisari	scapula	0.5	\N	18.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062266	B13816	LG	HENE1	ovisari	scapula	0.5	\N	22.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062268	B13817	BG	HENE1	ovisari	scapula	0.5	\N	18.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062269	B13817	GLP	HENE1	ovisari	scapula	0.5	\N	30.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062270	B13817	SLC	HENE1	ovisari	scapula	0.5	\N	18.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062271	B13817	LG	HENE1	ovisari	scapula	0.5	\N	24.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062273	B13818	BG	HENE1	ovisari	scapula	0.5	\N	18.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062274	B13818	GLP	HENE1	ovisari	scapula	0.5	\N	30.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062275	B13818	SLC	HENE1	ovisari	scapula	0.5	\N	18.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062276	B13818	LG	HENE1	ovisari	scapula	0.5	\N	23.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062278	B13819	BG	HENE1	ovisari	scapula	0.5	\N	19.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062279	B13819	SLC	HENE1	ovisari	scapula	0.5	\N	19.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062280	B13819	LG	HENE1	ovisari	scapula	0.5	\N	26.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062283	B13820	SLC	HENE1	ovisari	scapula	0.5	\N	19.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062288	B13821	BG	HENE1	ovisari	scapula	0.5	\N	16.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062289	B13821	GLP	HENE1	ovisari	scapula	0.5	\N	27.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062290	B13821	SLC	HENE1	ovisari	scapula	0.5	\N	14.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062291	B13821	LG	HENE1	ovisari	scapula	0.5	\N	22.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062293	B13822	Bd	HENE1	ovisari	tibia	0.5	\N	24	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062298	B13823	Bd	HENE1	ovisari	tibia	0.5	\N	23.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062299	B13823	Bp	HENE1	ovisari	tibia	0.5	\N	36.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062300	B13823	GL	HENE1	ovisari	tibia	0.5	\N	195.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062301	B13823	SD	HENE1	ovisari	tibia	0.5	\N	13	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062303	B13824	Bd	HENE1	ovisari	tibia	0.5	\N	21.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062308	B13825	Bp	HENE1	ovisari	tibia	0.5	\N	38.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062313	B13826	Bd	HENE1	ovisari	tibia	0.5	\N	23.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062318	B13827	Bp	HENE1	ovisari	tibia	0.5	\N	33.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062323	B13828	Bd	HENE1	ovisari	tibia	0.5	\N	24.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062324	B13828	Bp	HENE1	ovisari	tibia	0.5	\N	39.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062325	B13828	GL	HENE1	ovisari	tibia	0.5	\N	215.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062326	B13828	SD	HENE1	ovisari	tibia	0.5	\N	13.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062328	B13829	Bd	HENE1	ovisari	tibia	0.5	\N	24.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062329	B13829	SD	HENE1	ovisari	tibia	0.5	\N	12	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062333	B13830	Bp	HENE1	ovisari	tibia	0.5	\N	35.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062338	B13831	Bd	HENE1	ovisari	tibia	0.5	\N	23.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062343	B13832	Bd	HENE1	ovisari	tibia	0.5	\N	24.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062344	B13832	SD	HENE1	ovisari	tibia	0.5	\N	12.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062348	B13833	Bd	HENE1	ovisari	tibia	0.5	\N	22.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062353	B13834	Bd	HENE1	ovisari	tibia	0.5	\N	23.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062354	B13834	Bp	HENE1	ovisari	tibia	0.5	\N	38.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062355	B13834	GL	HENE1	ovisari	tibia	0.5	\N	197.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062356	B13834	SD	HENE1	ovisari	tibia	0.5	\N	12.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062358	B13835	Bd	HENE1	ovisari	tibia	0.5	\N	23.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062359	B13835	Bp	HENE1	ovisari	tibia	0.5	\N	38	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062360	B13835	GL	HENE1	ovisari	tibia	0.5	\N	197.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062361	B13835	SD	HENE1	ovisari	tibia	0.5	\N	12.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062363	B13836	Bp	HENE1	ovisari	tibia	0.5	\N	36.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062368	B13837	Bd	HENE1	ovisari	tibia	0.5	\N	24.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062373	B13838	Bp	HENE1	ovisari	tibia	0.5	\N	37	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062378	B13839	Bd	HENE1	ovisari	tibia	0.5	\N	23	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062379	B13839	SD	HENE1	ovisari	tibia	0.5	\N	12.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062383	B13840	BPC	HENE1	ovisari	ulna	0.5	\N	13.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062384	B13840	SDO	HENE1	ovisari	ulna	0.5	\N	20	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062385	B13840	LO	HENE1	ovisari	ulna	0.5	\N	36.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062386	B13840	DPA	HENE1	ovisari	ulna	0.5	\N	21.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062390	B13841	BPC	HENE1	ovisari	ulna	0.5	\N	15.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062391	B13841	SDO	HENE1	ovisari	ulna	0.5	\N	19.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062392	B13841	LO	HENE1	ovisari	ulna	0.5	\N	35.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062393	B13841	DPA	HENE1	ovisari	ulna	0.5	\N	23.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062397	B13842	BPC	HENE1	ovisari	ulna	0.5	\N	17.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062398	B13842	LO	HENE1	ovisari	ulna	0.5	\N	38.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062399	B13842	DPA	HENE1	ovisari	ulna	0.5	\N	24.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062403	B13843	BPC	HENE1	ovisari	ulna	0.5	\N	15.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062404	B13843	SDO	HENE1	ovisari	ulna	0.5	\N	20.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062405	B13843	LO	HENE1	ovisari	ulna	0.5	\N	35.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062406	B13843	DPA	HENE1	ovisari	ulna	0.5	\N	23.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062410	B13844	BPC	HENE1	ovisari	ulna	0.5	\N	15.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062411	B13844	SDO	HENE1	ovisari	ulna	0.5	\N	18.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062412	B13844	LO	HENE1	ovisari	ulna	0.5	\N	36.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062413	B13844	DPA	HENE1	ovisari	ulna	0.5	\N	23.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062417	B13845	BPC	HENE1	ovisari	ulna	0.5	\N	13.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062418	B13845	SDO	HENE1	ovisari	ulna	0.5	\N	19.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062419	B13845	LO	HENE1	ovisari	ulna	0.5	\N	36.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062420	B13845	DPA	HENE1	ovisari	ulna	0.5	\N	23.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062424	B13846	BPC	HENE1	ovisari	ulna	0.5	\N	16.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062425	B13846	SDO	HENE1	ovisari	ulna	0.5	\N	22.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062426	B13846	LO	HENE1	ovisari	ulna	0.5	\N	40.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062427	B13846	DPA	HENE1	ovisari	ulna	0.5	\N	26.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062431	B13847	BPC	HENE1	ovisari	ulna	0.5	\N	14.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062432	B13847	SDO	HENE1	ovisari	ulna	0.5	\N	18.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062433	B13847	LO	HENE1	ovisari	ulna	0.5	\N	37.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062434	B13847	DPA	HENE1	ovisari	ulna	0.5	\N	22.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062438	B13848	BPC	HENE1	ovisari	ulna	0.5	\N	15.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062439	B13848	SDO	HENE1	ovisari	ulna	0.5	\N	19.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062440	B13848	LO	HENE1	ovisari	ulna	0.5	\N	36.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062441	B13848	DPA	HENE1	ovisari	ulna	0.5	\N	23.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062445	B13849	BPC	HENE1	ovisari	ulna	0.5	\N	14.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062446	B13849	SDO	HENE1	ovisari	ulna	0.5	\N	20.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062447	B13849	LO	HENE1	ovisari	ulna	0.5	\N	37.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062448	B13849	DPA	HENE1	ovisari	ulna	0.5	\N	24.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062452	B13850	BPC	HENE1	ovisari	ulna	0.5	\N	16.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062453	B13850	SDO	HENE1	ovisari	ulna	0.5	\N	21.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062454	B13850	LO	HENE1	ovisari	ulna	0.5	\N	37.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062455	B13850	DPA	HENE1	ovisari	ulna	0.5	\N	24.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062459	B13851	BPC	HENE1	ovisari	ulna	0.5	\N	14.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062464	B13852	Bd	HENE1	susscrd	astragalus	0.5	\N	24.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062465	B13852	GLl	HENE1	susscrd	astragalus	0.5	\N	44.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062466	B13852	GLm	HENE1	susscrd	astragalus	0.5	\N	40.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062467	B13852	Dl	HENE1	susscrd	astragalus	0.5	\N	22.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062468	B13852	Dm	HENE1	susscrd	astragalus	0.5	\N	25.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062473	B13853	Bd	HENE1	susscrd	astragalus	0.5	\N	26.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062474	B13853	GLl	HENE1	susscrd	astragalus	0.5	\N	46.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062475	B13853	GLm	HENE1	susscrd	astragalus	0.5	\N	42.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062476	B13853	Dm	HENE1	susscrd	astragalus	0.5	\N	26.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062482	B13854	BFcr	HENE1	susscrd	atlas	0.5	\N	62.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062483	B13854	GB	HENE1	susscrd	atlas	0.5	\N	81.7	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062486	B13855	Bd	HENE1	susscrd	humerus	0.5	\N	38.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062487	B13855	BT	HENE1	susscrd	humerus	0.5	\N	30.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062492	B13856	Bd	HENE1	susscrd	humerus	0.5	\N	37.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062493	B13856	BT	HENE1	susscrd	humerus	0.5	\N	29.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062494	B13856	SD	HENE1	susscrd	humerus	0.5	\N	14.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062498	B13857	SD	HENE1	susscrd	humerus	0.5	\N	14.9	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062504	B13858	Bd	HENE1	susscrd	humerus	0.5	\N	42.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062505	B13858	BT	HENE1	susscrd	humerus	0.5	\N	33.3	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062510	B13859	LPR	HENE1	susscrd	mandible	1	0	59.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062533	B13860	BM3	HENE1	susscrd	mandible	0.5	\N	15.8	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062534	B13860	LM3	HENE1	susscrd	mandible	0.5	\N	36.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062556	B13861	BM3	HENE1	susscrd	mandible	0.5	\N	14.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062557	B13861	LMR	HENE1	susscrd	mandible	0.5	\N	71.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062579	B13862	BM3	HENE1	susscrd	mandible	0.5	\N	15.1	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062580	B13862	LM3	HENE1	susscrd	mandible	0.5	\N	34.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062581	B13862	LMR	HENE1	susscrd	mandible	0.5	\N	76.9	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062602	B13863	BM3	HENE1	susscrd	maxilla	0.5	\N	16	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M062603	B13863	LM3	HENE1	susscrd	maxilla	0.5	\N	31.6	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M062607	B13864	BM3	HENE1	susscrd	maxilla	0.5	\N	16.5	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M062608	B13864	LM3	HENE1	susscrd	maxilla	0.5	\N	31.2	\N	\N	2022-06-29 12:36:27	Rscripts@localhost
+M062612	B13865	Bp	HENE1	susscrd	metatarsal	0.5	\N	16.2	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062618	B13866	Bp	HENE1	susscrd	metatarsal	0.5	\N	16.4	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062624	B13867	Bp	HENE1	susscrd	metatarsal	0.5	\N	15.5	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062625	B13867	SD	HENE1	susscrd	metatarsal	0.5	\N	14.3	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062626	B13867	Dp	HENE1	susscrd	metatarsal	0.5	\N	25.6	\N	\N	2022-06-29 12:36:25	Rscripts@localhost
+M062630	B13868	LAR	HENE1	susscrd	pelvis	0.5	\N	32.1	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062632	B13869	LAR	HENE1	susscrd	pelvis	0.5	\N	35.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062634	B13870	LAR	HENE1	susscrd	pelvis	0.5	\N	33.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062636	B13871	LAR	HENE1	susscrd	pelvis	0.5	\N	31.4	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062638	B13872	LAR	HENE1	susscrd	pelvis	0.5	\N	33.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062640	B13873	BG	HENE1	susscrd	scapula	0.5	\N	25.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062641	B13873	GLP	HENE1	susscrd	scapula	0.5	\N	36.2	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062642	B13873	SLC	HENE1	susscrd	scapula	0.5	\N	21.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062643	B13873	LG	HENE1	susscrd	scapula	0.5	\N	29.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062645	B13874	SLC	HENE1	susscrd	scapula	0.5	\N	20.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062650	B13875	BG	HENE1	susscrd	scapula	0.5	\N	21.8	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062651	B13875	GLP	HENE1	susscrd	scapula	0.5	\N	33.6	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062652	B13875	SLC	HENE1	susscrd	scapula	0.5	\N	20.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062653	B13875	LG	HENE1	susscrd	scapula	0.5	\N	28.7	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062655	B13876	BG	HENE1	susscrd	scapula	0.5	\N	23	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062656	B13876	SLC	HENE1	susscrd	scapula	0.5	\N	21.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost
+M062660	B13877	Bd	HENE1	susscrd	tibia	0.5	\N	30.5	\N	\N	2022-06-29 12:36:26	Rscripts@localhost

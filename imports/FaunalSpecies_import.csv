@@ -1,0 +1,343 @@
+FaunalSpeciesID	PhaseID	TaxonCode	NISP	SpeciesNote	AgeCriteriaBF	AgeCriteriaDA	AgeCriteriaDE	AgeNote	AgeTrend	HorncoreNote	HorncoreShape	Pathology	PathologyNote	PresenceOfFoetals	PresenceOnly	SexCriteriaME	SexCriteriaMO	SexNote	SexTrend	CitationID	time_added	user_added	time_last_update	user_last_update
+FS2011007	HETER1	bostaur	175	only NISP of the main domesticates was published in the paper	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-12 11:14:53	jelena@localhost	2024-07-12 11:14:53	jelena@localhost
+FS2011008	HETER1	oviscap	28	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-12 11:14:53	jelena@localhost	2024-07-12 11:14:53	jelena@localhost
+FS2011009	HETER1	susscrd	11	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-12 11:14:53	jelena@localhost	2024-07-12 11:14:53	jelena@localhost
+FS2011010	HETER1	equucab	35	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-12 11:14:53	jelena@localhost	2024-07-12 11:14:53	jelena@localhost
+FS1627778	TBO	abrabra	118	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627779	TBO	anguang	7	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627780	TBO	bosprim	11	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627781	TBO	bostaur	1861	\N	yes	yes	yes	\N	Mainly young	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627782	TBO	canifam	5	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627783	TBO	caprcap	6	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627784	TBO	cervela	13	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627785	TBO	cyprind	639	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627786	TBO	erineur	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627787	TBO	esoxluc	65	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627788	TBO	lepueur	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627789	TBO	leuccep	10	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627790	TBO	oviscap	224	\N	yes	yes	yes	\N	Mainly young	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627791	TBO	percflu	29	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627792	TBO	piscind	6320	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627793	TBO	rumindb	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627794	TBO	rutirut	54	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627795	TBO	scarery	4	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627796	TBO	susscrd	720	\N	yes	yes	yes	\N	Mainly young	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627797	TBO	susscrf	5	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627798	TBO	susspec	7	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627799	TBO	tinctin	9	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1627800	TBO	vulpvul	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632189	DRZ	bostaur	4018	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632190	DRZ	susscrd	1052	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632191	DRZ	oviscap	223	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632192	DRZ	canifam	19	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632193	DRZ	castfib	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632194	DRZ	equuspe	30	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632195	DRZ	cervela	8	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632196	DRZ	caprcap	7	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632197	DRZ	bosprim	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632198	DRZ	avesind	10	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632199	DRZ	piscind	21	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632201	DRZ2	bostaur	19	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632202	DRZ2	susscrd	8	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632203	DRZ2	castfib	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632204	DRZ3	bostaur	44	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632205	DRZ3	susscrd	12	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632206	DRZ3	oviscap	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630764	PUSC	ovisari	13	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630765	PUSC	oviscap	44	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630766	PUSC	caprhir	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630767	PUSC	bostaur	7	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630768	PUSC	susscrd	57	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630769	PUSC	caprcap	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS2006967	DRAGU1	bostaur	1225	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006968	DRAGU1	bosprim	13	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006969	DRAGU1	bisobon	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006970	DRAGU1	bosspec	136	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006971	DRAGU1	bisobos	97	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006972	DRAGU1	ovisari	38	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006973	DRAGU1	caprhir	42	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006974	DRAGU1	oviscap	133	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006975	DRAGU1	susscrd	288	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006976	DRAGU1	susscrf	205	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006977	DRAGU1	susspec	476	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006978	DRAGU1	cervela	436	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006979	DRAGU1	caprcap	50	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006980	DRAGU1	boscerv	180	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006981	DRAGU1	ovcapcap	19	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006982	DRAGU1	canifam	23	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006983	DRAGU1	equuspe	4	It is Equus caballus in the publication but its domestic or wild status is unclear, so it should be Equus sp.	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-14 10:25:38	jelena@localhost
+FS2006984	DRAGU1	ursuarc	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006985	DRAGU1	canilup	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006986	DRAGU1	vulpvul	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006987	DRAGU1	melemel	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006988	DRAGU1	lynxlyn	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006989	DRAGU1	castfib	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS2006990	DRAGU1	lepueur	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-12 14:05:16	jelena@localhost	2023-07-12 14:05:16	jelena@localhost
+FS1632027	MRO	bostaur	359	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632028	MRO	susscrd	78	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632029	MRO	oviscap	93	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632030	MRO	canifam	8	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632031	MRO	equucab	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632032	MRO	cervela	36	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632033	MRO	susscrf	12	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632034	MRO	ursuarc	7	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632035	MRO	caprcap	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632036	MRO	lynxlyn	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632037	MRO	castfib	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632038	MRO	mollind	5	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS2008600	ADAMC1	mammind	486	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2023-08-31 08:44:03	jelena@localhost
+FS2008601	ADAMC1	equucab	81	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2025-03-24 12:32:58	adrian@localhost
+FS2008602	ADAMC1	bostaur	59	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2025-03-24 12:32:58	adrian@localhost
+FS2008603	ADAMC1	ovisari	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2023-08-31 08:44:03	jelena@localhost
+FS2008604	ADAMC1	caprhir	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2023-08-31 08:44:03	jelena@localhost
+FS2008605	ADAMC1	oviscap	31	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2025-03-24 12:32:58	adrian@localhost
+FS2008606	ADAMC1	susscrd	23	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2025-03-24 12:32:58	adrian@localhost
+FS2008607	ADAMC1	canifam	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2023-08-31 08:44:03	jelena@localhost
+FS2008608	ADAMC1	cervela	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	st_be2019a	2023-08-31 08:44:03	jelena@localhost	2023-08-31 08:44:03	jelena@localhost
+FS2011066	FERWE1	bostaur	43	only NISP of the main domesticates was published in the paper	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-17 12:05:28	jelena@localhost	2024-07-17 12:05:28	jelena@localhost
+FS2011067	FERWE1	oviscap	31	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-17 12:05:28	jelena@localhost	2024-07-17 12:05:28	jelena@localhost
+FS2011068	FERWE1	equucab	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-17 12:05:28	jelena@localhost	2024-07-17 12:05:28	jelena@localhost
+FS2011833	FERWE2	bostaur	62	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-10-31 12:43:42	jelena@localhost	2024-10-31 12:43:42	jelena@localhost
+FS2011834	FERWE2	oviscap	39	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-10-31 12:43:42	jelena@localhost	2024-10-31 12:43:42	jelena@localhost
+FS2011835	FERWE2	susscrd	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-10-31 12:43:42	jelena@localhost	2024-10-31 12:43:42	jelena@localhost
+FS2011836	FERWE2	equucab	9	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-10-31 12:43:42	jelena@localhost	2024-10-31 12:43:42	jelena@localhost
+FS2011957	FERWE3	bostaur	50	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS2011958	FERWE3	oviscap	61	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS2011959	FERWE3	susscrd	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS2011960	FERWE3	equucab	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS1625991	RAT	bosspec	9	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625992	RAT	bostaur	166	\N	no	no	no	\N	Not stated/recorded	Primigenius type	Not stated	no	\N	no	no	yes	no	Based on metapodials	Majority female	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625993	RAT	caprcap	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625994	RAT	caprhir	9	\N	no	no	no	\N	Not stated/recorded	1 scimitar shaped horn	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625995	RAT	castfib	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625996	RAT	cervela	6	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625997	RAT	lepueur	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625998	RAT	ovisari	14	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1625999	RAT	oviscap	91	\N	no	yes	yes	Only adults, small sample size	Mainly adults	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1626000	RAT	susscrd	140	\N	no	yes	yes	\N	Mainly young	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1626001	RAT	susscrf	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS2006675	FRUNT1	bostaur	176	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006676	FRUNT1	ovisari	112	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006677	FRUNT1	caprhir	174	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006678	FRUNT1	oviscap	153	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006679	FRUNT1	susscrd	132	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006680	FRUNT1	canifam	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006681	FRUNT1	bosprim	27	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006682	FRUNT1	cervela	84	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006683	FRUNT1	caprcap	28	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006684	FRUNT1	susscrf	37	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006685	FRUNT1	lepueur	7	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006686	FRUNT1	melemel	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006687	FRUNT1	vulpvul	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006688	FRUNT1	canilup	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006689	FRUNT1	bosspec	96	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006690	FRUNT1	susspec	115	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006691	FRUNT1	mollind	127	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006692	FRUNT1	piscind	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006693	FRUNT1	reptind	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006694	FRUNT1	avesind	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS2006695	FRUNT1	mammind	1800	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	proci2015a	2023-06-26 08:12:22	jelena@localhost	2023-06-26 08:12:22	jelena@localhost
+FS1623593	LSMII	abrabra	8	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623594	LSMII	anguang	15	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623595	LSMII	avesind	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623596	LSMII	bosprim	4	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623597	LSMII	bostaur	189	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623598	LSMII	caprcap	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623599	LSMII	cervela	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623600	LSMII	cyprind	450	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623601	LSMII	esoxluc	31	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623602	LSMII	gobigob	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623603	LSMII	lepueur	7	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623604	LSMII	oviscap	86	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623605	LSMII	percflu	10	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623606	LSMII	piscind	1023	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623607	LSMII	rodeind	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623608	LSMII	rumindb	4	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623609	LSMII	ruminds	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623610	LSMII	rutirut	80	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623611	LSMII	scarery	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623612	LSMII	sciuvul	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623613	LSMII	susscrd	611	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623614	LSMII	susscrf	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623615	LSMII	susspec	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623616	LSMII	testind	9	Most likely Emys orbicularis	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1623617	LSMII	tinctin	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621806	HENE	bostaur	75	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621807	HENE	caniind	1	8 bones of 1 juvenile Canis/Vulpes	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621808	HENE	caprhir	9	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621809	HENE	cervela	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621810	HENE	lepueur	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621811	HENE	melemel	1	17 bones belong to 1 individual	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621812	HENE	ovisari	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621813	HENE	oviscap	44	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621814	HENE	susscrd	71	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1621815	HENE	susscrf	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632355	HENE1	bostaur	1728	Includes partial skeletons	yes	no	no	\N	Mainly sub-adults (1-2 years)	\N	Not stated	no	\N	no	no	no	yes	\N	Majority male	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632356	HENE1	ovisari	292	Includes partial skeletons	yes	no	no	\N	No trend	\N	Not stated	no	\N	no	no	no	yes	\N	Equal ratios	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632357	HENE1	caprhir	27	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632358	HENE1	oviscap	758	Includes partial skeletons	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632359	HENE1	susscrd	215	\N	yes	no	no	\N	Mainly young	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632360	HENE1	canifam	51	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632361	HENE1	bosprim	15	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632362	HENE1	cervela	49	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632363	HENE1	caprcap	4	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632364	HENE1	susscrf	15	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632365	HENE1	ursuarc	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632366	HENE1	vulpvul	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632367	HENE1	lepueur	5	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632368	HENE1	castfib	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS2011208	PAD7	acciind	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011209	PAD7	acipens	55	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011210	PAD7	avesind	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011211	PAD7	boscerv	12	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011212	PAD7	bosprim	8	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011213	PAD7	bosspec	20	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011214	PAD7	bostaur	21	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011215	PAD7	canifam	179	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011216	PAD7	canilup	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011217	PAD7	canispe	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011218	PAD7	caprcap	9	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011219	PAD7	castfib	10	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011220	PAD7	cervela	313	50 antlers included	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011221	PAD7	corvcor	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011222	PAD7	corvfru	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011223	PAD7	cyprcar	32	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011224	PAD7	cyprind	229	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011225	PAD7	emysorb	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011226	PAD7	erineur	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011227	PAD7	felisil	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011228	PAD7	halialb	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011229	PAD7	huchhuc	41	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011230	PAD7	lepueur	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011231	PAD7	lynxlyn	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011232	PAD7	martmar	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011233	PAD7	martspe	4	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011234	PAD7	oviscap	6	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011235	PAD7	peleono	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011236	PAD7	piscind	620	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011237	PAD7	silugla	1298	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011238	PAD7	susscrd	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011239	PAD7	susscrf	50	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011240	PAD7	susspec	10	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011241	PAD7	tadotad	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2011242	PAD7	ursuarc	15	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	orton2016a	2024-08-22 13:32:09	jelena@localhost	2024-08-22 13:32:09	jelena@localhost
+FS2010978	WILHE1	bostaur	53	only NISP of the main domesticates was published in the paper	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-11 13:28:17	jelena@localhost	2024-07-11 13:28:17	jelena@localhost
+FS2010979	WILHE1	oviscap	14	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-11 13:28:17	jelena@localhost	2024-07-11 13:28:17	jelena@localhost
+FS2010980	WILHE1	susscrd	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-11 13:28:17	jelena@localhost	2024-07-11 13:28:17	jelena@localhost
+FS2010981	WILHE1	equucab	9	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-07-11 13:28:17	jelena@localhost	2024-07-11 13:28:17	jelena@localhost
+FS2007164	SUCEV1	avesind	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007165	SUCEV1	bostaur	572	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007166	SUCEV1	oviscap	112	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007167	SUCEV1	susscrd	69	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007168	SUCEV1	canifam	18	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007169	SUCEV1	susscrf	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007170	SUCEV1	cervela	19	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007171	SUCEV1	caprcap	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007172	SUCEV1	bosprim	6	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-13 14:07:32	jelena@localhost
+FS2007173	SUCEV1	equuspe	3	It is Equus caballus in the publication but its domestic or wild status is unclear, so it should be Equus sp.	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo2009a	2023-07-13 14:07:32	jelena@localhost	2023-07-14 10:28:00	jelena@localhost
+FS2008008	SIKUL1	oviscap	689	\N	yes	yes	yes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2025-03-24 12:36:31	adrian@localhost
+FS2008009	SIKUL1	ovisari	94	\N	yes	yes	yes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2025-03-24 12:36:31	adrian@localhost
+FS2008010	SIKUL1	caprhir	38	\N	yes	yes	yes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2025-03-24 12:36:31	adrian@localhost
+FS2008011	SIKUL1	susscrd	223	\N	yes	yes	yes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2025-03-24 12:36:31	adrian@localhost
+FS2008012	SIKUL1	bostaur	544	\N	yes	yes	yes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2025-03-24 12:36:31	adrian@localhost
+FS2008013	SIKUL1	equuspe	10	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008014	SIKUL1	canispe	7	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008015	SIKUL1	cervela	126	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008016	SIKUL1	caprcap	14	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008017	SIKUL1	lepueur	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008018	SIKUL1	mamindm	310	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008019	SIKUL1	mamindl	525	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008020	SIKUL1	avesind	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008021	SIKUL1	testspe	8	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	gaast2017a	2023-07-26 10:47:27	jelena@localhost	2023-07-26 10:47:27	jelena@localhost
+FS2008547	SARAT1	mammind	70	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008548	SARAT1	bostaur	177	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008549	SARAT1	oviscap	101	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008550	SARAT1	susscrd	59	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008551	SARAT1	equucab	24	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008552	SARAT1	canifam	25	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008553	SARAT1	castfib	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008554	SARAT1	vulpvul	7	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008555	SARAT1	ursuarc	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008556	SARAT1	susscrf	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008557	SARAT1	cervela	25	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008558	SARAT1	caprcap	9	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2008559	SARAT1	bosprim	24	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	haimo1994a	2023-08-02 12:52:16	jelena@localhost	2023-08-02 12:52:16	jelena@localhost
+FS2012005	BINNE1	bostaur	316	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS2012006	BINNE1	oviscap	40	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS2012007	BINNE1	susscrd	117	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS2012008	BINNE1	equucab	36	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	groot2024a	2024-11-04 12:55:00	jelena@localhost	2024-11-04 12:55:00	jelena@localhost
+FS2003066	VESPI-EN	caprhir	32	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-26 10:37:51	jelena@localhost
+FS2003067	VESPI-EN	ovisari	25	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-26 10:37:51	jelena@localhost
+FS2003068	VESPI-EN	oviscap	288	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-26 10:37:51	jelena@localhost
+FS2003069	VESPI-EN	caprcap	6	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-26 10:37:51	jelena@localhost
+FS2003070	VESPI-EN	susspec	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-26 10:37:51	jelena@localhost
+FS2003071	VESPI-EN	vulpvul	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-26 10:37:51	jelena@localhost
+FS2003072	VESPI-EN	lepueur	11	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-26 10:37:51	jelena@localhost
+FS1632473	GSPF	bostaur	79	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632474	GSPF	susscrd	18	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632475	GSPF	oviscap	11	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632476	GSPF	canifam	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632477	GSPF	cervela	4	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632478	GSPF	melemel	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632479	GSPF	castfib	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632480	GSPF	rumindb	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1632481	GSPF	avesind	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS2003350	CHITI1	anodspe	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003351	CHITI1	uniocra	242	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003352	CHITI1	uniospe	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003353	CHITI1	sphalac	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003354	CHITI1	spongae	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003355	CHITI1	radiova	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003356	CHITI1	plancor	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003357	CHITI1	piscind	3	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003358	CHITI1	emysorb	4	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003359	CHITI1	avesind	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003360	CHITI1	bostaur	217	\N	\N	\N	\N	mostly adults	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2025-03-24 12:32:58	adrian@localhost
+FS2003361	CHITI1	ovisari	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2025-03-24 12:32:58	adrian@localhost
+FS2003362	CHITI1	caprhir	6	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2025-03-24 12:32:58	adrian@localhost
+FS2003363	CHITI1	oviscap	69	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2025-03-24 12:32:58	adrian@localhost
+FS2003364	CHITI1	susscrd	24	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2025-03-24 12:32:58	adrian@localhost
+FS2003365	CHITI1	canifam	8	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003366	CHITI1	lepueur	2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003367	CHITI1	martmar	5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003368	CHITI1	lutrlut	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003369	CHITI1	susscrf	45	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003370	CHITI1	equufer	1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003371	CHITI1	cervela	68	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003372	CHITI1	caprcap	26	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003373	CHITI1	bosprim	8	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003374	CHITI1	boscerv	8	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003375	CHITI1	ovcapcap	29	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003376	CHITI1	susspec	27	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS2003377	CHITI1	mammind	1221	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-05-02 14:32:30	jelena@localhost
+FS1630950	FRIE2	ovisari	24	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630951	FRIE2	oviscap	355	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630952	FRIE2	caprhir	32	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630953	FRIE2	bostaur	2673	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630954	FRIE2	susscrd	929	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630955	FRIE2	canifam	151	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630956	FRIE2	equufer	37	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630957	FRIE2	bisobon	11	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630958	FRIE2	bosprim	1401	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630959	FRIE2	caprcap	624	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630960	FRIE2	cervela	1647	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630961	FRIE2	susscrf	816	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630962	FRIE2	felisil	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630963	FRIE2	lutrlut	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630964	FRIE2	melemel	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630965	FRIE2	martmar	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630966	FRIE2	ursuarc	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630967	FRIE2	vulpvul	10	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630968	FRIE2	canilup	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630969	FRIE2	castfib	127	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630970	FRIE2	sciuvul	1	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630971	FRIE2	lepueur	42	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630972	FRIE2	erinspe	5	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630973	FRIE2	cygncyg	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630974	FRIE2	tetrtet	8	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630975	FRIE2	colupal	5	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630976	FRIE2	asiootu	3	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630977	FRIE2	strialu	4	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630978	FRIE2	turdmer	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630979	FRIE2	garrgla	4	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost
+FS1630980	FRIE2	corvcor	2	\N	no	no	no	\N	Not stated/recorded	\N	Not stated	no	\N	no	no	no	no	\N	Not stated/recorded	\N	\N	\N	2025-03-24 13:47:51	adrian@localhost

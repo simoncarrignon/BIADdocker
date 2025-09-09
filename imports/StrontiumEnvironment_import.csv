@@ -1,0 +1,6 @@
+SiteID	Soil	Plants	SurfaceWater	GroundWater	Fauna	dentine	ice core	min87Sr/86Sr	max87Sr/86Sr	CitationID	notes	time_added	user_added	time_last_update	user_last_update
+S13060	yes	\N	yes	\N	\N	\N	\N	0.707982	0.71314	pokut2019a	\N	2023-11-28 12:33:47	sam@localhost	2023-11-28 12:33:47	sam@localhost
+S10874	\N	\N	\N	\N	yes	\N	\N	0.710415	0.711055	belka2022a	high and low bostaur	2025-03-24 13:50:30	sam@localhost	2025-03-24 13:50:30	sam@localhost
+S10177	\N	\N	\N	\N	yes	\N	\N	0.708927	0.710481	borić2013a	\N	2022-08-10 09:15:08	sam@localhost	2022-08-10 09:15:08	sam@localhost
+S11031	\N	\N	\N	\N	yes	\N	\N	0.70843	0.71055	ernée2015a	Low and high both domestic pigs	2024-05-13 11:53:24	sam@localhost	2024-05-13 11:53:24	sam@localhost
+S10636	\N	\N	\N	\N	yes	\N	\N	0.70989	0.71004	depae2020b	\N	\N	\N	2022-05-31 12:46:54	sam@localhost

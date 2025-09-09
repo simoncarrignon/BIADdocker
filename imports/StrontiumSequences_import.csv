@@ -1,0 +1,152 @@
+StrontSliceID	StrontiumID	SequenceOrder	Datapoints/slice	SequenceTime	Material	TaxonCode	87Sr/86Sr	2SE_87Sr/86Sr	2SD_87Sr/86Sr	87Rb/86Sr	2SE_87Rb/86Sr	Mean_SrBeam	84Sr/86Sr	2SE_84Sr/86Sr	ppm	notes	time_added	user_added	time_last_update	user_last_update
+SL100718	15177	1	\N	52	enamel	homosap	0.70891	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100719	15177	2	\N	65	enamel	homosap	0.70892	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100720	15177	3	\N	86	enamel	homosap	0.70889	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100721	15177	4	\N	85	enamel	homosap	0.70937	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100722	15177	5	\N	84	enamel	homosap	0.70928	9e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100723	15177	6	\N	85	enamel	homosap	0.70942	9e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100724	15177	7	\N	86	enamel	homosap	0.70957	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100725	15177	8	\N	95	enamel	homosap	0.7094	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100726	15177	9	\N	95	enamel	homosap	0.70917	6e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100727	15177	10	\N	89	enamel	homosap	0.70939	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100728	15177	11	\N	88	enamel	homosap	0.70946	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100729	15177	12	\N	87	enamel	homosap	0.70927	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100730	15177	13	\N	58	enamel	homosap	0.70903	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100614	15171	1	\N	79	enamel	homosap	0.71206	0.00022	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100615	15171	2	\N	101	enamel	homosap	0.71133	2e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100616	15171	3	\N	78	enamel	homosap	0.70911	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100617	15171	4	\N	83	enamel	homosap	0.70908	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100618	15171	5	\N	74	enamel	homosap	0.70922	0.00014	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100619	15171	6	\N	86	enamel	homosap	0.70956	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100620	15171	7	\N	73	enamel	homosap	0.70958	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100621	15171	8	\N	88	enamel	homosap	0.70953	0.00014	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100622	15171	9	\N	81	enamel	homosap	0.70941	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100623	15171	10	\N	80	enamel	homosap	0.70989	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100624	15171	11	\N	81	enamel	homosap	0.70943	0.00016	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100625	15171	12	\N	81	enamel	homosap	0.70993	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100626	15171	13	\N	82	enamel	homosap	0.70961	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100627	15171	14	\N	117	enamel	homosap	0.70987	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100628	15171	15	\N	101	enamel	homosap	0.71006	0.00014	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100629	15171	16	\N	97	enamel	homosap	0.70978	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100630	15171	17	\N	114	enamel	homosap	0.70991	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100666	15174	1	\N	74	enamel	homosap	0.70977	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100667	15174	2	\N	68	enamel	homosap	0.71019	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100668	15174	3	\N	67	enamel	homosap	0.71038	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100669	15174	4	\N	75	enamel	homosap	0.71029	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100670	15174	5	\N	66	enamel	homosap	0.71003	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100671	15174	6	\N	75	enamel	homosap	0.70975	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100672	15174	7	\N	80	enamel	homosap	0.70962	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100673	15174	8	\N	78	enamel	homosap	0.70971	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100674	15174	9	\N	82	enamel	homosap	0.70976	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100675	15174	10	\N	69	enamel	homosap	0.70948	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100676	15174	11	\N	80	enamel	homosap	0.70972	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100677	15174	12	\N	82	enamel	homosap	0.70974	9e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100678	15174	13	\N	81	enamel	homosap	0.70972	9e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100679	15174	14	\N	59	enamel	homosap	0.70941	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100680	15174	15	\N	81	enamel	homosap	0.71004	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100681	15174	16	\N	73	enamel	homosap	0.70981	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100731	15178	1	\N	63	enamel	equucab	0.70902	5e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100732	15178	2	\N	59	enamel	equucab	0.70904	6e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100733	15178	3	\N	57	enamel	equucab	0.70912	6e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100734	15178	4	\N	49	enamel	equucab	0.70909	7e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100735	15178	5	\N	63	enamel	equucab	0.70901	6e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100736	15178	6	\N	82	enamel	equucab	0.70936	7e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100737	15178	7	\N	77	enamel	equucab	0.70955	8e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100738	15178	8	\N	87	enamel	equucab	0.70937	5e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100739	15178	9	\N	117	enamel	equucab	0.70942	7e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100740	15178	10	\N	121	enamel	equucab	0.70931	8e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100741	15178	11	\N	60	enamel	equucab	0.70896	8e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100742	15178	12	\N	135	enamel	equucab	0.70914	8e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100743	15178	13	\N	137	enamel	equucab	0.70922	6e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100744	15178	14	\N	94	enamel	equucab	0.70923	5e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100745	15178	15	\N	108	enamel	equucab	0.70926	6e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100746	15178	16	\N	138	enamel	equucab	0.70961	6e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100747	15178	17	\N	103	enamel	equucab	0.70976	7e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100748	15178	18	\N	74	enamel	equucab	0.70948	7e-05	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100749	15178	19	\N	97	enamel	equucab	0.70943	1e-04	\N	\N	\N	\N	\N	\N	\N	horse tooth	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100599	15170	1	\N	92	enamel	homosap	0.71237	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100600	15170	2	\N	91	enamel	homosap	0.71185	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100601	15170	3	\N	82	enamel	homosap	0.71139	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100602	15170	4	\N	88	enamel	homosap	0.711	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100603	15170	5	\N	88	enamel	homosap	0.71083	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100604	15170	6	\N	85	enamel	homosap	0.71102	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100605	15170	7	\N	88	enamel	homosap	0.71099	0.00016	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100606	15170	8	\N	85	enamel	homosap	0.71111	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100607	15170	9	\N	86	enamel	homosap	0.71089	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100608	15170	10	\N	104	enamel	homosap	0.71005	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100609	15170	11	\N	105	enamel	homosap	0.71006	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100610	15170	12	\N	107	enamel	homosap	0.71006	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100611	15170	13	\N	104	enamel	homosap	0.70986	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100612	15170	14	\N	99	enamel	homosap	0.71019	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100613	15170	15	\N	104	enamel	homosap	0.70968	6e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100631	15172	1	\N	87	enamel	homosap	0.71154	0.00018	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100632	15172	2	\N	101	enamel	homosap	0.71147	0.00017	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100633	15172	3	\N	78	enamel	homosap	0.711	0.00017	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100634	15172	4	\N	77	enamel	homosap	0.71117	0.00019	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100635	15172	5	\N	70	enamel	homosap	0.71081	0.00017	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100636	15172	6	\N	75	enamel	homosap	0.71095	0.00017	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100637	15172	7	\N	79	enamel	homosap	0.71069	0.00015	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100638	15172	8	\N	76	enamel	homosap	0.71139	0.00015	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100639	15172	9	\N	80	enamel	homosap	0.7111	0.00015	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100640	15172	10	\N	82	enamel	homosap	0.71082	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100641	15172	11	\N	83	enamel	homosap	0.71048	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100642	15172	12	\N	79	enamel	homosap	0.71044	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100643	15172	13	\N	90	enamel	homosap	0.71051	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100644	15172	14	\N	94	enamel	homosap	0.71022	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100645	15172	15	\N	103	enamel	homosap	0.71059	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100646	15172	16	\N	92	enamel	homosap	0.71102	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100647	15172	17	\N	68	enamel	homosap	0.71145	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100648	15173	1	\N	97	enamel	homosap	0.71148	0.00019	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100649	15173	2	\N	93	enamel	homosap	0.71214	0.00024	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100650	15173	3	\N	95	enamel	homosap	0.71239	0.00019	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100651	15173	4	\N	95	enamel	homosap	0.71273	0.00025	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100652	15173	5	\N	97	enamel	homosap	0.71231	0.00028	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100653	15173	6	\N	96	enamel	homosap	0.71161	0.00022	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100654	15173	7	\N	97	enamel	homosap	0.71174	0.00019	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100655	15173	8	\N	97	enamel	homosap	0.71097	0.00018	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100656	15173	9	\N	97	enamel	homosap	0.71089	0.00017	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100657	15173	10	\N	87	enamel	homosap	0.7114	0.00019	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100658	15173	11	\N	86	enamel	homosap	0.71109	0.00015	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100659	15173	12	\N	86	enamel	homosap	0.71114	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100660	15173	13	\N	86	enamel	homosap	0.71083	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100661	15173	14	\N	86	enamel	homosap	0.7112	0.00015	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100662	15173	15	\N	79	enamel	homosap	0.71151	0.00015	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100663	15173	16	\N	75	enamel	homosap	0.71188	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100664	15173	17	\N	44	enamel	homosap	0.70971	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100665	15173	18	\N	57	enamel	homosap	0.70886	0.00014	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100682	15175	1	\N	59	enamel	homosap	0.71106	0.00014	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100683	15175	2	\N	77	enamel	homosap	0.71064	0.00015	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100684	15175	3	\N	77	enamel	homosap	0.71122	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100685	15175	4	\N	85	enamel	homosap	0.71196	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100686	15175	5	\N	88	enamel	homosap	0.71144	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100687	15175	6	\N	89	enamel	homosap	0.71044	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100688	15175	7	\N	61	enamel	homosap	0.71116	0.00016	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100689	15175	8	\N	69	enamel	homosap	0.71104	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100690	15175	9	\N	72	enamel	homosap	0.711	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100691	15175	10	\N	82	enamel	homosap	0.71092	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100692	15175	11	\N	90	enamel	homosap	0.71055	1e-04	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100693	15175	12	\N	83	enamel	homosap	0.71008	9e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100694	15175	13	\N	89	enamel	homosap	0.70967	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100695	15175	14	\N	77	enamel	homosap	0.71066	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100696	15175	15	\N	78	enamel	homosap	0.71027	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100697	15175	16	\N	92	enamel	homosap	0.71043	0.00013	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100698	15175	17	\N	86	enamel	homosap	0.71109	0.00018	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100699	15175	18	\N	78	enamel	homosap	0.71128	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100700	15175	19	\N	75	enamel	homosap	0.7119	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100701	15175	20	\N	89	enamel	homosap	0.71166	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100702	15176	1	\N	65	enamel	homosap	0.71117	0.00011	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100703	15176	2	\N	62	enamel	homosap	0.71056	0.00012	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100704	15176	3	\N	72	enamel	homosap	0.71037	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100705	15176	4	\N	70	enamel	homosap	0.70994	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100706	15176	5	\N	67	enamel	homosap	0.70998	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100707	15176	6	\N	70	enamel	homosap	0.71006	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100708	15176	7	\N	70	enamel	homosap	0.71005	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100709	15176	8	\N	69	enamel	homosap	0.71022	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100710	15176	9	\N	78	enamel	homosap	0.71027	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100711	15176	10	\N	69	enamel	homosap	0.71006	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100712	15176	11	\N	74	enamel	homosap	0.71033	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100713	15176	12	\N	68	enamel	homosap	0.71015	7e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100714	15176	13	\N	71	enamel	homosap	0.71036	9e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100715	15176	14	\N	71	enamel	homosap	0.71044	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100716	15176	15	\N	73	enamel	homosap	0.71042	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost
+SL100717	15176	16	\N	72	enamel	homosap	0.71036	8e-05	\N	\N	\N	\N	\N	\N	\N	\N	2023-11-28 12:25:40	sam@localhost	2023-11-28 12:25:40	sam@localhost

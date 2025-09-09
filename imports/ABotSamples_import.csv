@@ -1,0 +1,104 @@
+SampleID	PhaseID	TaxonCode	TaxonCodeConfidence	Anatomy1	Anatomy2	Anatomy3	Anatomy4	preservation_type_1	preservation_type_2	TotalCount	NumberOfContexts	Ubiquity	time_added	user_added	time_last_update	user_last_update
+926780	SKEPEN	CEREIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	3	1	\N	2022-08-18 17:21:49	claudia@localhost	2025-03-21 15:17:23	adrian@localhost
+927924	SEREBRY	HORSHUL	yes	seed/grain	\N	\N	\N	impressed: pottery/plaster/daub	\N	1	\N	\N	2023-02-20 10:06:33	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+920186	VVLP	HORSHUL	yes	seed/grain	\N	\N	\N	burnt: charred	\N	14	7	0.368	2022-03-29 10:26:31	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+920187	VVLP	TRIFTWH	no	seed/grain	\N	\N	\N	burnt: charred	\N	3	2	0.105	2022-03-29 09:50:18	adrian@localhost	2025-03-21 15:17:02	adrian@localhost
+920188	VVLP	TRITDIC	yes	chaff: spikelet fork	\N	\N	\N	burnt: charred	\N	1	1	0.053	2022-03-29 08:46:17	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+920189	VVLP	TRIMODI	no	chaff: spikelet fork	\N	\N	\N	burnt: charred	\N	4	3	0.158	2022-03-29 08:50:14	adrian@localhost	2025-03-21 15:17:02	adrian@localhost
+920190	VVLP	TRITSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920191	VVLP	CEREIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	19	1	2022-03-29 10:21:01	adrian@localhost	2025-03-21 15:17:23	adrian@localhost
+920192	VVLP	CEREIND	yes	chaff: glume	chaff: husk	chaff: glume base	\N	burnt: charred	\N	\N	9	0.474	2022-03-29 11:05:58	adrian@localhost	2025-03-21 15:17:23	adrian@localhost
+920193	VVLP	POLYCON	yes	seed/grain	\N	\N	\N	burnt: charred	\N	7	6	0.316	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920194	VVLP	ATRPAHA	no	seed/grain	\N	\N	\N	burnt: charred	\N	3	2	0.105	\N	\N	2025-03-21 15:17:02	adrian@localhost
+920195	VVLP	CHENALB	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	9	0.474	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920196	VVLP	CHENHYB	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	2	0.105	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920197	VVLP	CHENPOL	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	2	0.105	\N	\N	2025-03-21 15:17:23	adrian@localhost
+920198	VVLP	CHENSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	6	0.316	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920199	VVLP	CHENIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	2	0.105	\N	\N	2025-03-21 15:17:23	adrian@localhost
+920200	VVLP	GALIAPA	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	3	0.158	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920201	VVLP	POLYAVI	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:23	adrian@localhost
+920202	VVLP	POLYLAP	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	6	0.316	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920203	VVLP	POLLAPE	no	seed/grain	\N	\N	\N	burnt: charred	\N	\N	6	0.316	\N	\N	2025-03-21 15:17:02	adrian@localhost
+920204	VVLP	MEDILUP	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920205	VVLP	PHLEPRA	yes	seed/grain	\N	\N	\N	burnt: charred	\N	5	5	0.263	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920206	VVLP	RUMEACE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	8	6	0.316	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920207	VVLP	SILENUT	no	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:02	adrian@localhost
+920208	VVLP	AVENSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	2	0.105	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920209	VVLP	LEGUINL	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	4	0.211	\N	\N	2025-03-21 15:17:23	adrian@localhost
+920210	VVLP	RUMESPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920211	VVLP	SAMBSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920212	VVLP	TRIFSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920213	VVLP	VICISPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920214	VVLP	CORYAVE	yes	nut: nutshell	\N	\N	\N	burnt: charred	\N	\N	3	0.158	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920215	VVLP	CRATLAE	yes	fruit: stone	\N	\N	\N	burnt: charred	\N	\N	2	0.105	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920216	VVLP	PRUNSPI	yes	fruit: stone	\N	\N	\N	burnt: charred	\N	2	2	0.105	\N	\N	2025-03-21 15:02:23	adrian@localhost
+920217	VVLP	QUERSPE	yes	seed: cotyledon	seed/grain	\N	\N	burnt: charred	\N	\N	6	0.316	\N	\N	2025-03-21 15:17:17	adrian@localhost
+920218	VVLP	ROSASPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.053	\N	\N	2025-03-21 15:17:17	adrian@localhost
+927956	MALOSN	TRITDIC	yes	seed/grain	\N	\N	\N	impressed: pottery/plaster/daub	\N	1	\N	\N	2023-03-01 15:33:25	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+924105	BELO1	TRITFTW	no	seed/grain	\N	\N	\N	burnt: charred	\N	\N	1	\N	2022-03-31 19:47:25	claudia@localhost	2025-03-21 15:17:02	adrian@localhost
+924106	BELO1	HORSHUN	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	1	\N	2022-03-31 19:47:22	claudia@localhost	2025-03-21 15:02:23	adrian@localhost
+928925	BELO1	HORSNAK	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	1	\N	2023-05-11 13:25:02	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+917516	ODLA191	HORSNAK	yes	seed/grain	\N	\N	\N	burnt: charred	\N	5594	10	1	2022-03-29 10:27:18	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+917517	ODLA191	HORSHUL	no	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.1	2022-03-29 10:26:31	adrian@localhost	2025-03-21 15:17:02	adrian@localhost
+917518	ODLA191	HORSNAK	yes	chaff: rachis internode	chaff: rachis	\N	\N	burnt: charred	\N	4	3	0.3	2022-03-28 17:52:09	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+917519	ODLA191	TRITDIC	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1887	10	1	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917520	ODLA191	TRITDIC	yes	chaff: glume base	\N	\N	\N	burnt: charred	\N	699	10	1	2022-03-29 10:08:19	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+917521	ODLA191	TRITMON	no	seed/grain	\N	\N	\N	burnt: charred	\N	7	2	0.2	\N	\N	2025-03-21 15:17:02	adrian@localhost
+917522	ODLA191	TRITMON	no	seed/grain	chaff: glume base	\N	\N	burnt: charred	\N	4	1	0.1	2022-03-29 11:25:58	adrian@localhost	2025-03-21 15:17:02	adrian@localhost
+917523	ODLA191	CORYAVE	yes	nut: nutshell	\N	\N	\N	burnt: charred	\N	\N	6	0.6	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917524	ODLA191	RUBUIDA	yes	seed/grain	\N	\N	\N	burnt: charred	waterlogged	2	1	0.1	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917525	ODLA191	SAMBNIG	yes	seed/grain	\N	\N	\N	waterlogged	\N	4	3	0.3	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917526	ODLA191	GRAMIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	57	8	0.8	\N	\N	2025-03-21 15:17:23	adrian@localhost
+917527	ODLA191	BROMSEC	no	seed/grain	\N	\N	\N	burnt: charred	\N	3	2	0.2	\N	\N	2025-03-21 15:17:02	adrian@localhost
+917528	ODLA191	SOLADUL	yes	seed/grain	\N	\N	\N	burnt: charred	\N	5	1	0.1	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917529	ODLA191	POLYPER	yes	seed/grain	\N	\N	\N	burnt: charred	\N	4	1	0.1	\N	\N	2025-03-21 15:17:23	adrian@localhost
+917530	ODLA191	POLYCON	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.1	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917531	ODLA191	RUMESAN	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.1	\N	\N	2025-03-21 15:17:23	adrian@localhost
+917532	ODLA191	UMBEIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.1	\N	\N	2025-03-21 15:17:23	adrian@localhost
+917533	ODLA191	SCIRLAC	yes	seed/grain	\N	\N	\N	burnt: charred	waterlogged	1	1	0.1	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917369	ODLA77	HORSNAK	yes	seed/grain	\N	\N	\N	burnt: charred	\N	498	\N	\N	2022-03-29 10:27:18	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+917370	ODLA77	HORSHUN	no	seed/grain	\N	\N	\N	burnt: charred	\N	64	\N	\N	2022-03-29 10:30:38	adrian@localhost	2025-03-21 15:17:02	adrian@localhost
+917371	ODLA77	HORSHUN	no	chaff: rachis internode	chaff: rachis	\N	\N	burnt: charred	\N	4	\N	\N	2022-03-28 17:52:09	adrian@localhost	2025-03-21 15:17:02	adrian@localhost
+917372	ODLA77	TRITMON	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917373	ODLA77	TRITDIC	yes	seed/grain	\N	\N	\N	burnt: charred	\N	35	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917374	ODLA77	TRITDIC	yes	chaff: glume base	\N	\N	\N	burnt: charred	\N	48	\N	\N	2022-03-29 10:08:19	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+917375	ODLA77	TRITGLW	no	seed/grain	\N	\N	\N	burnt: charred	\N	28	\N	\N	\N	\N	2025-03-21 15:17:02	adrian@localhost
+917376	ODLA77	CEREIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	304	\N	\N	2022-03-29 10:21:01	adrian@localhost	2025-03-21 15:17:23	adrian@localhost
+917377	ODLA77	CORYAVE	yes	nut: nutshell	\N	\N	\N	burnt: charred	\N	\N	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917378	ODLA77	RUBUFRU	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917379	ODLA77	CHENALB	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917380	ODLA77	CARESPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	\N	\N	2025-03-21 15:17:17	adrian@localhost
+917381	ODLA77	GALISPU	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917382	ODLA77	POAANNU	yes	seed/grain	\N	\N	\N	burnt: charred	\N	8	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917383	ODLA77	GRAMIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	3	\N	\N	\N	\N	2025-03-21 15:17:23	adrian@localhost
+917384	ODLA77	VICISPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	\N	\N	2025-03-21 15:17:17	adrian@localhost
+927885	MIKOBRO	HORSHUL	yes	seed/grain	\N	\N	\N	impressed: pottery/plaster/daub	\N	2	\N	\N	2023-02-20 10:06:33	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+929910	CAREI2	TRITMON	yes	seed/grain	\N	\N	\N	burnt: charred	\N	4	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+929911	CAREI2	TRITDIC	no	seed/grain	\N	\N	\N	burnt: charred	\N	2	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:17:02	adrian@localhost
+929912	CAREI2	TRITDIC	yes	seed/grain	\N	\N	\N	burnt: charred	\N	198	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+929913	CAREI2	TRIAEST	yes	seed/grain	\N	\N	\N	burnt: charred	\N	10	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+929914	CAREI2	HORSHUN	yes	seed/grain	\N	\N	\N	burnt: charred	\N	635	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+929915	CAREI2	BROMSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:17:17	adrian@localhost
+929916	CAREI2	RUMEACE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+929917	CAREI2	TRITSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	14	\N	\N	2024-03-15 15:06:09	natalya@localhost	2025-03-21 15:17:17	adrian@localhost
+932524	HODK1	TYPHLAT	yes	leaf	\N	\N	\N	impressed: pottery/plaster/daub	\N	\N	\N	\N	2025-08-21 17:43:15	natalia_riabogina@localhost	2025-08-21 17:43:15	natalia_riabogina@localhost
+922069	MNNY	CORYAVE	yes	nut: nutshell	\N	\N	\N	burnt: charred	\N	\N	36	0.878	\N	\N	2025-03-21 15:02:23	adrian@localhost
+922070	MNNY	TRITDIC	yes	seed/grain	\N	\N	\N	burnt: charred	\N	11	4	0.098	\N	\N	2025-03-21 15:02:23	adrian@localhost
+922071	MNNY	HORSNAK	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	1	0.024	2022-03-29 10:27:18	adrian@localhost	2025-03-21 15:02:23	adrian@localhost
+922072	MNNY	CEREIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	8	0.195	2022-03-29 10:21:01	adrian@localhost	2025-03-21 15:17:23	adrian@localhost
+922073	MNNY	AVENSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	16	9	0.22	\N	\N	2025-03-21 15:17:17	adrian@localhost
+922074	MNNY	POLYSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	2	0.049	\N	\N	2025-03-21 15:17:17	adrian@localhost
+922075	MNNY	CHENSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	1	0.024	\N	\N	2025-03-21 15:17:17	adrian@localhost
+922076	MNNY	PLANSPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	\N	1	0.024	\N	\N	2025-03-21 15:17:17	adrian@localhost
+927965	DEREIVK	HORSHUL	yes	seed/grain	\N	\N	\N	impressed: pottery/plaster/daub	\N	1	\N	\N	2023-03-01 15:33:25	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+927966	DEREIVK	SECACER	yes	seed/grain	\N	\N	\N	impressed: pottery/plaster/daub	\N	1	\N	\N	2023-03-01 15:33:25	natalya@localhost	2025-03-21 15:02:23	adrian@localhost
+917456	BEBI	TRITMON	yes	seed/grain	\N	\N	\N	burnt: charred	\N	3	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917457	BEBI	TRITDIC	yes	seed/grain	\N	\N	\N	burnt: charred	\N	4	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917458	BEBI	TRITGLW	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	\N	\N	\N	\N	2025-03-21 15:17:17	adrian@localhost
+917459	BEBI	CEREIND	yes	seed/grain	\N	\N	\N	burnt: charred	\N	29	\N	\N	2022-03-29 10:21:01	adrian@localhost	2025-03-21 15:17:23	adrian@localhost
+917460	BEBI	BROMSEC	yes	seed/grain	\N	\N	\N	burnt: charred	\N	2	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917461	BEBI	POLYCON	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917462	BEBI	CHENALB	yes	seed/grain	\N	\N	\N	burnt: charred	\N	3	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917463	BEBI	LOLISPE	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	\N	\N	2025-03-21 15:17:17	adrian@localhost
+917464	BEBI	RUMECRI	yes	seed/grain	\N	\N	\N	burnt: charred	\N	1	\N	\N	\N	\N	2025-03-21 15:02:23	adrian@localhost
+917465	BEBI	MONODIC	yes	storage organ: indet	storage organ: bulb	storage organ: tuber	\N	burnt: charred	\N	2	\N	\N	2022-03-28 17:52:09	adrian@localhost	2025-03-21 15:17:23	adrian@localhost

@@ -1,0 +1,171 @@
+PhaseID	SiteID	Culture1	Culture2	Culture3	Subculture	Period	PeriodNotes	Citations	Type	StartBCEreported	EndBCEreported	GMM	GMS	time_added	user_added	time_last_update	user_last_update
+STLU1	S03631	Chasséen	\N	\N	\N	MN	\N	\N	\N	\N	\N	6100	275	\N	\N	2025-09-07 00:51:44	Rscripts@localhost
+VESBI1	S20610	Tiszapolgár	\N	\N	\N	EE	if needed can be divided to finer phases based on stratigraphy	yerke2009a	funerary: grave; settlement; habitation: house; settlement: ditch; fire: oven	\N	\N	6301	74	2024-10-07 11:22:17	jan@localhost	2025-09-06 00:53:24	Rscripts@localhost
+LIPP1	S13339	Lasinja	\N	\N	\N	UE	\N	sraka2014a; sraka2014a	settlement: pit	\N	\N	6203	105	2024-06-13 16:44:26	jan@localhost	2025-08-25 00:56:40	Rscripts@localhost
+END1	S20546	Starčevo-Körös-Criş	\N	\N	\N	EN	\N	oross2012b	settlement	\N	\N	7463	118	2024-09-10 11:46:32	jan@localhost	2025-09-02 00:55:17	Rscripts@localhost
+KOR1	S10044	\N	\N	\N	\N	LP	\N	olald2018a	settlement	\N	\N	10842	1316	2021-12-14 16:38:27	robert@localhost	2025-08-24 00:57:46	Rscripts@localhost
+KOR2	S10044	Globular Amphora	\N	\N	\N	MN	\N	olald2018a	funerary: cemetery; settlement	\N	\N	4735	332	2021-12-14 16:38:27	robert@localhost	2025-09-05 00:53:34	Rscripts@localhost
+KOR3	S10044	Bell Beaker	\N	\N	\N	LN	\N	olald2018a; olald2018a	funerary: cemetery; settlement	\N	\N	4224	118	2021-12-14 16:38:27	robert@localhost	2025-09-01 00:59:36	Rscripts@localhost
+KOR4	S10044	\N	\N	\N	\N	EBA	\N	olald2018a	funerary: cemetery	\N	\N	4107	153	2021-12-14 16:38:27	robert@localhost	2025-09-08 00:53:34	Rscripts@localhost
+KOR5	S10044	\N	\N	\N	\N	UBA	\N	olald2018a	funerary: cemetery; settlement	\N	\N	3475	260	2021-12-14 16:38:27	robert@localhost	2025-08-17 00:58:47	Rscripts@localhost
+KOR6	S10044	\N	\N	\N	\N	RIA	\N	olald2018a	settlement	\N	\N	1641	300	2021-12-14 16:38:27	robert@localhost	2025-09-08 00:53:34	Rscripts@localhost
+KOR7	S10044	\N	\N	\N	\N	EMED	\N	olald2018a	funerary: cemetery	\N	\N	1298	269	2021-12-14 16:38:27	robert@localhost	2025-09-04 00:58:53	Rscripts@localhost
+KOR8	S10044	\N	\N	\N	\N	LMED	\N	olald2018a	settlement: village	\N	\N	\N	\N	2021-12-14 16:38:27	robert@localhost	2025-08-29 00:55:44	Rscripts@localhost
+J127	S07989	Pitted Ware	\N	\N	\N	LN	\N	\N	\N	\N	\N	4854	351	\N	\N	2025-03-26 23:53:06	Rscripts@localhost
+STOREFL1	S11414	\N	\N	\N	\N	EN	\N	allen2022a; allen2024a	fen/marshland/mire; funerary: bog	\N	\N	5329	302	2023-01-18 12:38:38	robert@localhost	2025-09-09 00:55:59	Rscripts@localhost
+HETER1	S20412	\N	\N	\N	\N	LIAER	Heteren-Het Lage Land 1	groot2024a	settlement	150	-50	2172	273	2024-07-11 14:44:00	jelena@localhost	2025-09-05 00:52:53	Rscripts@localhost
+HETER2	S20412	\N	\N	\N	\N	EMRP	Heteren-Het Lage Land 2	groot2024a	settlement	-50	-150	\N	\N	2024-07-18 14:00:43	jelena@localhost	2025-09-08 00:54:45	Rscripts@localhost
+TBO	S05040	Villeneuve-Saint-Germain	\N	\N	\N	EN	\N	\N	cultural layer; pit; settlement	\N	\N	6892	429	\N	\N	2025-08-26 00:53:37	Rscripts@localhost
+DRZ	S07664	Trichterbecher	\N	\N	\N	MN	\N	\N	settlement	\N	\N	4720	352	\N	\N	2025-09-09 00:57:57	Rscripts@localhost
+DRZ2	S07664	Corded Ware	\N	\N	\N	LN	\N	\N	settlement	\N	\N	4476	278	\N	\N	2025-09-04 00:51:14	Rscripts@localhost
+DRZ3	S07664	Únětice	\N	\N	\N	EBA	\N	\N	settlement	\N	\N	3901	109	\N	\N	2025-09-09 00:52:08	Rscripts@localhost
+PUSC	S07556	Baalberge	\N	\N	\N	LN	\N	\N	settlement	\N	\N	5442	275	\N	\N	2025-09-02 00:53:28	Rscripts@localhost
+BAUIA	S20627	\N	\N	\N	\N	UIA	\N	hrnčí2019a	funerary	\N	\N	2510	217	2024-10-30 12:06:40	sam@localhost	2025-08-25 00:55:47	Rscripts@localhost
+SKEPEN	S11192	\N	\N	\N	\N	EN	\N	brink2021a; brink2021a	cultural layer; posthole; fire: hearth	\N	\N	5577	342	2022-08-16 08:58:54	claudia@localhost	2025-09-05 00:50:30	Rscripts@localhost
+SKEPLBA	S11192	\N	\N	\N	\N	LBA	\N	brink2021a; brink2021a	cultural layer	\N	\N	2809	208	2022-08-16 08:59:13	claudia@localhost	2025-08-20 01:00:12	Rscripts@localhost
+SKEPM	S11192	\N	\N	\N	\N	LM	\N	brink2021a; brink2021a	cultural layer	\N	\N	7336	468	2022-08-16 08:57:29	claudia@localhost	2025-08-27 00:52:59	Rscripts@localhost
+SEREBRY	S11585	Donetsk	\N	\N	\N	MLN	\N	пашке2000a	settlement	5300	4800	6869	229	2023-02-20 09:42:31	natalya@localhost	2025-09-06 00:57:53	Rscripts@localhost
+DRAGU1	S10940	Cucuteni-Tripolye	\N	\N	Cucuteni A4	EE	\N	haimo2009a	settlement	\N	\N	6131	264	2022-05-16 11:39:23	jelena@localhost	2025-09-09 00:58:11	Rscripts@localhost
+DRAGU2	S10940	Cucuteni-Tripolye	\N	\N	Cucuteni A	LN	\N	dumit1974a; dumit1974a; harpe2016a; harpe2016a	settlement	\N	\N	6145	258	2023-06-06 11:16:50	jan@localhost	2025-09-02 00:52:23	Rscripts@localhost
+DRAGU3	S10940	Cucuteni-Tripolye	\N	\N	Cucuteni B2	LNEE	\N	harpe2016a; harpe2016a	settlement	\N	\N	6081	269	2023-06-06 11:17:13	jan@localhost	2025-09-03 00:51:08	Rscripts@localhost
+SRKAR	S10693	Starčevo-Körös-Criş	\N	\N	\N	EN	\N	jovan2017a; porči2021a; porči2021a	settlement; funerary: grave	\N	\N	7977	84	2022-04-08 14:53:13	maria@localhost	2025-09-07 00:52:14	Rscripts@localhost
+MRO	S07734	Trichterbecher	\N	\N	\N	MN	\N	\N	settlement	\N	\N	5181	368	\N	\N	2025-09-08 00:54:39	Rscripts@localhost
+LARMO	S20679	\N	\N	\N	\N	UMEDMP	\N	hrnčí2019a	funerary	\N	\N	\N	\N	2024-10-30 12:06:40	sam@localhost	2025-09-08 00:55:53	Rscripts@localhost
+ADAMC1	S12724	Coslogeni	\N	\N	\N	LBA	\N	st_be2019a	settlement	\N	\N	3307	380	2023-08-04 08:56:26	jelena@localhost	2025-08-24 00:53:00	Rscripts@localhost
+PELAZBB1	S11963	Bell Beaker	\N	\N	\N	UE	UH1 domestic structure: BB phase = phase II	atién2018a	habitation: house: stone	\N	\N	4170	382	2023-05-01 16:48:20	lea@localhost	2025-09-07 00:58:47	Rscripts@localhost
+PELAZBB2	S11963	Bell Beaker	\N	\N	\N	UE	UH2 domestic structure: BB phase = phase II	atién2018a	habitation: house: stone	\N	\N	4172	381	2023-05-01 16:48:20	lea@localhost	2025-09-09 00:57:00	Rscripts@localhost
+PELAZBB3	S11963	Bell Beaker	\N	\N	\N	UE	UH3 domestic structure: BB phase = phase II	atién2018a	habitation: house: stone	\N	\N	4168	383	2023-05-01 16:48:20	lea@localhost	2025-09-05 00:52:06	Rscripts@localhost
+PELAZBBS	S11963	Bell Beaker	\N	\N	\N	UE	superficial finds	atién2018a	secondary find	\N	\N	4169	383	2023-05-01 16:48:20	lea@localhost	2025-09-06 00:58:36	Rscripts@localhost
+PELAZOBB	S11963	Bell Beaker	\N	\N	\N	UE	UH5 domestic structure: BB phase = phase IV of UH5: there is also undecorated pottery in this layer: The different stratigraphic relationships allow us to propose up to 4 construction episodes. The first is defined by a single space (UH5) with a trapezoidal floor plan and a surface area of around 25 m2 delimited by medium/large calibre masonry walls. This space is attached to the raised structure, which would place both of them in the earliest times of the settlement. Inside, a small masonry bench attached to one of the walls, a floor made of large stone slabs and rammed earth, and a combustion structure that was documented to be completely uncovered. In this level of use -dating from a wheat seed in ca. 2480-2280 cal BC; 3900±40BP- a set of archaeological materials was found, including the presence of a minimum of thirteen ceramic vessels with bell-shaped decoration which, due to their characteristics, were found to have been used in a number of different ways.	atién2016a	habitation: house: stone; settlement: enclosure: stone wall	2400	2100	4149	393	2023-04-14 11:28:17	lea@localhost	2025-08-19 00:52:26	Rscripts@localhost
+CHUL1UIA1	S13060	Scythian	\N	\N	\N	UIA	\N	pokut2019a; pokut2019a	funerary: barrow	\N	\N	2942	62	2023-11-22 12:49:03	sam@localhost	2025-08-28 00:54:31	Rscripts@localhost
+CHUL1UIA2	S13060	Bystrianka	\N	\N	\N	UIA	\N	pokut2019a; pokut2019a	funerary: barrow	\N	\N	2943	61	2023-11-22 12:49:03	sam@localhost	2025-08-31 00:55:40	Rscripts@localhost
+CHUL1UIA3	S13060	Kara-Koba	\N	\N	\N	UIA	\N	pokut2019a; pokut2019a	funerary: barrow	\N	\N	2945	60	2023-11-22 12:49:03	sam@localhost	2025-08-16 10:45:27	Rscripts@localhost
+CHUL1UIA4	S13060	Pazyryk	\N	\N	\N	UIA	\N	pokut2019a; pokut2019a	funerary: barrow	\N	\N	2943	61	2023-11-22 12:30:05	sam@localhost	2025-09-06 00:56:29	Rscripts@localhost
+LUB	S07814	Corded Ware	\N	\N	\N	LN	\N	\N	\N	\N	\N	4458	229	\N	\N	2025-08-20 00:54:05	Rscripts@localhost
+LENI1	S13337	Lasinja	\N	\N	\N	UE	\N	sraka2014a; sraka2014a	settlement: pit	\N	\N	5674	111	2024-06-13 16:32:06	jan@localhost	2025-08-26 00:51:59	Rscripts@localhost
+GRD171EIA	S12982	Nordic Bronze Age	\N	\N	\N	EIA	\N	wilhe2015a	funerary	\N	\N	3027	204	2023-10-17 10:34:22	sam@localhost	2025-09-06 00:58:26	Rscripts@localhost
+GRD171LIA	S12982	Nordic Bronze Age	\N	\N	\N	LIA	\N	wilhe2015a	funerary	\N	\N	2985	207	2023-10-17 10:34:22	sam@localhost	2025-08-24 00:59:01	Rscripts@localhost
+VVLP	S08852	Cerny	\N	\N	\N	MN	\N	\N	posthole	\N	\N	6276	255	\N	\N	2025-09-06 00:52:20	Rscripts@localhost
+BOROV1	S13161	Gradešnica	\N	\N	\N	EE	\N	mania2016a; mania2016a	settlement: tell	\N	\N	5903	437	2024-03-12 15:05:50	jan@localhost	2025-08-30 00:56:30	Rscripts@localhost
+BOROV2	S13161	\N	\N	\N	\N	LEEBA	\N	mania2016a; mania2016a	settlement: tell	\N	\N	5752	146	2024-03-12 15:06:05	jan@localhost	2025-08-30 00:52:38	Rscripts@localhost
+FERWE1	S20424	\N	\N	\N	\N	ERP	\N	groot2024a	settlement	-1	-100	\N	\N	2024-07-17 10:49:10	jelena@localhost	2025-09-09 00:52:38	Rscripts@localhost
+FERWE2	S20424	\N	\N	\N	\N	MRP	\N	groot2024a	settlement: village	-100	-300	\N	\N	2024-10-29 14:16:43	jelena@localhost	2025-09-09 00:54:01	Rscripts@localhost
+FERWE3	S20424	\N	\N	\N	\N	LR	\N	groot2024a	settlement: village	-250	-400	1623	302	2024-11-04 12:51:55	jelena@localhost	2025-08-26 00:52:09	Rscripts@localhost
+HAAR1	S02162	Corded Ware	\N	\N	Single Grave	LN	\N	\N	settlement	\N	\N	4533	330	\N	\N	2025-09-03 00:56:13	Rscripts@localhost
+N16	S07737	Bell Beaker	\N	\N	\N	EBA	\N	\N	\N	\N	\N	4333	140	\N	\N	2025-09-07 00:54:35	Rscripts@localhost
+MANG20A	S20741	Nordic Bronze Age	\N	\N	\N	LBA	\N	schae2023a; schae2023a	funerary: barrow: secondary grave	\N	\N	2908	184	2024-10-30 10:14:40	helene@localhost	2025-08-29 00:55:11	Rscripts@localhost
+RAT	S04945	Linearbandkeramik	\N	\N	\N	EN	\N	\N	pit; settlement	\N	\N	7047	158	\N	\N	2025-08-31 00:57:54	Rscripts@localhost
+FRUNT1	S12592	Stoicani-Aldeni	\N	\N	\N	LN	\N	proci2015a	settlement	\N	\N	6343	288	2023-06-26 07:53:18	jelena@localhost	2025-09-02 00:51:49	Rscripts@localhost
+KHALDE1	S10759	Fatyanovo	\N	\N	\N	EBA	\N	saag2021a; saag2021a	funerary: cemetery	2832	2473	4531	263	2022-04-27 12:04:34	robert@localhost	2025-08-18 00:55:43	Rscripts@localhost
+WTZL	S04224	Lengyel	\N	\N	\N	EMN	\N	\N	\N	\N	\N	6427	232	\N	\N	2025-08-30 00:58:06	Rscripts@localhost
+STASS1	S10473	Linearbandkeramik	\N	\N	\N	EN	\N	veit1996a	funerary: grave; settlement	\N	\N	6945	359	2022-03-14 18:38:38	robert@localhost	2025-08-16 10:37:01	Rscripts@localhost
+STASS2	S10473	Stichbandkeramik	\N	\N	\N	MN	\N	veit1996a	settlement	\N	\N	6332	357	2022-03-14 18:38:38	robert@localhost	2025-09-05 00:50:25	Rscripts@localhost
+MALOSN	S11842	Lublin Volhynian	\N	\N	\N	LN	\N	пашке2000a	settlement	3300	2500	4434	234	2023-03-01 15:22:39	natalya@localhost	2025-09-01 00:52:00	Rscripts@localhost
+LSMII	S04859	Villeneuve-Saint-Germain	\N	\N	\N	EN	\N	\N	pit; settlement	\N	\N	6895	431	\N	\N	2025-08-25 00:57:18	Rscripts@localhost
+MADIL1	S13108	Paraćin	\N	\N	\N	LBA	\N	\N	funerary: cemetery; funerary: urn	\N	\N	3351	184	2024-01-29 13:26:50	jelena@localhost	2025-08-30 00:52:42	Rscripts@localhost
+HENE	S02220	Linearbandkeramik	\N	\N	\N	EN	\N	\N	pit; settlement: enclosure: entrenched	\N	\N	6943	221	\N	\N	2025-08-27 00:58:39	Rscripts@localhost
+HENE1	S02220	Michelsberg	\N	\N	\N	LN	\N	\N	ditch; settlement: enclosure	\N	\N	6076	213	\N	\N	2025-09-06 00:56:47	Rscripts@localhost
+BELO1	S10356	Starčevo-Körös-Criş	\N	\N	\N	EN	\N	de-va2022a	settlement	6500	5500	7730	77	2022-02-09 13:09:33	claudia@localhost	2025-09-08 00:56:18	Rscripts@localhost
+CEGILN	S10829	Szakálhát	\N	\N	\N	LN	\N	depae2020b	funerary: grave	\N	\N	6519	277	2022-05-03 11:59:53	sam@localhost	2025-08-29 00:55:46	Rscripts@localhost
+ODLA191	S03193	Trichterbecher	\N	\N	\N	MN	\N	\N	fire: burnt area	\N	\N	5287	344	\N	\N	2025-08-31 00:50:28	Rscripts@localhost
+ODLA77	S03193	Trichterbecher	\N	\N	\N	EMN	\N	\N	\N	3270	2920	5230	343	2022-04-24 20:33:46	maria@localhost	2025-09-03 00:58:12	Rscripts@localhost
+MEKIF1	S20891	Alföld Linearbandkeramik	\N	\N	\N	MN	\N	dombo2003a	settlement	\N	\N	7091	187	2024-12-12 14:50:44	jan@localhost	2025-08-18 00:53:48	Rscripts@localhost
+CORM1	S01599	Baalberge	\N	\N	\N	LN	\N	\N	\N	\N	\N	5446	205	\N	\N	2025-09-06 00:58:19	Rscripts@localhost
+CORM2	S01599	Bell Beaker	\N	\N	\N	EBA	\N	\N	\N	\N	\N	4167	165	\N	\N	2025-09-08 00:59:10	Rscripts@localhost
+CORM3	S01599	\N	\N	\N	\N	EBA	\N	\N	\N	\N	\N	3893	135	2021-12-14 15:34:56	adrian@localhost	2025-08-31 00:51:45	Rscripts@localhost
+VIN1	S11731	Jevišovice	\N	\N	\N	LE	\N	peška2011b; peška2011b	settlement	\N	\N	4678	125	2023-03-07 15:20:55	jan@localhost	2025-09-03 00:58:27	Rscripts@localhost
+TRNB1	S13294	\N	\N	\N	\N	EIA	\N	terza2014a; terza2014a	funerary: cemetery	\N	\N	2503	114	2024-05-21 15:34:17	jan@localhost	2025-09-06 00:58:15	Rscripts@localhost
+FANED1	S11305	Ertebølle	\N	\N	Late Ertebølle	LM	\N	allen2022a; allen2024a	funerary: grave; shell midden	\N	\N	6525	306	2022-11-29 11:45:41	robert@localhost	2025-08-22 00:56:11	Rscripts@localhost
+PVST1	S03289	Bernburg	Bell Beaker	\N	\N	LN	\N	\N	\N	\N	\N	4759	221	\N	\N	2025-08-26 00:57:44	Rscripts@localhost
+MIKOBRO	S11573	Bug-Dniester	\N	\N	Savransk phase of culture	MLN	\N	пашке2000a	settlement	5800	5500	7853	178	2023-02-20 09:42:31	natalya@localhost	2025-09-03 00:58:04	Rscripts@localhost
+LUB2-1	S10874	Corded Ware	\N	\N	\N	LN	\N	linde2020a; linde2020a	funerary: barrow	\N	\N	4385	210	2022-05-03 17:07:34	robert@localhost	2025-08-17 00:56:29	Rscripts@localhost
+CAREI1	S11059	Cluj-Cheile Turzii-Lumea Nouă-Iclod (CCTLNI)	\N	\N	\N	MN	\N	binde2006a	pit	\N	\N	7034	1185	2022-06-06 10:07:07	jelena@localhost	2025-03-09 23:55:06	Rscripts@localhost
+CAREI2	S11059	Otomani	\N	\N	\N	MBA	\N	binde2006a; carci1996a	pit; habitation: house	\N	\N	3561	272	2022-06-06 10:07:07	jelena@localhost	2025-08-26 00:58:03	Rscripts@localhost
+BRN2	S08746	Linearbandkeramik	\N	\N	\N	EN	\N	matei2008a; matei2008a	\N	\N	\N	7180	186	\N	\N	2025-09-08 00:55:53	Rscripts@localhost
+BRN3	S08746	Trichterbecher	\N	\N	\N	PEEEME	\N	kaupo2023a	pit	\N	\N	5481	301	2025-06-30 08:54:56	dominika_schmidtova@localhost	2025-09-04 00:57:34	Rscripts@localhost
+HODK1	S20614	Tisza	\N	\N	\N	LN	early Tisza culture	yerke2009a; gyula2010a	habitation: house; settlement	\N	\N	6823	217	2024-10-14 14:29:40	jan@localhost	2025-08-25 00:50:28	Rscripts@localhost
+SGMUMED	S12183	Viking	\N	\N	\N	UMED	\N	legge2021a	funerary	\N	\N	698	245	2023-05-01 09:31:43	sam@localhost	2025-03-11 23:50:11	Rscripts@localhost
+PAD1	S10177	\N	\N	\N	\N	EM	\N	mathi2018a	funerary: cemetery	\N	\N	8038	677	2022-01-21 15:37:13	robert@localhost	2025-09-05 00:56:54	Rscripts@localhost
+PAD2	S10177	\N	\N	\N	\N	EMM	\N	borić2011a; borić2011a; borić2013a; borić2013a; mathi2018a; mathi2018a	funerary: cemetery; funerary: cemetery; settlement	\N	\N	9771	558	2022-01-21 15:37:13	robert@localhost	2025-09-07 00:56:38	Rscripts@localhost
+PAD3	S10177	\N	\N	\N	\N	MM	\N	mathi2018a	funerary: cemetery	\N	\N	10263	1278	2022-01-21 15:37:13	robert@localhost	2025-08-30 00:52:51	Rscripts@localhost
+PAD4	S10177	\N	\N	\N	\N	LM	\N	mathi2018a	funerary: cemetery	\N	\N	8756	327	2022-01-21 15:37:13	robert@localhost	2025-03-30 23:54:16	Rscripts@localhost
+PAD5	S10177	\N	\N	\N	\N	LMEN	\N	borić2004a; borić2004a; borić2011a; borić2011a; borić2013a; borić2013a; mathi2018a	funerary: cemetery; funerary: cemetery; settlement	\N	\N	8104	280	2022-01-21 15:37:13	robert@localhost	2025-09-06 00:53:54	Rscripts@localhost
+PAD6	S10177	\N	\N	\N	\N	UM	\N	bonsa2008a; bonsa2008a; borić2004a; borić2004a; borić2011a; borić2011a; borić2013a; borić2013a; mathi2018a; mathi2018a; radov2015a; radov2015a	funerary: cemetery; settlement	\N	\N	9382	1170	2022-01-21 15:37:13	robert@localhost	2025-09-02 00:56:27	Rscripts@localhost
+PAD7	S10177	Starčevo-Körös-Criş	\N	\N	\N	EN	Padina B	orton2016a	settlement	\N	\N	7814	99	2024-07-23 10:05:22	jelena@localhost	2025-09-01 00:59:11	Rscripts@localhost
+ARDMED	S12108	Medieval	\N	\N	\N	EMED	\N	legge2021a	funerary	-900	-960	1339	276	2023-05-01 09:31:43	sam@localhost	2025-09-04 00:50:43	Rscripts@localhost
+WILHE1	S20405	\N	\N	\N	\N	MLIA	\N	groot2024a	settlement	300	100	\N	\N	2024-07-11 12:53:02	jelena@localhost	2025-09-07 00:51:40	Rscripts@localhost
+BNS	S09063	Ertebølle	Trichterbecher	\N	\N	LMEN	\N	\N	\N	\N	\N	6569	297	\N	\N	2025-09-03 00:56:41	Rscripts@localhost
+SUCEV1	S10951	Stoicani-Aldeni	\N	\N	\N	EE	\N	haimo2009a	settlement	\N	\N	6340	292	2022-05-16 11:39:23	jelena@localhost	2025-09-08 00:51:43	Rscripts@localhost
+BERN2	S01281	Bell Beaker	\N	\N	\N	EBA	\N	\N	\N	\N	\N	4240	161	\N	\N	2025-09-02 00:56:06	Rscripts@localhost
+SIKUL1	S12716	\N	\N	\N	\N	LIAB	\N	gaast2017a	settlement	\N	\N	2234	155	2023-07-26 10:38:50	jelena@localhost	2025-09-03 00:52:07	Rscripts@localhost
+ORUB1	S12247	Barice-Gređani	Urnfield	\N	must be removed (duplicate S10961)	MLBA	\N	reed2022b	pit	1300	800	3219	135	2023-05-05 10:36:28	natalya@localhost	2025-09-02 00:55:25	Rscripts@localhost
+MNNY	S07154	Irish EN	\N	\N	\N	EN	\N	\N	fire: hearth; pit; posthole	\N	\N	5820	285	\N	\N	2025-04-01 23:56:47	Rscripts@localhost
+ARUN1	S21008	\N	\N	\N	\N	HOL	\N	pail2019a	sediment: sand shore	\N	\N	3501	1846	2025-05-06 15:03:19	fredrik_dahlberg@localhost	2025-09-05 00:50:44	Rscripts@localhost
+LPJE1	S02542	Chasséen	\N	\N	\N	MN	\N	\N	\N	\N	\N	5998	268	\N	\N	2025-08-20 00:59:17	Rscripts@localhost
+LPJE2	S02542	\N	\N	\N	\N	UM	\N	\N	\N	\N	\N	9758	341	\N	\N	2025-09-08 00:53:52	Rscripts@localhost
+LPJE3	S02542	Roucadourien	\N	\N	\N	LMEN	\N	\N	\N	\N	\N	7714	429	\N	\N	2025-08-29 00:52:19	Rscripts@localhost
+UOB1	S11666	Únětice	\N	\N	\N	EBA	\N	šabat2019a; šabat2019a	funerary: reused pit	\N	\N	3831	115	2023-03-07 15:20:55	jan@localhost	2025-09-08 00:55:58	Rscripts@localhost
+UOB2	S11666	\N	\N	\N	\N	RP	\N	komor2019a; komor2019a; paulu2008a; paulu2008a	military camp: ditch	\N	\N	1796	330	2023-03-07 15:20:55	jan@localhost	2025-09-03 00:55:47	Rscripts@localhost
+DODOL1	S10603	\N	\N	\N	\N	LBA	\N	\N	settlement	\N	\N	3137	159	2022-04-08 10:14:12	jelena@macelab-server.biochem.ucl.ac.uk	2025-09-08 00:51:41	Rscripts@localhost
+DODOL2	S10603	\N	\N	\N	\N	EIA	\N	\N	settlement: pile dwelling; funerary: cemetery	\N	\N	2566	155	2022-04-08 10:15:08	jelena@macelab-server.biochem.ucl.ac.uk	2025-09-06 00:50:33	Rscripts@localhost
+DODOL3	S10603	\N	\N	\N	\N	LIA	\N	\N	funerary: cemetery	\N	\N	2234	217	2022-04-08 10:15:35	jelena@macelab-server.biochem.ucl.ac.uk	2025-09-02 00:58:55	Rscripts@localhost
+DEREIVK	S11846	Dereivskaya	\N	\N	\N	ME	\N	пашке2000a	settlement	4300	3800	5830	142	2023-03-01 15:22:39	natalya@localhost	2025-03-24 23:55:15	Rscripts@localhost
+CHER1	S11116	\N	\N	\N	EBA	EBA	\N	varal2021a; varal2021a	settlement: pile dwelling	\N	\N	4259	222	2022-06-30 11:10:59	claudia@localhost	2025-09-04 00:59:27	Rscripts@localhost
+CHER2	S11116	\N	\N	\N	MBA II-FBA I	MBA	\N	varal2021a; varal2021a	\N	\N	\N	3376	214	2022-06-30 11:11:07	claudia@localhost	2025-08-27 00:55:12	Rscripts@localhost
+CHER3	S11116	\N	\N	\N	FBAII-III	LBA	\N	varal2021a; varal2021a	\N	\N	\N	3030	215	2022-06-30 11:10:32	claudia@localhost	2025-09-09 00:53:43	Rscripts@localhost
+CHER4	S11116	\N	\N	\N	FBA Early Ha	EIA	\N	varal2021a; varal2021a	\N	\N	\N	2535	200	2022-06-30 11:10:11	claudia@localhost	2025-09-04 00:55:10	Rscripts@localhost
+VERS1	S04136	Seine Oise Marne	\N	\N	\N	LN	\N	\N	\N	\N	\N	5039	315	\N	\N	2025-08-19 00:51:58	Rscripts@localhost
+SARAT1	S10984	Monteoru	\N	\N	\N	MBA	\N	bălăş2003d; haimo1994a; lazar2010a; lazar2010a	settlement	2200	1600	3954	410	2022-05-30 13:49:57	jelena@localhost	2025-09-06 00:55:51	Rscripts@localhost
+SARAT2	S10984	Cucuteni-Tripolye	\N	\N	Cucuteni B2	LNEE	\N	lazar2010a; lazar2010a	settlement	\N	\N	5635	280	2023-11-17 13:58:28	jan@localhost	2025-09-07 00:51:56	Rscripts@localhost
+TAMU1	S10901	Combed Ware	\N	\N	Late Combed Ware	EN	\N	tõrv2016a; tõrv2016a	funerary: cemetery; cultural layer; settlement	\N	\N	5842	321	2022-05-09 14:06:40	robert@localhost	2025-08-20 00:59:16	Rscripts@localhost
+TAMU2	S10901	Corded Ware	\N	\N	Estonian Corded Ware	LN	\N	tõrv2016a; tõrv2016a	funerary: cemetery; settlement	\N	\N	4676	239	2022-05-09 14:06:40	robert@localhost	2025-09-05 00:53:41	Rscripts@localhost
+TAMU3	S10901	\N	\N	\N	\N	UN	\N	tõrv2016a	funerary: cemetery	\N	\N	4973	236	2022-05-24 10:32:10	robert@localhost	2025-08-23 00:57:35	Rscripts@localhost
+PRB1	S11746	\N	\N	\N	\N	RP	\N	komor2019a; komor2019a	military camp: ditch fill	\N	\N	1826	333	2023-03-07 15:20:55	jan@localhost	2025-09-04 00:58:37	Rscripts@localhost
+PRMIS1	S11031	Proto-Únětice	\N	\N	Proto-Únětice	FEEBA	\N	papac2021a; papac2021a	funerary: cemetery	\N	\N	4107	52	2022-05-27 10:22:00	robert@localhost	2025-08-26 00:57:18	Rscripts@localhost
+PRMIS2	S11031	Únětice	\N	\N	Classic Únětice	EBA	\N	ernée2012a; ernée2012a; ernée2012b; ernée2012b; ernée2015a; ernée2015a; papac2021a; papac2021a	funerary: cemetery	\N	\N	3866	44	2022-05-27 10:22:00	robert@localhost	2025-09-06 00:52:19	Rscripts@localhost
+PRMIS3	S11031	Únětice	\N	\N	Post-Classic Únětice	EBA	\N	papac2021a; papac2021a	funerary: cemetery	\N	\N	3810	123	2022-05-27 10:22:00	robert@localhost	2025-08-25 00:56:00	Rscripts@localhost
+BEBI	S07386	Baalberge	\N	\N	\N	EMN	\N	\N	\N	\N	\N	5457	210	\N	\N	2025-08-31 00:58:31	Rscripts@localhost
+FSLN	S21045	Lengyel	\N	\N	\N	LN	\N	kaupo2023a	\N	4800	4400	6364	261	2025-07-31 14:35:24	yuzhen_li@localhost	2025-08-19 00:50:44	Rscripts@localhost
+GRISB1	S07935	Ertebølle	\N	\N	\N	LM	\N	peter2001a	\N	\N	\N	6031	314	2025-09-01 08:32:06	helene_agerskov_rose@localhost	2025-09-02 00:52:01	Rscripts@localhost
+KTLB2	S07462	Globular Amphora	\N	\N	\N	LN	\N	\N	\N	\N	\N	4667	326	\N	\N	2025-08-29 00:54:34	Rscripts@localhost
+BINNE1	S12836	\N	\N	\N	\N	LREMP	\N	groot2024a	settlement: village	-270	-900	\N	\N	2024-11-04 12:51:55	jelena@localhost	2025-09-07 00:59:41	Rscripts@localhost
+DEBTOER1	S10636	Alföld Linearbandkeramik	\N	\N	Esztár	MN	\N	depae2020b; gamar2018a; gamba2014a; gelab2023a	funerary: cemetery; settlement; funerary: grave	5500	5000	7112	181	2022-05-04 13:37:28	sam@localhost	2025-08-30 00:57:08	Rscripts@localhost
+DEBTOER2	S10636	Celtic	\N	\N	\N	MIA	\N	gelab2023a	settlement	\N	\N	2286	303	2023-11-20 15:33:44	robert@localhost	2025-09-09 00:53:32	Rscripts@localhost
+DEBTOER3	S10636	Sarmatian	\N	\N	\N	LIA	\N	gelab2023a	settlement	\N	\N	2313	324	2023-11-20 15:34:29	robert@localhost	2025-08-22 00:54:26	Rscripts@localhost
+DEBTOER4	S10636	Árpád	\N	\N	\N	EMED	\N	gelab2023a	settlement	\N	\N	1350	273	2023-11-20 15:34:59	robert@localhost	2025-09-09 00:53:32	Rscripts@localhost
+DEBTOER5	S10636	\N	\N	\N	\N	LMED	\N	gelab2023a	settlement	\N	\N	\N	\N	2023-11-20 15:35:15	robert@localhost	2025-09-09 00:51:55	Rscripts@localhost
+CACSBB	S11941	Bell Beaker	\N	\N	\N	UE	Bell Beaker strata are the lower levels of the site; SF apparently in same layer but not clear if they are	waldr1998a	funerary: tomb: megalith	\N	\N	4138	398	2023-04-14 11:28:17	lea@localhost	2025-09-05 00:58:16	Rscripts@localhost
+VESPI-EN	S10304	Impresso	\N	\N	\N	EN	\N	foren2013a; light2011a; welke2022a	cave	\N	\N	7657	292	2022-04-19 09:13:52	jelena@localhost	2025-08-21 00:53:42	Rscripts@localhost
+VESPI-M	S10304	\N	\N	\N	\N	UM	\N	foren2013a; foren2013a; light2011a	cave; cave	\N	\N	10526	302	2022-04-08 14:53:13	maria@localhost	2025-09-09 00:53:54	Rscripts@localhost
+CWM1	S10746	\N	\N	\N	\N	EN	\N	\N	settlement: enclosure	\N	\N	5259	527	2022-04-25 16:09:50	maria@localhost	2025-03-22 23:56:39	Rscripts@localhost
+GREF1	S02069	Pfyn	\N	\N	\N	LN	\N	\N	\N	\N	\N	5731	298	\N	\N	2025-09-01 00:56:57	Rscripts@localhost
+ERIMUE	S20778	\N	\N	\N	\N	UE	\N	vosko2021a	funerary	3500	3000	5931	857	2024-11-18 12:00:20	sam@localhost	2025-08-20 00:59:49	Rscripts@localhost
+NEMO1	S11827	\N	\N	\N	\N	UE	\N	čižmá2021a; čižmá2021a	settlement: hillfort: cultural layer	\N	\N	4482	278	2023-03-07 15:20:55	jan@localhost	2025-08-27 00:56:16	Rscripts@localhost
+KPKLN	S21036	Stichbandkeramik	\N	\N	\N	LN	\N	kaupo2023a	\N	4900	4400	6620	207	2025-07-31 14:35:24	yuzhen_li@localhost	2025-09-05 00:56:30	Rscripts@localhost
+SVEN91	S11557	\N	\N	\N	\N	EBA	\N	pilič2017b	settlement	2000	1700	3768	255	2023-02-17 11:45:42	jelena@localhost	2025-09-05 00:52:42	Rscripts@localhost
+CASQUI1	S12617	\N	\N	\N	\N	EMBA	\N	brune2020a	funerary: cemetery	\N	\N	1612	435	2023-06-21 09:57:20	robert@localhost	2025-09-08 00:52:29	Rscripts@localhost
+GSPF	S08867	Michelsberg	\N	\N	\N	LN	\N	\N	pit; settlement	\N	\N	5948	244	\N	\N	2025-09-09 00:52:21	Rscripts@localhost
+TEBEA1	S11063	Coţofeni	\N	\N	\N	EBA	\N	binde2006a	\N	\N	\N	4750	147	2022-06-06 10:07:07	jelena@localhost	2025-09-04 00:51:48	Rscripts@localhost
+TEBEA2	S11063	Şoimuş	\N	\N	\N	EBA	\N	binde2006a	\N	\N	\N	4773	122	2022-06-06 10:07:07	jelena@localhost	2025-09-01 00:51:16	Rscripts@localhost
+ARG	S08353	Kongemose	\N	\N	\N	MM	\N	\N	\N	\N	\N	7875	304	\N	\N	2025-08-21 00:52:51	Rscripts@localhost
+ARG2	S08353	Ertebølle	\N	\N	\N	LM	\N	fisch2007a; fisch2007a	settlement; settlement	\N	\N	5827	329	2024-08-09 14:57:08	helene@localhost	2025-03-23 23:58:59	Rscripts@localhost
+OP35	S07751	Globular Amphora	\N	\N	\N	LN	\N	\N	\N	\N	\N	4706	319	\N	\N	2025-09-07 00:59:19	Rscripts@localhost
+CHITI1	S10805	Gumelniţa	\N	\N	Gumelniţa A2	LE	\N	bălăş2014b; bréha2012a	settlement: tell; cultural layer	\N	\N	6270	216	2022-05-05 10:12:11	jelena@localhost	2025-03-27 23:57:11	Rscripts@localhost
+FRIE2	S06072	Lengyel	\N	\N	\N	MN	\N	\N	settlement: enclosure	\N	\N	6385	251	\N	\N	2025-09-02 00:51:49	Rscripts@localhost
+PFHUN	S10681	Alföld Linearbandkeramik	\N	\N	\N	MN	\N	gamba2014a; whitt2013a	settlement; funerary: grave	\N	\N	7133	173	2023-01-25 10:12:04	emily@localhost	2025-09-08 00:54:37	Rscripts@localhost
+PFHUN1	S10681	Alföld Linearbandkeramik	Szatmár	\N	ALPC I	MN	\N	gelab2023a; whitt2013a	settlement; funerary: cemetery	5467	5344	7127	178	2023-01-24 12:56:21	emily@localhost	2025-09-06 00:54:52	Rscripts@localhost
+PFHUN2	S10681	Alföld Linearbandkeramik	Tiszadob	Bükk	ALPC II-IV	MN	\N	depae2020b; gamba2014a; gelab2023a; gelab2023a; whitt2013a	settlement; funerary: cemetery; funerary: grave	5293	5068	7146	134	2022-08-25 11:50:01	sam@localhost	2025-09-04 00:54:32	Rscripts@localhost
+STJ1	S03593	Treilles	\N	\N	\N	LN	\N	\N	\N	\N	\N	4761	267	\N	\N	2025-03-29 23:50:51	Rscripts@localhost
+JACM1	S13015	\N	\N	\N	\N	UM	\N	foren2013a; foren2013a	cave	\N	\N	10189	279	2023-10-18 17:56:49	jan@localhost	2025-08-22 00:56:03	Rscripts@localhost
+JACM2	S13015	Danilo	\N	\N	Vlaška	MN	\N	foren2013a; foren2013a	cave	\N	\N	7134	198	2023-10-18 18:01:10	jan@localhost	2025-09-05 00:51:34	Rscripts@localhost
+JACM3	S13015	Hvar	\N	\N	\N	LN	\N	foren2013a; foren2013a	cave	\N	\N	6345	317	2023-10-18 18:02:31	jan@localhost	2025-08-27 00:52:43	Rscripts@localhost
+JACM4	S13015	\N	\N	\N	\N	LNEE	\N	foren2013a; foren2013a	cave	\N	\N	6272	201	2023-10-18 18:03:29	jan@localhost	2025-09-06 00:52:01	Rscripts@localhost
+BESTA1	S11354	\N	\N	\N	\N	UE	\N	logvi2013a; logvi2013a	funerary: cemetery	\N	\N	5206	312	2022-11-29 11:45:41	robert@localhost	2025-09-01 00:53:27	Rscripts@localhost
+BESTA2	S11354	Sintashta-Petrovka	\N	\N	\N	MBA	\N	logvi2002a; logvi2013a; logvi2013a	funerary: cemetery	2000	1500	3936	222	2022-11-29 11:45:41	robert@localhost	2025-09-06 00:55:58	Rscripts@localhost
+BESTA3	S11354	Alakul	Fedorovka	\N	\N	LBA	\N	logvi2002a; logvi2013a; logvi2013a	funerary: cemetery	\N	\N	3600	142	2022-11-29 11:45:41	robert@localhost	2025-09-09 00:53:20	Rscripts@localhost
+BESTA4	S11354	Sargary-Alekseevskoe	\N	\N	\N	FBA	\N	logvi2002a; logvi2013a	funerary: cemetery	1300	1000	3062	318	2022-11-29 11:45:41	robert@localhost	2025-08-24 00:53:24	Rscripts@localhost
+BESTA5	S11354	Prochorovka	Sarmatian	\N	\N	EIA	\N	logvi2013a; logvi2013a	funerary: cemetery	400	200	2333	354	2022-11-29 11:45:41	robert@localhost	2025-09-01 00:58:25	Rscripts@localhost
+BESTA6	S11354	\N	\N	\N	\N	UMED	\N	logvi2013a	funerary: cemetery	\N	\N	699	245	2022-11-29 11:45:41	robert@localhost	2025-09-02 00:56:10	Rscripts@localhost
+ÄNGDA1	S01083	Trichterbecher	\N	\N	\N	EN	\N	allen2022a; allen2024a; sjögr2022a	funerary: grave; mine: flint	4000	3650	5469	338	2022-11-29 11:45:41	robert@localhost	2025-09-05 00:53:35	Rscripts@localhost
+HLT64LIA	S12987	Nordic Bronze Age	\N	\N	\N	LIA	\N	wilhe2015a	funerary	\N	\N	3031	203	2023-10-17 10:34:22	sam@localhost	2025-09-08 00:56:59	Rscripts@localhost
+LASYUE	S20827	\N	\N	\N	\N	UE	\N	díaz2022a	\N	\N	\N	4051	444	2024-12-04 11:01:49	sam@localhost	2025-09-06 00:54:32	Rscripts@localhost

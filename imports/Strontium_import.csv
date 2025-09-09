@@ -1,0 +1,214 @@
+StrontiumID	IndividualID	ItemID	Species	Material	SkeletalElement	SkeletalPosition	Leachate	Position	SegmentLength	SegmentMass	LabCode	Mean_87Sr/86Sr	Error	ppm	MassSpecType	notes	CitationID	time_added	user_added	time_last_update	user_last_update
+15757	C09530	Item-12715	homosap	enamel	tooth: C	\N	\N	upper left	\N	\N	\N	0.709245	\N	\N	\N	\N	allen2024a	2024-08-14 10:29:21	sam@localhost	2025-03-31 10:25:31	sam@localhost
+16033	C14436	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.71334	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17134	C14436	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.71253	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16699	C14437	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70857	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17135	C14437	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70979	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16700	C14438	\N	homosap	enamel	tooth: P1	\N	\N	\N	\N	\N	\N	0.70872	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17136	C14438	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70867	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16701	C14439	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70877	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17137	C14439	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70872	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16034	C14440	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70898	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16702	C14440	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.71028	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16035	C14441	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70952	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17138	C14441	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70864	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16036	C14442	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70923	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16703	C14442	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70912	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16037	C14443	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70961	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17139	C14443	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.71034	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16038	C14444	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.7107	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17140	C14444	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70937	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16039	C14445	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70886	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16704	C14445	\N	homosap	enamel	tooth: P1	\N	\N	\N	\N	\N	\N	0.70879	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16040	C14446	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70854	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16705	C14446	\N	homosap	enamel	tooth: P1	\N	\N	\N	\N	\N	\N	0.70842	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16706	C14447	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70894	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17141	C14447	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.71026	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16041	C14448	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70939	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16707	C14448	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70929	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16042	C14449	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70909	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16708	C14449	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.709	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16043	C14450	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.7087	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16709	C14450	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70874	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16044	C14451	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70833	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16710	C14451	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70856	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16045	C14452	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70891	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16711	C14452	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70883	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16712	C14453	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.71083	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17142	C14453	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.71117	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16046	C14454	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70865	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16713	C14454	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70882	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16047	C14455	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70864	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16714	C14455	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70884	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16048	C14456	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70953	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16715	C14456	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70979	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16049	C14457	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.71125	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16716	C14457	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.71016	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16050	C14458	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70755	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17143	C14458	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70769	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16051	C14459	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70901	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16717	C14459	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.7088	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16052	C14460	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70893	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17144	C14460	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.71099	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16053	C14461	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.71655	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16718	C14461	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.71566	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16054	C14462	\N	homosap	enamel	tooth: I2	\N	\N	\N	\N	\N	\N	0.70839	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16719	C14462	\N	homosap	enamel	tooth: P1	\N	\N	\N	\N	\N	\N	0.7084	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16055	C14463	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.71089	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16720	C14463	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.71085	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16523	C14997	\N	homosap	enamel	tooth: C	\N	\N	\N	\N	\N	\N	0.70867	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16916	C14997	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70857	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17596	C14997	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70876	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16524	C14998	\N	homosap	enamel	tooth: C	\N	\N	\N	\N	\N	\N	0.70799	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16917	C14998	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70782	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16918	C14999	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70765	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17597	C14999	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70776	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16525	C15000	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70766	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16919	C15000	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70773	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17598	C15000	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70783	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16526	C15001	\N	homosap	enamel	tooth: C	\N	\N	\N	\N	\N	\N	0.71399	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17599	C15001	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.71437	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16527	C15002	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.71413	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16920	C15002	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.71427	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16921	C15003	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70778	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17600	C15003	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70769	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16528	C15004	\N	homosap	enamel	tooth: I2	\N	\N	\N	\N	\N	\N	0.70771	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17601	C15004	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.7077	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16922	C15005	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70803	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17602	C15005	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.70794	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16529	C15006	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70778	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16923	C15006	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70762	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16530	C15007	\N	homosap	enamel	tooth: C	\N	\N	\N	\N	\N	\N	0.71397	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+17603	C15007	\N	homosap	enamel	tooth: M3	\N	\N	\N	\N	\N	\N	0.71399	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16531	C15008	\N	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.70765	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+16924	C15008	\N	homosap	enamel	tooth: P1	\N	\N	\N	\N	\N	\N	0.70762	\N	\N	\N	\N	hrnčí2019a	2024-11-04 12:17:27	sam@localhost	2024-11-04 12:17:27	sam@localhost
+15177	C13174	Item-17708	\N	enamel	tooth: P1	\N	\N	\N	\N	\N	LA-ALT 62	0.709237	8.5e-05	\N	TIMS	average 13 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15171	C13167	Item-17702	\N	enamel	tooth: P2	\N	\N	\N	\N	\N	LA-ALT 53	0.709845	0.000131	\N	TIMS	average 17 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15174	C13170	Item-17705	\N	enamel	tooth: P1	\N	\N	\N	\N	\N	LA-ALT 10	0.709839	0.000107	\N	TIMS	average 16 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15178	C13171	Item-17705	\N	enamel	tooth	\N	\N	\N	\N	\N	LA-2-ALT-AB-10	0.709283	6.7e-05	\N	TIMS	average 19  lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15170	C13166	Item-17701	\N	enamel	tooth: P	tooth: P1 or P2	\N	\N	\N	\N	LA-ALT 47	0.710757	0.000105	\N	TIMS	average of 15 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2025-06-10 12:32:11	samantha_scott_reiter@localhost
+15172	C13168	Item-17703	\N	enamel	tooth: P2	\N	\N	\N	\N	\N	LA-ALT 46	0.710921	0.00018	\N	TIMS	average 17 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15173	C13169	Item-17704	\N	enamel	tooth: P2	\N	\N	\N	\N	\N	LA-ALT 12	0.711327	0.000174	\N	TIMS	average 18 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15175	C13172	Item-17706	\N	enamel	tooth: P1	\N	\N	\N	\N	\N	LA-ALT 35	0.71106	0.00014	\N	TIMS	average 20 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15176	C13173	Item-17707	\N	enamel	tooth: P2	\N	\N	\N	\N	\N	LA-ALT 112	0.710296	8.1e-05	\N	TIMS	average 16 lines	pokut2019a	2023-11-28 11:57:55	sam@localhost	2023-11-28 11:57:55	sam@localhost
+15099	C12931	\N	\N	enamel	tooth: M2	\N	\N	lower right	\N	\N	F8222	0.7107	\N	\N	TIMS	\N	wilhe2015a	2023-10-17 13:16:07	sam@localhost	2025-03-31 10:43:03	sam@localhost
+15100	C12932	\N	\N	enamel	tooth: M3	\N	\N	lower right	\N	\N	F8223	0.715	\N	\N	TIMS	\N	wilhe2015a	2023-10-17 13:16:07	sam@localhost	2025-03-31 10:43:04	sam@localhost
+15102	C12934	\N	\N	enamel	tooth: P1	\N	\N	lower right	\N	\N	F8219	0.7145	\N	\N	TIMS	\N	wilhe2015a	2023-10-17 13:16:07	sam@localhost	2025-03-31 10:43:06	sam@localhost
+15098	C12930	\N	\N	enamel	tooth: P1	\N	\N	upper right	\N	\N	F7874	0.712	\N	\N	TIMS	\N	wilhe2015a	2023-10-17 13:16:07	sam@localhost	2025-03-31 10:21:52	sam@localhost
+15101	C12933	\N	\N	enamel	tooth: M2	\N	\N	lower right	\N	\N	F8221	0.712	\N	\N	TIMS	\N	wilhe2015a	2023-10-17 13:16:07	sam@localhost	2025-03-31 10:43:05	sam@localhost
+10886	C06961	Ite-10858	\N	enamel	tooth: M1	\N	\N	upper left	\N	\N	CGIP_02_A	0.70985	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:25:13	sam@localhost
+10887	C06961	Ite-10859	\N	enamel	tooth: M3	\N	\N	lower right	\N	\N	CGIP_02_B	0.70988	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:08	sam@localhost
+10888	C06962	Ite-10860	\N	enamel	tooth: M1	\N	\N	lower	\N	\N	CGIP_03_A	0.71008	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:52:25	sam@localhost
+10889	C06962	Ite-10861	\N	enamel	tooth: M2	\N	\N	lower	\N	\N	CGIP_03_B	0.70964	1e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:52:27	sam@localhost
+10890	C06962	Ite-10862	\N	bone	long bone	\N	\N	\N	\N	\N	CGIP_03_E	0.71008	2e-05	\N	\N	\N	depae2020b	\N	\N	2022-05-31 09:55:42	sam@localhost
+10891	C06963	Ite-10863	\N	enamel	tooth: M1	\N	\N	\N	\N	\N	CGIP_04_A	0.70979	2e-05	\N	\N	\N	depae2020b	\N	\N	2022-05-31 09:55:42	sam@localhost
+10892	C06963	Ite-10864	\N	bone	skull: pars petrosa	\N	\N	\N	\N	\N	CGIP_04_E	0.71015	3e-05	\N	\N	\N	depae2020b	\N	\N	2022-05-31 09:55:42	sam@localhost
+10893	C06964	Ite-10865	\N	enamel	tooth: M	\N	\N	\N	\N	\N	CGIP_05_A	0.70949	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-06-10 12:12:33	samantha_scott_reiter@localhost
+10894	C06964	Ite-10866	\N	enamel	tooth: I1	\N	\N	upper right	\N	\N	CGIP_05_B	0.70972	3e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:20:20	sam@localhost
+10895	C06964	Ite-10867	\N	bone	femur	\N	\N	left	\N	\N	CGIP_05_E	0.71001	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:56:17	sam@localhost
+10896	C06965	Ite-10868	\N	enamel	tooth: M1	\N	\N	lower left	\N	\N	CGIP_06_A	0.70976	5e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:47:14	sam@localhost
+10897	C06965	Ite-10869	\N	bone	femur	\N	\N	\N	\N	\N	CGIP_06_E	0.71013	1e-05	\N	\N	\N	depae2020b	\N	\N	2022-05-31 09:55:42	sam@localhost
+10898	C06966	Ite-10870	\N	enamel	tooth: m1	\N	\N	\N	\N	\N	CGIP_07_A	0.71	1e-05	\N	\N	\N	depae2020b	\N	\N	2022-05-31 09:55:42	sam@localhost
+10899	C06967	Ite-10871	\N	enamel	tooth: M1	\N	\N	upper right	\N	\N	CGIP_09_A	0.70979	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:20:33	sam@localhost
+10900	C06967	Ite-10872	\N	enamel	tooth: M2	\N	\N	upper right	\N	\N	CGIP_09_B	0.70992	3e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:20:35	sam@localhost
+15788	C09390	Item-12588	homosap	enamel	tooth: M1	\N	\N	\N	\N	\N	\N	0.709419	\N	\N	\N	\N	allen2024a	2024-08-14 10:29:21	sam@localhost	2025-03-24 17:04:10	adrian@localhost
+19397	C06844	\N	homosap	enamel	tooth: M1	\N	\N	upper	\N	\N	\N	0.709128	\N	\N	\N	\N	belka2022a	2025-03-24 13:40:10	sam@localhost	2025-03-31 10:29:58	sam@localhost
+19398	C16930	\N	homosap	enamel	tooth: M1	\N	\N	lower	\N	\N	\N	0.710383	\N	\N	\N	\N	belka2022a	2025-03-24 13:40:10	sam@localhost	2025-03-31 10:53:15	sam@localhost
+19399	C06846	\N	homosap	enamel	tooth: M1	\N	\N	upper	\N	\N	\N	0.709382	\N	\N	\N	\N	belka2022a	2025-03-24 13:40:10	sam@localhost	2025-03-31 10:29:59	sam@localhost
+19400	C16931	\N	homosap	enamel	tooth: M1	\N	\N	lower	\N	\N	\N	0.709155	\N	\N	\N	\N	belka2022a	2025-03-24 13:40:10	sam@localhost	2025-03-31 10:53:17	sam@localhost
+13863	C11009	\N	\N	enamel	tooth: M1	\N	\N	\N	\N	\N	OSR_1079	0.7172	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13864	C11009	\N	\N	bone	bone	\N	\N	\N	\N	\N	OSR_1080	0.7238	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13865	C11010	\N	\N	enamel	tooth: M1	\N	\N	\N	\N	\N	OSR_1081	0.7092	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13866	C11010	\N	\N	bone	bone	\N	\N	\N	\N	\N	OSR_1082	0.7208	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13867	C11011	\N	\N	enamel	tooth: M2	\N	\N	\N	\N	\N	OSR_1083	0.7108	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13868	C11011	\N	\N	enamel	tooth: M3	\N	\N	\N	\N	\N	OSR_1084	0.7108	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13869	C11011	\N	\N	bone	bone	\N	\N	\N	\N	\N	OSR_1085	0.7217	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13870	C11012	\N	\N	enamel	tooth: M1	\N	\N	\N	\N	\N	OSR_1086	0.7177	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13871	C11012	\N	\N	bone	bone	\N	\N	\N	\N	\N	OSR_1087	0.7239	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13872	C11013	\N	\N	bone	bone	\N	\N	\N	\N	\N	OSR_1088	0.7215	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13873	C11014	\N	\N	enamel	tooth: M1	\N	\N	\N	\N	\N	OSR_1089	0.7379	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13874	C11015	\N	\N	enamel	tooth: M1	\N	\N	\N	\N	\N	OSR_1090	0.7241	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+13875	C11016	\N	\N	bone	bone	\N	\N	\N	\N	\N	OSR_1091	0.7354	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+11683	C03944	\N	\N	enamel	tooth: M	\N	no	upper	\N	\N	\N	0.709493	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-06-10 12:12:28	samantha_scott_reiter@localhost
+11706	C03945	\N	\N	enamel	tooth: M2	\N	no	right	\N	\N	\N	0.709992	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:12	sam@localhost
+11684	C08039	\N	\N	enamel	tooth: M3	\N	no	left	\N	\N	\N	0.708989	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:30	sam@localhost
+11687	C08042	\N	\N	enamel	tooth: M2	\N	no	left	\N	\N	\N	0.709069	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:31	sam@localhost
+11688	C08043	\N	\N	enamel	tooth: P	tooth: P1 or P2	no	lower	\N	\N	\N	0.709067	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-06-10 12:30:58	samantha_scott_reiter@localhost
+11690	C08045	\N	\N	enamel	tooth: P1	\N	no	left	\N	\N	\N	0.709165	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:33	sam@localhost
+11691	C08046	\N	\N	enamel	tooth: M1	\N	no	right	\N	\N	\N	0.708733	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:03	sam@localhost
+11692	C08047	\N	\N	enamel	tooth: M2	\N	no	right	\N	\N	\N	0.709141	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:08	sam@localhost
+11693	C08048	\N	\N	enamel	tooth: P	tooth: P1 or P2	no	lower	\N	\N	\N	0.70896	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-06-10 12:30:58	samantha_scott_reiter@localhost
+11694	C08049	\N	\N	enamel	tooth: M3	\N	no	right	\N	\N	\N	0.708964	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:09	sam@localhost
+11695	C08050	\N	\N	enamel	tooth: M3	\N	no	right	\N	\N	\N	0.709002	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:09	sam@localhost
+11696	C08051	\N	\N	enamel	tooth: M2	\N	no	right	\N	\N	\N	0.709017	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:10	sam@localhost
+11698	C08053	\N	\N	enamel	tooth: M1	\N	no	left	\N	\N	\N	0.709047	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:34	sam@localhost
+11699	C08055	\N	\N	enamel	tooth: M1	\N	no	left	\N	\N	\N	0.708964	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:35	sam@localhost
+11700	C08056	\N	\N	enamel	tooth: M1	\N	no	left	\N	\N	\N	0.708849	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:35	sam@localhost
+11703	C08057	\N	\N	enamel	tooth: M1	\N	no	right	\N	\N	\N	0.709094	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:11	sam@localhost
+11705	C08059	\N	\N	enamel	tooth: M3	\N	no	right	\N	\N	\N	0.708956	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:12	sam@localhost
+11678	C08037	\N	\N	enamel	tooth: M2	\N	no	right	\N	\N	\N	0.70977	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:54:58	sam@localhost
+11680	C03946	\N	\N	enamel	tooth: M3	\N	no	right	\N	\N	\N	0.709327	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:00	sam@localhost
+11681	C03947	\N	\N	enamel	tooth: M	\N	no	upper	\N	\N	\N	0.70916	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-06-10 12:12:28	samantha_scott_reiter@localhost
+11682	C08038	\N	\N	enamel	tooth: M1	\N	no	right	\N	\N	\N	0.709211	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:00	sam@localhost
+11701	C03948	\N	\N	enamel	tooth: M3	\N	no	left	\N	\N	\N	0.709029	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:36	sam@localhost
+11702	C08141	\N	\N	enamel	tooth: M1	\N	no	right	\N	\N	\N	0.708988	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:11	sam@localhost
+11679	C03949	\N	\N	enamel	tooth: M1	\N	no	left	\N	\N	\N	0.709095	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:28	sam@localhost
+11685	C08040	\N	\N	enamel	tooth: M1	\N	no	right	\N	\N	\N	0.708954	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:55:02	sam@localhost
+11686	C08041	\N	\N	enamel	tooth: M2	\N	no	left	\N	\N	\N	0.70902	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:30	sam@localhost
+11689	C08044	\N	\N	enamel	tooth: M3	\N	no	left	\N	\N	\N	0.709228	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:32	sam@localhost
+11697	C08052	\N	\N	enamel	tooth: M1	\N	no	left	\N	\N	\N	0.708994	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:34	sam@localhost
+11704	C08058	\N	\N	enamel	tooth: M2	\N	no	left	\N	\N	\N	0.709064	\N	\N	\N	T. D. Price lab	borić2013a	2022-08-10 08:48:00	sam@localhost	2025-03-31 10:56:36	sam@localhost
+13573	C10771	\N	\N	enamel	tooth: M2	\N	\N	\N	\N	\N	OSR_749	0.71122	\N	\N	\N	\N	legge2021a	2023-05-09 13:20:43	sam@localhost	2023-05-09 13:20:43	sam@localhost
+15454	C07598	Item-10644	homosap	enamel	tooth: M2	\N	\N	upper left	\N	\N	MISK-M1.1	0.71129	3e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:23:53	sam@localhost
+15455	C07598	Item-10644	homosap	dentine	tooth: M2	\N	\N	upper left	\N	\N	MISK-M1.2	0.71076	4e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:23:54	sam@localhost
+15458	C07599	Item-10645	homosap	enamel	tooth: M1	\N	\N	lower left	\N	\N	MISK-M3.1	0.70993	4e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:45:57	sam@localhost
+15459	C07599	Item-10645	homosap	dentine	tooth: M1	\N	\N	lower left	\N	\N	MISK-M3.2	0.70896	1e-04	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:45:57	sam@localhost
+15464	C07600	Item-10646	homosap	enamel	tooth: M1	\N	\N	upper right	\N	\N	MISK-M8.1	0.70891	1e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:19:42	sam@localhost
+15461	C07604	Item-10650	homosap	enamel	tooth: M3	\N	\N	upper left	\N	\N	MISK-M5.1	0.71201	3e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:24:07	sam@localhost
+15465	C07606	Item-10653	homosap	enamel	tooth: M3	\N	\N	lower left	\N	\N	MISK-M9.1	0.71068	4e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:46:04	sam@localhost
+15467	C07607	Item-10654	homosap	enamel	tooth: M3	\N	\N	lower right	\N	\N	MISK-M11.1	0.71345	4e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:39:05	sam@localhost
+15468	C07607	Item-10654	homosap	dentine	tooth: M3	\N	\N	lower right	\N	\N	MISK-M11.2	0.71201	2e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:39:07	sam@localhost
+15460	C13603	Item-18176	homosap	enamel	tooth: M1	\N	\N	lower left	\N	\N	MISK-M4.1	0.716	3e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:45:59	sam@localhost
+15462	C13604	Item-18177	homosap	enamel	tooth: P1	\N	\N	upper left	\N	\N	MISK-M6.1	0.71182	2e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:24:10	sam@localhost
+15466	C13605	Item-18178	homosap	enamel	tooth: P	tooth: P1 or P2	\N	\N	\N	\N	MISK-M10.1	0.71037	6e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-06-10 12:32:12	samantha_scott_reiter@localhost
+15456	C07608	Item-10649	homosap	enamel	tooth: M1	\N	\N	upper right	\N	\N	MISK-M2.1	0.70943	4e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:19:37	sam@localhost
+15457	C07608	Item-10649	homosap	dentine	tooth: M1	\N	\N	upper right	\N	\N	MISK-M2.2	0.70993	4e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:19:38	sam@localhost
+15463	C07608	Item-10655	homosap	enamel	tooth: M1	\N	\N	upper left	\N	\N	MISK-M7.1	0.71036	5e-05	\N	Quadrupole ICP-MS	\N	ernée2015a	2024-08-06 14:55:02	sam@localhost	2025-03-31 10:24:12	sam@localhost
+11409	C07176	Ite-11381	\N	enamel	tooth: M1	\N	\N	lower right	\N	\N	TOPE_01_A	0.70986	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:21	sam@localhost
+11410	C07176	Ite-11382	\N	enamel	tooth: M3	\N	\N	upper	\N	\N	TOPE_01_B	0.70984	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:29:07	sam@localhost
+11411	C07177	Ite-11383	\N	enamel	tooth: M1	\N	\N	lower right	\N	\N	TOPE_02_A	0.70995	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:22	sam@localhost
+11412	C07177	Ite-11384	\N	enamel	tooth: M3	\N	\N	lower left	\N	\N	TOPE_02_B	0.70993	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:47:20	sam@localhost
+11413	C07177	Ite-11385	\N	bone	humerus	\N	\N	right	\N	\N	TOPE_02_E	0.70995	5e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:54:57	sam@localhost
+11414	C07178	Ite-11386	\N	enamel	tooth: M1	\N	\N	upper left	\N	\N	TOPE_04_A	0.70978	3e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:25:39	sam@localhost
+11415	C07179	Ite-11387	\N	enamel	tooth: M1	\N	\N	lower left	\N	\N	TOPE_06_A	0.70978	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:47:46	sam@localhost
+11416	C07179	Ite-11388	\N	enamel	tooth: M3	\N	\N	upper left	\N	\N	TOPE_06_B	0.70982	3e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:25:41	sam@localhost
+11417	C07180	Ite-11389	\N	enamel	tooth: M1	\N	\N	lower left	\N	\N	TOPE_07_A	0.71041	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:47:47	sam@localhost
+11418	C07180	Ite-11390	\N	enamel	tooth: M3	\N	\N	lower right	\N	\N	TOPE_07_B	0.71052	3e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:35	sam@localhost
+11419	C07181	Ite-11391	\N	enamel	tooth: M1	\N	\N	lower right	\N	\N	TOPE_08_A	0.70995	3e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:36	sam@localhost
+11420	C07181	Ite-11392	\N	enamel	tooth: M1	\N	\N	lower right	\N	\N	TOPE_09_A	0.70996	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:37	sam@localhost
+11421	C07181	Ite-11393	\N	enamel	tooth: M2	\N	\N	lower right	\N	\N	TOPE_09_B	0.70999	5e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:40	sam@localhost
+11422	C07182	Ite-11394	\N	enamel	tooth: M1	\N	\N	lower right	\N	\N	TOPE_11_A	0.70996	4e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:42	sam@localhost
+11423	C07182	Ite-11395	\N	enamel	tooth: M3	\N	\N	lower	\N	\N	TOPE_11_B	0.71014	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:52:34	sam@localhost
+11424	C07182	Ite-11396	\N	bone	femur	\N	\N	\N	\N	\N	TOPE_11_E	0.70994	1e-05	\N	\N	\N	depae2020b	\N	\N	2022-05-31 09:55:42	sam@localhost
+11425	C07183	Ite-11397	\N	enamel	tooth: M3	\N	\N	lower right	\N	\N	TOPE_13_A	0.70984	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:40:52	sam@localhost
+11426	C07183	Ite-11398	\N	bone	femur	\N	\N	left	\N	\N	TOPE_13_E	0.70994	2e-05	\N	\N	\N	depae2020b	\N	\N	2025-03-31 10:56:29	sam@localhost
+17722	C15193	\N	homosap	dentine	tooth: M	\N	\N	upper left	\N	\N	\N	0.70842	8e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-06-10 12:10:13	samantha_scott_reiter@localhost
+17734	C15193	\N	homosap	enamel	tooth: M	\N	\N	upper left	\N	\N	\N	0.70858	7e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-06-10 12:10:05	samantha_scott_reiter@localhost
+17723	C15194	\N	homosap	dentine	tooth: M	\N	\N	lower left	\N	\N	\N	0.70844	7e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-06-10 12:10:12	samantha_scott_reiter@localhost
+17735	C15194	\N	homosap	enamel	tooth: M	\N	\N	lower left	\N	\N	\N	0.70856	1e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-06-10 12:10:04	samantha_scott_reiter@localhost
+17724	C15195	\N	homosap	dentine	tooth: M2	\N	\N	lower right	\N	\N	\N	0.70844	8e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-03-31 10:37:29	sam@localhost
+17736	C15195	\N	homosap	enamel	tooth: M2	\N	\N	lower right	\N	\N	\N	0.70868	8e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-03-31 10:37:52	sam@localhost
+17725	C15196	\N	homosap	dentine	tooth: M2	\N	\N	lower left	\N	\N	\N	0.70842	7e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-03-31 10:44:58	sam@localhost
+17737	C15196	\N	homosap	enamel	tooth: M2	\N	\N	lower left	\N	\N	\N	0.70857	7e-06	\N	Thermo ScientificTM Triton PlusTM	\N	vosko2021a	2024-11-25 10:36:58	sam@localhost	2025-03-31 10:45:24	sam@localhost
+15111	C12943	\N	\N	enamel	tooth: P1	\N	\N	lower right	\N	\N	F7926	0.7125	\N	\N	TIMS	\N	wilhe2015a	2023-10-17 13:16:07	sam@localhost	2025-03-31 10:36:25	sam@localhost
+18263	C15653	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.708511	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18264	C15654	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.710083	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18265	C15655	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.708884	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18266	C15656	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.710238	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18267	C15657	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.708663	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18268	C15658	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.70899	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18269	C15659	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.707961	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18270	C15660	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.708083	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18271	C15661	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.709269	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18272	C15662	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.709663	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost
+18273	C15663	\N	homosap	enamel	tooth: M2	\N	\N	\N	\N	\N	\N	0.708238	\N	\N	\N	\N	\N	2024-12-10 14:13:24	sam@localhost	2024-12-10 14:13:24	sam@localhost

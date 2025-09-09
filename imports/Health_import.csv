@@ -1,0 +1,55 @@
+IndividualID	Trait	Status	Location	LaboratoryMethod	trauma_cause	trauma_direction	Notes	CitationID	time_added	user_added	time_last_update	user_last_update
+C07601	trauma: fracture	present: antemortem	arms	macroscopic examination	\N	\N	Single limb	ernée2015a	\N	robert@localhost	2025-03-24 14:02:26	adrian@localhost
+C07601	trauma: indent	present: antemortem	skull	macroscopic examination	\N	\N	\N	ernée2015a	\N	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C07601	disease: hyperostosis frontalis interna	present	legs	macroscopic examination	\N	\N	Single limb	ernée2015a	\N	robert@localhost	2025-03-24 14:02:26	adrian@localhost
+C07603	behaviour: spondylolysis	present	torso	macroscopic examination	\N	\N	\N	ernée2015a	\N	robert@localhost	2025-03-24 14:02:26	adrian@localhost
+C07605	vestigial: supratrochlear foramen	present	arms	macroscopic examination	\N	\N	\N	ernée2015a	\N	robert@localhost	2025-03-24 14:02:26	adrian@localhost
+C07608	disease: cribra orbitalia	present	skull	macroscopic examination	\N	\N	\N	ernée2015a	\N	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13314	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13314	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13244	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13244	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13246	disease: cribra orbitalia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13253	trauma: fracture	present: antemortem	long bone	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13268	disease: caries	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13269	disease: cribra orbitalia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13269	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13279	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13280	disease: caries	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13281	trauma: fracture	present	long bone	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13281	disease: abcess	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13281	developmental: os acromiale	present	torso	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13282	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13283	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13284	disease: caries	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13285	disease: tuberculosis	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13285	disease: caries	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13285	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13286	trauma: fracture	present: antemortem	long bone	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13287	disease: abcess	present	long bone	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13288	disease: scurvy	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13289	disease: caries	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13289	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13290	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13290	disease: dental enamel hypoplasia	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13291	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13292	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13293	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13294	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13300	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13302	disease: cribra orbitalia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13305	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13305	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13307	disease: infection	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13307	disease: cribra orbitalia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13308	treatment: trepanation	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13308	disease: caries	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13309	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13311	disease: infection	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13311	disease: scurvy	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13313	disease: cribra orbitalia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13313	behaviour: spondylolysis	present	torso	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13315	disease: infection	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13317	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost
+C13318	disease: infection	present	\N	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2024-01-11 11:19:47	robert@localhost
+C13318	disease: dental enamel hypoplasia	present	skull	macroscopic examination	\N	\N	\N	whitt2013a	2024-01-11 11:19:47	robert@localhost	2025-03-24 16:17:58	adrian@localhost

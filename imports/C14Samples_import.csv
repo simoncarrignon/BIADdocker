@@ -1,0 +1,376 @@
+C14ID	PhaseID	SiteID	ItemID	Period	Method	C14.Age	C14.SD	δ13C	δ13C.SD	C/N_collagen	LabID	Prefix	AltLabID	AltPrefix	TaxonCode	Material	Preservation	ABotAnatomy	SkeletalElement	Quantity	MaterialNotes	Flag	ContextType	Context	CitationID	time_added	user_added	time_last_update	user_last_update
+6274	\N	S03631	\N	\N	\N	5815	35	\N	\N	\N	Lyon-3489	Lyon	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:32:09	adrian@localhost
+6275	STLU1	S03631	\N	MN	\N	5760	100	\N	\N	\N	Ly-4486	Ly	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+38324	VESBI1	S20610	\N	EE	\N	5610	40	\N	\N	\N	Beta-214589	Beta	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	funerary: grave	F71;grave;burial;placed above an extracted post inside of the palisade, EU7-58	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38325	VESBI1	S20610	\N	EE	\N	5700	40	\N	\N	\N	Beta-162065	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F2 circular pit fill EU1-13	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38326	VESBI1	S20610	\N	EE	\N	5660	40	\N	\N	\N	Beta-162066	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	F4;unspecified feature;house;floor level, EU2-18	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38327	VESBI1	S20610	\N	EE	\N	5320	60	\N	\N	\N	Beta-162067	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	4;layer;daub layer;above floor level, EU2-27	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38328	VESBI1	S20610	\N	EE	\N	5480	40	\N	\N	\N	Beta-162068	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	F4;layer;house;floor level, EU2-37	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38329	VESBI1	S20610	\N	EE	\N	5790	100	\N	\N	\N	Beta-162069	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	F4;unspecified feature;house;floor level, EU2-37	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38330	VESBI1	S20610	\N	EE	\N	5490	50	\N	\N	\N	Beta-162070	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F5;unspecified feature;house;base of plowzone ?, EU3-4	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38331	VESBI1	S20610	\N	EE	\N	5430	40	\N	\N	\N	Beta-162071	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	Block 4 midden base of plowzone EU4-3	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38332	VESBI1	S20610	\N	EE	\N	5310	50	\N	\N	\N	Beta-179782	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F14 daub/cultural layer above floor EU 2-223	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38333	VESBI1	S20610	\N	EE	\N	5520	50	\N	\N	\N	Beta-179783	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	F14;layer;house;floor level, EU2-234	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38334	VESBI1	S20610	\N	EE	\N	5580	50	\N	\N	\N	Beta-179784	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F13;pit;bell-shaped pit;zone G, EU2-251	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38335	VESBI1	S20610	\N	EE	\N	5560	50	\N	\N	\N	Beta-179785	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F13;pit;bell-shaped pit;yellow clay zone, EU2-271	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38336	VESBI1	S20610	\N	EE	LSC/GPC	5540	60	\N	\N	\N	Beta-179786	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F28 E wall trench F15, W. w. t. F4/14 EU2-284	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38337	VESBI1	S20610	\N	EE	LSC/GPC	5440	140	\N	\N	\N	Beta-179787	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F28 E wall trench F15, W. w. t. F4/14 EU2-310	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38338	VESBI1	S20610	\N	EE	\N	5540	40	\N	\N	\N	Beta-179788	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	F26; northern part of the house - F4/14, EU2-337	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38339	VESBI1	S20610	\N	EE	\N	5460	50	\N	\N	\N	Beta-179789	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	F26;post hole;house F4/14, EU2-347	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38340	VESBI1	S20610	\N	EE	\N	5550	40	\N	\N	\N	Beta-179790	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement: ditch	F19;ditch;circular enclosure;outer circular ditch;fill, EU5-3	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38341	VESBI1	S20610	\N	EE	\N	5620	40	\N	\N	\N	Beta-179791	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement: ditch	F27;post hole;inner circular ditch, EU5-6	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38342	VESBI1	S20610	\N	EE	\N	5440	50	\N	\N	\N	Beta-179792	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement: ditch	F20;ditch;circular enclosure;inner circular ditch;fill, EU6-6	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38343	VESBI1	S20610	\N	EE	\N	5420	50	\N	\N	\N	Beta-179793	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement: ditch	F21;ditch;circular enclosure;middle circular ditch;fill, EU6-4	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38344	VESBI1	S20610	\N	EE	\N	5410	40	\N	\N	\N	Beta-214592	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	fire: oven	F35;well;well/cistern; kiln/oven in well/cistern, EU8-34	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38345	VESBI1	S20610	\N	EE	\N	5480	50	\N	\N	\N	Beta-214593	Beta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	F15 north wall trench fill EU9-101	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+34258	LIPP1	S13339	\N	UE	\N	5396	31	\N	\N	\N	KIA-32885	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement: pit	499	sraka2014a	2024-07-25 16:06:39	jan@localhost	2024-09-20 16:47:45	robert@localhost
+34259	LIPP1	S13339	\N	UE	\N	5417	32	\N	\N	\N	KIA-42046	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement: pit	8	sraka2014a	2024-07-25 16:06:39	jan@localhost	2024-09-20 16:47:45	robert@localhost
+38265	END1	S20546	\N	EN	LSC	6180	110	\N	\N	\N	BM-1864R	BM	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	pit III	oross2012b	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38266	END1	S20546	\N	EN	\N	6615	60	\N	\N	\N	Bln-1940	Bln	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	3;unspecified feature;Sector III	oross2012b	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+26945	KOR3	S10044	Item-10904	LN	\N	3830	35	\N	\N	\N	Poz-75936	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	olald2018a	2022-08-15 16:15:34	robert@localhost	2024-09-20 17:15:38	robert@localhost
+26946	KOR3	S10044	Item-10905	LN	\N	3860	40	\N	\N	\N	Poz-66259	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	olald2018a	2022-08-15 16:15:34	robert@localhost	2024-09-20 17:15:38	robert@localhost
+26947	KOR3	S10044	Item-10906	LN	\N	3825	35	\N	\N	\N	Poz-66185	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	olald2018a	2022-08-15 16:15:34	robert@localhost	2024-09-20 17:15:38	robert@localhost
+26948	KOR3	S10044	Item-10907	LN	\N	3790	35	\N	\N	\N	Poz-75951	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	olald2018a	2022-08-15 16:15:34	robert@localhost	2024-09-20 17:15:38	robert@localhost
+20283	\N	S07989	\N	\N	\N	1660	75	\N	\N	\N	Ua-4897	Ua	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+28459	STOREFL1	S11414	Item-12715	EN	LSC/GPC	4530	90	-20.7	\N	\N	K-5741	K	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	\N	allen2024a	2023-01-20 18:27:42	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28460	STOREFL1	S11414	Item-12715	EN	\N	4523	37	\N	\N	\N	AAR-10248	AAR	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	\N	allen2024a	2023-01-20 18:27:42	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28461	STOREFL1	S11414	Item-12714	EN	LSC/GPC	4510	90	-20.7	\N	\N	K-5742	K	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	\N	allen2024a	2023-01-20 18:27:42	robert@localhost	2024-09-20 17:15:38	robert@localhost
+16114	\N	S06664	\N	UN	\N	4070	100	-20.8	\N	\N	GAK-1714	GAK	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:30	peter@localhost	2024-09-20 16:47:45	robert@localhost
+12277	\N	S02757	\N	UM	AMS?	9290	65	\N	\N	\N	Lyon-2623	Lyon	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+15889	\N	S06560	\N	UBA	AMS	3155	70	-22.4	\N	\N	OxA-3743	OxA	\N	\N	cervela	antler	\N	\N	antler	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:24	peter@localhost	2024-09-30 11:49:08	robert@localhost
+16332	\N	S06749	\N	UBA	LSC/GPC	3533	20	-25	\N	\N	UB-11506	UB	\N	\N	CORYSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:33	peter@localhost	2024-09-20 16:47:45	robert@localhost
+20391	\N	S08031	\N	\N	AMS	2200	50	\N	\N	\N	GrA-17741	GrA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+22173	TBO	S05040	\N	EN	\N	5660	80	\N	\N	\N	Beta-127057	Beta	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+22174	TBO	S05040	\N	EN	\N	5980	60	\N	\N	\N	Beta-127059	Beta	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+22175	TBO	S05040	\N	EN	\N	6350	90	\N	\N	\N	Beta-127058	Beta	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+15639	\N	S06401	\N	UBA	LSC/GPC	3590	100	\N	\N	\N	HAR-4424	HAR	\N	\N	QUERSPE	wood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:40:07	robert@localhost
+11083	\N	S01568	\N	UM	\N	5755	250	\N	\N	\N	GX-1904	GX	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+11087	\N	S01568	\N	UM	LSC	5426	220	\N	\N	\N	BM-670	BM	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+11333	\N	S01568	\N	UM	LSC/GPC	4670	50	\N	\N	\N	SRR-1456	SRR	\N	\N	\N	wood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:40:07	robert@localhost
+19114	DRZ	S07664	\N	MN	\N	3990	50	\N	\N	\N	Bln-3859	Bln	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:32:09	adrian@localhost
+26992	SKEPEN	S11192	\N	EN	\N	4998	34	\N	\N	\N	Ua-59328	Ua	\N	\N	\N	plant	\N	grain	\N	\N	\N	\N	\N	Grop/stolphål i hus 2	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 17:10:35	robert@localhost
+26993	SKEPLBA	S11192	\N	LBA	\N	2462	31	\N	\N	\N	Ua-59329	Ua	\N	\N	BETUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Kokgrop	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+26994	SKEPEN	S11192	\N	EN	\N	4714	33	\N	\N	\N	Ua-59330	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål i hus 2	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+26995	SKEPEN	S11192	\N	EN	\N	5300	34	\N	\N	\N	Ua-59331	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+26996	SKEPEN	S11192	\N	EN	\N	5258	35	\N	\N	\N	Ua-59332	Ua	\N	\N	BETUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Grop	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+26998	SKEPM	S11192	\N	LM	\N	6036	34	\N	\N	\N	Ua-59334	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+26999	SKEPEN	S11192	\N	EN	\N	4715	33	\N	\N	\N	Ua-59335	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål i hus 3	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27000	SKEPM	S11192	\N	LM	\N	6563	36	\N	\N	\N	Ua-59336	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål i hus 1	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27001	SKEPM	S11192	\N	LM	\N	5744	34	\N	\N	\N	Ua-59337	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål i ränna A1638	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27002	SKEPM	S11192	\N	LM	\N	5764	35	\N	\N	\N	Ua-59338	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål i ränna A1638	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27003	SKEPM	S11192	\N	LM	\N	5629	36	\N	\N	\N	Ua-59339	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27004	SKEPM	S11192	\N	LM	\N	5337	35	\N	\N	\N	Ua-59340	Ua	\N	\N	BETUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27005	SKEPM	S11192	\N	LM	\N	5192	35	\N	\N	\N	Ua-59341	Ua	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	Grop	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-08-21 16:32:09	adrian@localhost
+27006	SKEPM	S11192	\N	LM	\N	6150	35	\N	\N	\N	Ua-59342	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Stolphål i hus 1	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27129	SKEPM	S11192	\N	LM	\N	7906	98	\N	\N	\N	Ua-42084	Ua	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27130	SKEPM	S11192	\N	LM	\N	7319	65	\N	\N	\N	Ua-42085	Ua	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27131	SKEPEN	S11192	\N	EN	\N	4761	36	\N	\N	\N	Ua-42086	Ua	\N	\N	CORYAVE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27132	SKEPEN	S11192	\N	EN	\N	5534	44	\N	\N	\N	Ua-42088	Ua	\N	\N	BETUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27133	SKEPEN	S11192	\N	EN	\N	4110	30	\N	\N	\N	Ua-42089	Ua	\N	\N	CORYAVE	charcoal	\N	\N	\N	\N	\N	\N	\N	Södra megalitgraven – område 1	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27134	SKEPEN	S11192	\N	EN	\N	4719	31	\N	\N	\N	Ua-42090	Ua	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27135	SKEPM	S11192	\N	LM	\N	8207	56	\N	\N	\N	Ua-42091	Ua	\N	\N	CORYSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27136	SKEPEN	S11192	\N	EN	\N	4681	33	\N	\N	\N	Ua-42092	Ua	\N	\N	ALNUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27137	SKEPM	S11192	\N	LM	\N	8636	45	\N	\N	\N	Ua-42093	Ua	\N	\N	ALNUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+27138	SKEPEN	S11192	\N	EN	\N	4911	33	\N	\N	\N	Ua-42094	Ua	\N	\N	BETUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	brink2021a	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+30118	DRAGU2	S10940	\N	LN	LSC/GPC	5355	100	\N	\N	\N	Bln-1060	Bln	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	\N	dumit1974a	2023-06-14 16:49:37	jan@localhost	2024-09-20 16:47:45	robert@localhost
+30123	DRAGU2	S10940	\N	LN	LSC/GPC	5205	100	\N	\N	\N	Bln-1194	Bln	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	Cucuteni A6	harpe2016a	2023-06-14 16:49:37	jan@localhost	2024-09-20 16:47:45	robert@localhost
+30124	DRAGU2	S10940	\N	LN	LSC/GPC	5430	100	\N	\N	\N	Bln-1195	Bln	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	Cucuteni A7	harpe2016a	2023-06-14 16:49:37	jan@localhost	2024-09-20 16:47:45	robert@localhost
+30137	DRAGU3	S10940	\N	LNEE	LSC/GPC	5065	19	\N	\N	\N	Hd-15075	Hd	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	settlement	\N	harpe2016a	2023-06-14 16:49:37	jan@localhost	2024-09-20 17:15:38	robert@localhost
+3198	\N	S03838	\N	\N	\N	4750	140	\N	\N	\N	St-9467	St	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3250	\N	S03838	\N	\N	\N	4425	135	\N	\N	\N	St-9469	St	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3338	\N	S03838	\N	\N	\N	3055	150	\N	\N	\N	St-10624	St	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:55:47	robert@localhost
+3343	\N	S03838	\N	\N	\N	2930	210	\N	\N	\N	St-9470	St	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:32:09	adrian@localhost
+32864	SRKAR	S10693	\N	EN	\N	7233	28	\N	\N	\N	BRAMS-2423	BRAMS	\N	\N	homosap	bone	\N	\N	rib	\N	\N	\N	funerary: grave	Grave 1	porči2021a	2024-01-17 12:14:46	jan@localhost	2024-09-24 17:27:30	robert@localhost
+19405	MRO	S07734	\N	MN	LSC/GPC	4480	35	\N	\N	\N	GrN-14017	GrN	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+15966	\N	S06597	\N	UN	\N	4887	90	\N	\N	\N	Q-991	Q	\N	\N	\N	wood	\N	\N	\N	bulk	CORYSPE; FRAXSPE	\N	\N	\N	\N	\N	\N	2024-09-20 16:40:07	robert@localhost
+16172	\N	S06701	\N	UN	GPC	4900	150	\N	\N	\N	BM-188	BM	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+11814	\N	S02342	\N	\N	\N	3980	65	\N	\N	\N	Ly-12790	Ly	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+19871	LUB	S07814	\N	LN	\N	4050	55	\N	\N	\N	Kiev-6300	Kiev	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:32:09	adrian@localhost
+34254	LENI1	S13337	\N	UE	\N	4914	28	\N	\N	\N	KIA-38224	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement: pit	11	sraka2014a	2024-07-25 16:06:39	jan@localhost	2024-09-20 16:47:45	robert@localhost
+34255	LENI1	S13337	\N	UE	\N	4885	26	\N	\N	\N	KIA-38225	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement: pit	11	sraka2014a	2024-07-25 16:06:39	jan@localhost	2024-09-20 16:47:45	robert@localhost
+34256	LENI1	S13337	\N	UE	\N	4885	25	\N	\N	\N	KIA-38227	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement: pit	69	sraka2014a	2024-07-25 16:06:39	jan@localhost	2024-09-20 16:47:45	robert@localhost
+15682	\N	S06434	\N	UBA	LSC	3480	110	-24.9	\N	\N	BM-2417	BM	\N	\N	CORYSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:19	peter@localhost	2024-09-20 16:47:45	robert@localhost
+15683	\N	S06434	\N	UBA	\N	2540	100	-29.6	\N	\N	HAR-3362	HAR	\N	\N	\N	sediment: peat	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:19	peter@localhost	2024-09-26 12:39:58	robert@localhost
+33802	BOROV2	S13161	\N	LEEBA	AMS	4975	30	\N	\N	\N	SacA-21370	SacA	Lyon-7482	Lyon	animind	bone	\N	\N	\N	\N	\N	\N	settlement: tell	South Sector, sq. M10-1/2; depth 1.40 m	mania2016a	2024-03-18 18:21:42	jan@localhost	2024-09-20 17:15:38	robert@localhost
+33803	BOROV1	S13161	\N	EE	AMS	5065	35	\N	\N	\N	SacA-21371	SacA	Lyon-7483	Lyon	animind	bone	\N	\N	\N	\N	\N	\N	settlement: tell	Central Sector, sq. L17-2; depth 2.05-2.15 m	mania2016a	2024-03-18 18:21:42	jan@localhost	2024-09-20 17:15:38	robert@localhost
+33804	BOROV1	S13161	\N	EE	AMS	3860	30	\N	\N	\N	SacA-22060	SacA	Lyon-7553	Lyon	animind	bone	\N	\N	\N	\N	\N	date to late for the period	settlement: tell	South Sector, sq. M10-1; depth 1.45-1.65 m	mania2016a	2024-03-18 18:21:42	jan@localhost	2024-09-20 17:15:38	robert@localhost
+9480	HAAR1	S02162	\N	LN	LSC/GPC	3685	40	\N	\N	\N	GrN-4635	GrN	\N	\N	\N	sediment: peat	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-26 12:39:58	robert@localhost
+19409	N16	S07737	\N	EBA	\N	3930	70	\N	\N	\N	Kiev-5604	Kiev	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+36065	MANG20A	S20741	\N	LBA	AMS	2756	23	-18.1	\N	\N	KIA-54066	KIA	\N	\N	homosap	bone	burnt: cremated	\N	bone	single	\N	\N	funerary: barrow: secondary grave	feature no. 72, pit with cremated bone	schae2023a	2024-11-01 10:21:37	helene@localhost	2024-11-01 10:21:37	helene@localhost
+8872	\N	S02233	\N	LMEN	GPC	5730	150	\N	\N	\N	BM-91	BM	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+22066	\N	S08996	\N	\N	\N	6110	60	\N	\N	\N	Beta-127051	Beta	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+27796	KHALDE1	S10759	Item-11395	EBA	\N	4037	32	\N	\N	\N	UBA-41617	UBA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	saag2021a	2022-08-30 12:25:49	robert@localhost	2024-09-20 17:15:38	robert@localhost
+15510	\N	S06344	\N	UN	LSC/GPC	4920	90	-24.5	\N	\N	HAR-7029	HAR	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:15	peter@localhost	2024-09-20 16:47:45	robert@localhost
+17373	\N	S07156	\N	UN	LSC/GPC	4845	50	\N	\N	\N	GrN-20490	GrN	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:40	adrian@localhost
+7891	WTZL	S04224	\N	EMN	\N	5820	115	\N	\N	\N	KN-2229(KN-2230)	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+21314	WTZL	S04224	\N	EMN	\N	5610	125	\N	\N	\N	KN-2228	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+22067	\N	S04859	\N	\N	\N	6330	90	\N	\N	\N	Beta-127048	Beta	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+1000	HENE1	S02220	\N	LN	\N	5397	25	\N	\N	\N	KIA-27198	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-04-01 12:51:28	adrian@localhost	2024-09-20 16:47:45	robert@localhost
+1200	HENE1	S02220	\N	LN	\N	5500	60	\N	\N	\N	KN-I.413	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1215	HENE1	S02220	\N	LN	\N	5370	70	\N	\N	\N	KN-I.415	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1232	HENE1	S02220	\N	LN	\N	5270	40	\N	\N	\N	KN-I.418	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1256	HENE1	S02220	\N	LN	\N	5080	50	\N	\N	\N	KN-I.419	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+23152	HENE1	S02220	\N	LN	\N	5256	25	\N	\N	\N	KIA-27201	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+23153	HENE1	S02220	\N	LN	\N	5433	25	\N	\N	\N	KIA-27200	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+23154	HENE1	S02220	\N	LN	\N	5247	26	\N	\N	\N	KIA-27199	KIA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+11795	\N	S03904	\N	\N	AMS?	3875	40	\N	\N	\N	Lyon-1884	Lyon	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+12231	\N	S02837	\N	\N	AMS?	6825	65	\N	\N	\N	Lyon-1360	Lyon	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+8375	\N	S01833	\N	\N	AMS	4590	80	-19.5	\N	\N	OxA-746	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:01:24	peter@localhost	2024-09-20 16:55:47	robert@localhost
+10693	ODLA77	S03193	\N	EMN	\N	4400	40	\N	\N	\N	KN-1506	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+15204	\N	S06171	\N	UBA	\N	3050	80	\N	\N	\N	Q-80	Q	\N	\N	\N	wood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:40:07	robert@localhost
+11317	\N	S02251	\N	\N	AMS	7030	45	-24	\N	\N	OxA-9815	OxA	\N	\N	QUERSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:00	peter@localhost	2024-09-20 16:47:45	robert@localhost
+38737	MEKIF1	S20891	\N	MN	\N	6220	80	\N	\N	\N	Deb-5719	Deb	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	settlement	5;pit;N section, 4-5. spade depth to bottom of pit, 1st eastern settlement row	dombo2003a	2025-05-15 15:59:29	jan_kolar@localhost	2025-05-15 15:59:29	jan_kolar@localhost
+38738	MEKIF1	S20891	\N	MN	\N	6310	80	\N	\N	\N	Deb-5879	Deb	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	settlement	42;pit;1st eastern settlement row	dombo2003a	2025-05-15 15:59:29	jan_kolar@localhost	2025-05-15 15:59:29	jan_kolar@localhost
+38739	MEKIF1	S20891	\N	MN	\N	6200	45	\N	\N	\N	Deb-5893	Deb	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	settlement	3;pit;1st eastern settlement row	dombo2003a	2025-05-15 15:59:29	jan_kolar@localhost	2025-05-15 15:59:29	jan_kolar@localhost
+38740	\N	S20891	\N	NE	\N	4350	80	\N	\N	\N	Deb-5739	Deb	\N	\N	\N	sediment	\N	\N	\N	\N	\N	unreliable sample	settlement	Pit 20, 1.spd and humus	dombo2003a	2025-05-15 15:59:29	jan_kolar@localhost	2025-05-15 15:59:29	jan_kolar@localhost
+11778	\N	S02644	\N	\N	\N	3775	40	\N	\N	\N	Ly-13152	Ly	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1346	CORM1	S01599	\N	LN	\N	4640	52	\N	\N	\N	KN-4863	KN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:55:47	robert@localhost
+1589	CORM2	S01599	\N	EBA	\N	3700	25	\N	\N	\N	Hd-18738	Hd	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:55:47	robert@localhost
+1605	CORM3	S01599	\N	EBA	\N	3517	21	\N	\N	\N	Hd-18744	Hd	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:55:47	robert@localhost
+18401	\N	S01599	\N	\N	\N	1193	25	\N	\N	\N	Hd-19238	Hd	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+29320	VIN1	S11731	\N	LE	LSC/GPC	4205	35	\N	\N	\N	KIA-34745	KIA	\N	\N	animind	bone / tooth	\N	\N	\N	\N	\N	\N	settlement	Feature 2	peška2011b	2023-03-07 17:21:13	jan@localhost	2024-09-26 12:53:18	robert@localhost
+29321	VIN1	S11731	\N	LE	LSC/GPC	4075	35	\N	\N	\N	KIA-34746	KIA	\N	\N	animind	bone / tooth	\N	\N	\N	\N	\N	\N	settlement	feature 391	peška2011b	2023-03-07 17:21:13	jan@localhost	2024-09-26 12:53:18	robert@localhost
+29322	VIN1	S11731	\N	LE	LSC/GPC	4125	30	\N	\N	\N	KIA-34747	KIA	\N	\N	animind	bone / tooth	\N	\N	\N	\N	\N	\N	settlement	feature 412	peška2011b	2023-03-07 17:21:13	jan@localhost	2024-09-26 12:53:18	robert@localhost
+34025	TRNB1	S13294	\N	EIA	\N	2440	30	-18.7	\N	\N	KIA-433432	KIA	\N	\N	homosap	bone	burnt: charred	\N	\N	\N	\N	\N	funerary: cemetery	Grave 126	terza2014a	2024-07-25 16:06:38	jan@localhost	2024-09-20 14:41:43	robert@localhost
+34026	TRNB1	S13294	\N	EIA	\N	2495	30	-17.1	\N	\N	KIA-43427	KIA	\N	\N	homosap	bone	burnt: charred	\N	\N	\N	\N	\N	funerary: cemetery	Grave 21	terza2014a	2024-07-25 16:06:38	jan@localhost	2024-09-20 14:41:43	robert@localhost
+34027	TRNB1	S13294	\N	EIA	\N	2380	35	-22.2	\N	\N	KIA-43428	KIA	\N	\N	homosap	bone	burnt: charred	\N	\N	\N	\N	\N	funerary: cemetery	Grave 41	terza2014a	2024-07-25 16:06:38	jan@localhost	2024-09-20 14:41:43	robert@localhost
+34028	TRNB1	S13294	\N	EIA	\N	2450	35	-18.4	\N	\N	KIA-43429	KIA	\N	\N	homosap	bone	burnt: charred	\N	\N	\N	\N	\N	funerary: cemetery	Grave 76	terza2014a	2024-07-25 16:06:38	jan@localhost	2024-09-20 14:41:43	robert@localhost
+34029	TRNB1	S13294	\N	EIA	\N	2435	35	-22.5	\N	\N	KIA-43430	KIA	\N	\N	homosap	bone	burnt: charred	\N	\N	\N	\N	\N	funerary: cemetery	Grave 89	terza2014a	2024-07-25 16:06:38	jan@localhost	2024-09-20 14:41:43	robert@localhost
+34030	TRNB1	S13294	\N	EIA	\N	2425	30	-18.9	\N	\N	KIA-43431	KIA	\N	\N	homosap	bone	burnt: charred	\N	\N	\N	\N	\N	funerary: cemetery	Grave 102	terza2014a	2024-07-25 16:06:38	jan@localhost	2024-09-20 14:41:43	robert@localhost
+28289	FANED1	S11305	Item-12588	LM	\N	5821	37	\N	\N	\N	AAR-28400	AAR	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	allen2024a	2023-01-20 17:37:41	robert@localhost	2024-09-20 17:15:38	robert@localhost
+3132	\N	S01974	\N	\N	\N	6030	105	\N	\N	\N	St-7112	St	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3133	\N	S01974	\N	\N	\N	5915	145	\N	\N	\N	St-7110	St	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1418	PVST1	S03289	\N	LN	\N	4380	100	\N	\N	\N	Hv-582	Hv	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1428	PVST1	S03289	\N	LN	\N	4330	55	\N	\N	\N	KN-2461	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1453	PVST1	S03289	\N	LN	\N	4270	55	\N	\N	\N	KN-2459	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+1491	PVST1	S03289	\N	LN	\N	4130	55	\N	\N	\N	KN-2460	KN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+27858	LUB2-1	S10874	Item-11457	LN	\N	4160	50	\N	\N	\N	Kiev-6298	Kiev	\N	\N	homosap	bone	\N	\N	\N	\N	\N	potential Kiel date	\N	Human burial	linde2020a	2022-08-31 11:46:52	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27859	LUB2-1	S10874	Item-11457	LN	\N	3865	35	\N	\N	\N	Poz-90898	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	linde2020a	2022-08-31 11:46:52	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27860	LUB2-1	S10874	Item-11458	LN	\N	3875	35	\N	\N	\N	Poz-90899	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	linde2020a	2022-08-31 11:46:52	robert@localhost	2024-09-20 17:15:38	robert@localhost
+21524	BRN2	S08746	\N	EN	LSC/GPC	6545	40	\N	\N	\N	VERA-2596	VERA	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	settlement	527/1995	matei2008a	\N	\N	2024-09-20 17:15:38	robert@localhost
+38349	HODK1	S20614	\N	LN	\N	5800	60	-25	\N	\N	Deb-1222	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	House 1, level 3	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38350	HODK1	S20614	\N	LN	\N	5890	60	-25	\N	\N	Deb-1255	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	House 1, level 3	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38351	HODK1	S20614	\N	LN	\N	6190	60	-25	\N	\N	Deb-1263	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	House 1, level 3	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38352	HODK1	S20614	\N	LN	\N	5870	60	-27.2	\N	\N	Deb-1364	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	Levels 3-4	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38353	HODK1	S20614	\N	LN	\N	6150	60	-26.3	\N	\N	Deb-1365	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	Pit 1	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38354	HODK1	S20614	\N	LN	\N	5970	60	-26.3	\N	\N	Deb-1367	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	Pit 2	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38355	HODK1	S20614	\N	LN	\N	6090	60	-25	\N	\N	Deb-1388	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	House 1, level 3	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38356	HODK1	S20614	\N	LN	\N	5850	60	-25.3	\N	\N	Deb-1411	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	habitation: house	House 1, level 3	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38357	HODK1	S20614	\N	LN	\N	6100	60	-26	\N	\N	Deb-1412	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	Level 6	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+38358	HODK1	S20614	\N	LN	\N	5900	60	-19.4	\N	\N	Deb-1513	Deb	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	Levels 3-5	yerke2009a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+17138	\N	S07071	\N	UBA	AMS	3208	26	\N	\N	\N	UBA-8338	UBA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+26523	PAD5	S10177	Ite-11554	LMEN	\N	7518	72	-19.1	\N	\N	AA-57769	AA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	freshwater reservoir effect – corrected values after boric2011a 7078+-85	funerary: cemetery	Burial 4, human skull, Sector I	borić2013a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26524	PAD5	S10177	Ite-11555	LMEN	\N	7598	72	-19.7	\N	\N	AA-57770	AA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	freshwater reservoir effect – corrected values after boric2011a 7158+-85	funerary: cemetery	Burial 5, human skull	borić2013a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26525	PAD5	S10177	Ite-11559	LMEN	\N	9920	100	-20.7	\N	\N	AA-57771	AA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	freshwater reservoir effect, corrected values after boric2011a 9480+-110	funerary: cemetery	Burial 9, human skull	borić2013a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26526	PAD2	S10177	Ite-11560	EMM	\N	9665	54	\N	\N	\N	OxA-16938	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	freshwater reservoir effect, corrected values after boric2011a 9225+-70	funerary: cemetery	Burial 11, human rib, beneath building 15, Sector III	borić2013a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26527	PAD2	S10177	Ite-11563	EMM	\N	9310	44	-19.1	\N	\N	OxA-17145	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	Freshwater reservoir effect; corrected values after boric2011a 8870+-63; replaces OxA-11105	funerary: cemetery	Burial 15, human trapezium	borić2011a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26528	PAD2	S10177	Ite-11571	EMM	\N	9804	49	-19	\N	\N	OxA-16939	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	freshwater reservoir effect, corrected values after boric2011a 9364+-67	funerary: cemetery	Burial 21, human rib, in the stone construction, Sector III	borić2013a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26529	PAD6	S10177	Ite-11579	UM	\N	8420	120	-20.9	\N	\N	AA-57772	AA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	freshwater reservoir effect, corrected values after boric2011a 7980+-128	funerary: cemetery	Burial 27, human skull, block 5d, Sector II	borić2013a	\N	\N	2024-09-20 17:15:38	robert@localhost
+27402	PAD2	S10177	Item-11064	EMM	\N	9340	35	-20.3	\N	\N	PSUAMS-2407	PSUAMS	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	mathi2018a	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27403	PAD2	S10177	Item-11065	EMM	\N	9505	35	-20.1	\N	\N	PSUAMS-2375	PSUAMS	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	mathi2018a	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27404	PAD2	S10177	Item-11066	EMM	\N	9715	40	-20.4	\N	\N	PSUAMS-2376	PSUAMS	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	mathi2018a	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27405	PAD2	S10177	Item-11067	EMM	\N	9765	40	-19.9	\N	\N	PSUAMS-2378	PSUAMS	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	mathi2018a	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27406	PAD2	S10177	Item-11068	EMM	\N	9800	30	-19.9	\N	\N	PSUAMS-2408	PSUAMS	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	mathi2018a	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27407	PAD6	S10177	Item-11069	UM	\N	9920	40	-19.6	\N	\N	PSUAMS-2377	PSUAMS	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	mathi2018a	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+31046	PAD5	S10177	\N	LMEN	LSC/GPC	7100	80	-25.7	\N	\N	GrN-8230	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	Occupation layer (?)	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 16:47:45	robert@localhost
+31047	PAD5	S10177	\N	LMEN	LSC/GPC	7075	50	-25.2	\N	\N	GrN-7981	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	A trapezoidal building	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 16:47:45	robert@localhost
+31048	PAD5	S10177	\N	LMEN	\N	7098	43	-22.8	\N	\N	OxA-16937	OxA	\N	\N	mammind	bone	\N	\N	\N	\N	\N	replaces OxA-11103	settlement	building 17, hearth, mammal bone-projectile point, Sector III	borić2011a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31049	PAD5	S10177	\N	LMEN	AMS	6965	60	-22.2	\N	\N	OxA-9052	OxA	\N	\N	cervela	antler	\N	\N	antler	\N	\N	\N	settlement	Building 18,floor, red deer antler, Sector III	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-30 11:49:08	robert@localhost
+31050	PAD5	S10177	\N	LMEN	AMS	6790	55	-22	\N	\N	OxA-9054	OxA	\N	\N	mammind	bone	\N	\N	\N	\N	\N	\N	settlement	Building 15-beneath the floor Level, modified mammal bone, Sector III	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31051	PAD6	S10177	\N	UM	LSC	9331	58	-21.7	\N	\N	BM-1146	BM	\N	\N	homosap	bone	\N	\N	\N	\N	\N	Possibly corrected for freshwater reservoir effect – 14SEA database	funerary: cemetery	Burial 12, human bone	radov2015a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31052	PAD6	S10177	\N	UM	\N	7707	44	-21	\N	\N	OxA-16940	OxA	\N	\N	cervind	antler	\N	\N	antler	\N	\N	replaces OxA-11108	funerary: cemetery	Burial 1a, antler tool in Burial, Sector I	borić2011a	2023-07-21 18:54:22	jan@localhost	2024-09-30 11:49:08	robert@localhost
+31053	PAD6	S10177	\N	UM	AMS	8445	60	-20.8	\N	\N	OxA-9055	OxA	\N	\N	cervela	bone	\N	\N	mandible	\N	\N	\N	settlement	midden, Sector III,profile 3 segm.,1,Spit 3	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31054	PAD2	S10177	\N	EMM	\N	9737	49	-20.7	\N	\N	OxA-17144	OxA	\N	\N	cervela	bone	\N	\N	\N	\N	\N	replaces OxA-11102	settlement	beneath building 14, red deer astragalus	borić2011a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31055	PAD6	S10177	\N	UM	LSC	9198	103	-20.6	\N	\N	BM-1147	BM	\N	\N	homosap	bone	\N	\N	\N	\N	\N	Possibly corrected for freshwater reservoir effect – 14SEA database	funerary: cemetery	Burial 14, human bone	radov2015a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31056	PAD5	S10177	\N	LMEN	LSC	9292	148	-19.3	\N	\N	BM-1404	BM	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: cemetery	Phase , Sector III, Skeleton 39 (infant), post-cranial bones	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31057	PAD5	S10177	\N	LMEN	AMS	7625	55	-18.1	\N	\N	OxA-9056	OxA	\N	\N	canifam	bone	\N	\N	\N	\N	\N	freshwater reservoir effect, corrected values after boric2004a 7405+-60	settlement	\N	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31058	PAD5	S10177	\N	LMEN	\N	7975	50	-17.9	\N	\N	OxA-11107	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	freshwater reservoir effect, corrected values after boric201a 7535+-67	funerary: cemetery	Burial 1a, human long bone, Sector I	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31059	PAD5	S10177	\N	LMEN	AMS	7685	60	-17.7	\N	\N	OxA-9053	OxA	\N	\N	canispe	bone	\N	\N	\N	\N	\N	freshwater reservoir effect, corrected values after boric2004a 7465+-64	settlement	\N	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31060	PAD5	S10177	\N	LMEN	AMS	7755	65	-17.7	\N	\N	OxA-9034	OxA	\N	\N	canifam	bone	\N	\N	\N	\N	\N	\N	settlement	above building 12, dog tibia,under the Level with animal bones, Sector III	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31061	PAD6	S10177	\N	UM	LSC	7738	51	\N	\N	\N	BM-1143	BM	\N	\N	homosap	bone	\N	\N	\N	\N	\N	Possibly corrected for freshwater reservoir effect	funerary: cemetery	Burial 2, human , Sector I	bonsa2008a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31062	PAD6	S10177	\N	UM	LSC	8797	83	\N	\N	\N	BM-1144	BM	\N	\N	homosap	bone	\N	\N	\N	\N	\N	Possibly corrected for freshwater reservoir effect	funerary: cemetery	Burial 7, Sector III	bonsa2008a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31063	PAD5	S10177	\N	LMEN	\N	7315	55	\N	\N	\N	OxA-11103	OxA	\N	\N	mammind	bone	\N	\N	\N	\N	\N	according to boric2011a not a correct date, should be replaced by OxA-16937	settlement	building 17, hearth, mammal bone-projectile point, Sector III	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31064	PAD6	S10177	\N	UM	LSC	8138	121	\N	\N	\N	BM-1403	BM	\N	\N	ursuarc	bone	\N	\N	\N	\N	\N	\N	settlement	Sector III	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+31065	PAD5	S10177	\N	LMEN	\N	6570	55	\N	\N	\N	GrN-8229	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	A trapezoidal building, hearth (?)	borić2004a	2023-07-21 18:54:22	jan@localhost	2024-09-20 16:47:45	robert@localhost
+16733	\N	S06895	\N	\N	\N	4100	70	\N	\N	\N	Y-93	Y	\N	\N	PINUSPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 17:33:37	adrian@localhost
+20662	\N	S08128	\N	\N	\N	3805	110	\N	\N	\N	Ua-15698	Ua	\N	\N	CERINDO	plant	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 15:23:39	robert@localhost
+22402	BNS	S09063	\N	LMEN	\N	5560	100	\N	\N	\N	Hv-20257	Hv	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:49:56	robert@localhost
+22403	BNS	S09063	\N	LMEN	\N	5665	80	\N	\N	\N	Hv-20256	Hv	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:49:56	robert@localhost
+22404	BNS	S09063	\N	LMEN	\N	5765	80	\N	\N	\N	Hv-20258	Hv	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:49:56	robert@localhost
+17205	\N	S07097	\N	UBA	\N	3910	40	\N	\N	\N	Beta-177425	Beta	\N	\N	FRAXELC	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3278	\N	S02178	\N	\N	\N	4210	60	-24.7	\N	\N	Ua-6006	Ua	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:01:21	peter@localhost	2024-08-21 16:32:09	adrian@localhost
+20176	\N	S02178	\N	\N	AMS	4030	60	-24.7	\N	\N	GrA-18516	GrA	\N	\N	\N	residue: food	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-26 15:13:03	robert@localhost
+1552	BERN2	S01281	\N	EBA	\N	3871	22	\N	\N	\N	Hd-19285	Hd	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:55:47	robert@localhost
+15361	\N	S06250	\N	UBA	LSC/GPC	3460	130	-25.4	\N	\N	HAR-488	HAR	\N	\N	BETUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:12	peter@localhost	2024-09-20 16:47:45	robert@localhost
+9384	\N	S01777	\N	UM	LSC/GPC	8850	50	\N	\N	\N	GrN-6467	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9385	\N	S01777	\N	UM	\N	7920	60	\N	\N	\N	GrN-6468a	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9386	\N	S01777	\N	UM	\N	7885	50	\N	\N	\N	GrN-6468b	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9387	\N	S01777	\N	UM	LSC/GPC	7860	75	\N	\N	\N	GrN-6001	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9388	\N	S01777	\N	UM	LSC/GPC	6205	45	\N	\N	\N	GrN-6466	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+17360	\N	S07154	\N	UBA	\N	3221	122	\N	\N	\N	Wk-17345	Wk	\N	\N	QUERSPE	wood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:40:07	robert@localhost
+17361	\N	S07154	\N	UN	\N	5082	64	-25.3	\N	\N	Wk-17342	Wk	\N	\N	QUERSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+17362	\N	S07154	\N	UN	\N	5048	40	-24	\N	\N	Wk-17341	Wk	\N	\N	QUERSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+17363	\N	S07154	\N	UN	\N	5043	43	-25	\N	\N	Wk-17343	Wk	\N	\N	QUERSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+17364	\N	S07154	\N	UN	\N	5037	40	-24.4	\N	\N	Wk-17338	Wk	\N	\N	QUERSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+17365	\N	S07154	\N	UN	\N	4991	47	-25.2	\N	\N	Wk-17344	Wk	\N	\N	QUERSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+17366	\N	S07154	\N	UN	AMS	4970	37	-22	\N	\N	UB-7596	UB	\N	\N	CORYAVE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 17:33:36	adrian@localhost
+17367	\N	S07154	\N	UN	AMS	4897	37	-22	\N	\N	UB-7595	UB	\N	\N	CORYAVE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 17:33:36	adrian@localhost
+17368	\N	S07154	\N	UN	AMS	4836	37	-21	\N	\N	UB-7594	UB	\N	\N	CORYAVE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 17:33:36	adrian@localhost
+15376	\N	S06257	\N	UN	LSC/GPC	5270	110	-25.3	\N	\N	HAR-1198	HAR	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:12	peter@localhost	2024-09-20 16:47:45	robert@localhost
+36780	ARUN1	S21008	\N	HOL	\N	1081	56	-24	\N	\N	Erl-11753	Erl	\N	\N	\N	sediment: organic	\N	\N	\N	\N	\N	\N	sediment: sand shore	\N	pail2019a	2025-05-06 15:15:16	fredrik_dahlberg@localhost	2025-05-06 15:15:16	fredrik_dahlberg@localhost
+36781	ARUN1	S21008	\N	HOL	\N	436	55	-24	\N	\N	Erl-11749	Erl	\N	\N	\N	sediment: organic	\N	\N	\N	\N	\N	\N	sediment: sand shore	\N	pail2019a	2025-05-06 15:15:16	fredrik_dahlberg@localhost	2025-05-06 15:15:16	fredrik_dahlberg@localhost
+36782	ARUN1	S21008	\N	HOL	\N	1686	56	-25	\N	\N	Erl-11750	Erl	\N	\N	\N	sediment: organic	\N	\N	\N	\N	\N	\N	sediment: sand shore	\N	pail2019a	2025-05-06 15:15:16	fredrik_dahlberg@localhost	2025-05-06 15:15:16	fredrik_dahlberg@localhost
+36783	ARUN1	S21008	\N	HOL	\N	2340	54	-26	\N	\N	Erl-11751	Erl	\N	\N	\N	sediment: organic	\N	\N	\N	\N	\N	\N	sediment: sand shore	\N	pail2019a	2025-05-06 15:15:16	fredrik_dahlberg@localhost	2025-05-06 15:15:16	fredrik_dahlberg@localhost
+36784	ARUN1	S21008	\N	HOL	\N	2716	55	-27	\N	\N	Erl-11752	Erl	\N	\N	\N	sediment: organic	\N	\N	\N	\N	\N	\N	sediment: sand shore	\N	pail2019a	2025-05-06 15:15:16	fredrik_dahlberg@localhost	2025-05-06 15:15:16	fredrik_dahlberg@localhost
+11944	\N	S02500	\N	\N	AMS?	4980	50	\N	\N	\N	Lyon-2700	Lyon	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+6158	LPJE2	S02542	\N	UM	LSC/GPC	8910	145	\N	\N	\N	MC-1240	MC	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6159	LPJE2	S02542	\N	UM	LSC/GPC	8710	190	\N	\N	\N	Gif-3418	Gif	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6161	\N	S02542	\N	LMEN	LSC/GPC	6990	120	\N	\N	\N	MC-1367	MC	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6162	\N	S02542	\N	LMEN	LSC/GPC	6850	130	\N	\N	\N	MC-2371	MC	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:43	adrian@localhost
+6163	\N	S02542	\N	LMEN	LSC/GPC	6710	130	\N	\N	\N	MC-2188	MC	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6164	\N	S02542	\N	LMEN	LSC/GPC	6620	120	\N	\N	\N	MC-2187	MC	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6165	\N	S02542	\N	LMEN	LSC/GPC	6500	130	\N	\N	\N	MC-2251	MC	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6172	\N	S02542	\N	MN	LSC/GPC	6140	120	\N	\N	\N	MC-1298	MC	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:43	adrian@localhost
+12562	LPJE1	S02542	\N	MN	LSC/GPC	5130	90	\N	\N	\N	MC-1297	MC	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:43	adrian@localhost
+12563	LPJE3	S02542	\N	LMEN	\N	8010	145	\N	\N	\N	MC-1239	MC	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+29146	UOB1	S11666	\N	EBA	\N	3540	30	\N	\N	\N	KIA-34731	KIA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: reused pit	obj. 315	šabat2019a	2023-03-07 17:21:12	jan@localhost	2024-08-21 16:32:09	adrian@localhost
+29147	UOB1	S11666	\N	EBA	\N	3510	30	\N	\N	\N	KIA-34727	KIA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: reused pit	obj. 85	šabat2019a	2023-03-07 17:21:12	jan@localhost	2024-08-21 16:32:09	adrian@localhost
+29148	UOB2	S11666	\N	RP	\N	1820	25	\N	\N	\N	UGAMS-7650	UGAMS	\N	\N	homosap	bone / tooth	\N	\N	\N	\N	child	\N	military camp: ditch	\N	komor2019a	2023-03-07 17:21:12	jan@localhost	2024-09-26 12:53:18	robert@localhost
+29149	UOB2	S11666	\N	RP	\N	1890	35	\N	\N	\N	VERA-4112	VERA	\N	\N	animind	bone / tooth	\N	\N	\N	\N	\N	\N	military camp: ditch	\N	paulu2008a	2023-03-07 17:21:12	jan@localhost	2024-09-26 12:53:18	robert@localhost
+12764	VERS1	S04136	\N	LN	LSC/GPC	4240	120	\N	\N	\N	Gif-3700	Gif	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:38	adrian@localhost
+12765	VERS1	S04136	\N	LN	LSC/GPC	4240	100	\N	\N	\N	Gif-5740	Gif	\N	\N	homosap	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 17:33:37	adrian@localhost
+12766	VERS1	S04136	\N	LN	LSC/GPC	4060	120	\N	\N	\N	Gif-3699	Gif	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:38	adrian@localhost
+30398	SARAT2	S10984	\N	LNEE	\N	4701	42	\N	\N	\N	Hd-18826	Hd	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	settlement	1952, Surface R,-1-1.45m	lazar2010a	2023-06-16 18:23:54	jan@localhost	2024-09-20 17:15:38	robert@localhost
+30399	SARAT2	S10984	\N	LNEE	\N	4481	33	\N	\N	\N	Hd-19419	Hd	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	settlement	1952, Surface T,-1.45m	lazar2010a	2023-06-16 18:23:54	jan@localhost	2024-09-20 17:15:38	robert@localhost
+30400	SARAT2	S10984	\N	LNEE	\N	4440	25	\N	\N	\N	Hd-19573	Hd	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	settlement	1952, Surface R,Pit 1,-2m	lazar2010a	2023-06-16 18:23:54	jan@localhost	2024-09-20 17:15:38	robert@localhost
+30401	SARAT1	S10984	\N	MBA	\N	3919	48	\N	\N	\N	Bln-4619	Bln	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	settlement	1952, Surface Y,	lazar2010a	2023-06-16 18:23:54	jan@localhost	2024-09-20 17:15:38	robert@localhost
+27881	TAMU1	S10901	Item-11475	EN	\N	4680	40	\N	\N	\N	Poz-15645	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27882	TAMU1	S10901	Item-11476	EN	\N	4940	40	\N	\N	\N	Poz-10826	Poz	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27883	TAMU2	S10901	Item-11477	LN	\N	4417	20	\N	\N	\N	KIA-48956	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27884	TAMU1	S10901	Item-11478	EN	\N	5760	45	-27.1	\N	\N	Hela-1335	Hela	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27885	TAMU1	S10901	Item-11479	EN	\N	5370	45	-25.8	\N	\N	Hela-1336	Hela	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27886	TAMU1	S10901	Item-11480	EN	\N	4995	22	\N	\N	\N	KIA-48838	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27887	TAMU1	S10901	Item-11543	EN	\N	4593	36	\N	\N	\N	UBA-28201	UBA	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 16:47:45	robert@localhost
+27888	TAMU1	S10901	Item-11481	EN	AMS	5310	85	-23.9	\N	\N	Ua-4828	Ua	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27889	TAMU2	S10901	Item-11482	LN	\N	4377	29	\N	\N	\N	UBA-28202	UBA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27890	TAMU1	S10901	Item-11483	EN	\N	5331	44	\N	\N	\N	UBA-27361	UBA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27891	TAMU1	S10901	Item-11484	EN	\N	4696	39	\N	\N	\N	UBA-27359	UBA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27892	TAMU1	S10901	Item-11485	EN	\N	4925	40	-25	\N	\N	Hela-1337	Hela	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27893	TAMU1	S10901	Item-11486	EN	\N	5132	35	\N	\N	\N	UBA-25994	UBA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27894	TAMU1	S10901	Item-11487	EN	\N	4830	39	\N	\N	\N	Ua-43123	Ua	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27895	TAMU1	S10901	Item-11488	EN	\N	4080	100	\N	\N	\N	Ta-219	Ta	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+27896	TAMU1	S10901	Item-11489	EN	\N	5189	34	\N	\N	\N	UBA-25995	UBA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	Human burial	tõrv2016a	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+6414	\N	S02722	\N	UM	LSC/GPC	7800	130	\N	\N	\N	Ly-6433	Ly	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:42	adrian@localhost
+6415	\N	S02722	\N	UM	\N	6975	65	\N	\N	\N	Ly-372	Ly	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:32:09	adrian@localhost
+29369	PRB1	S11746	\N	RP	\N	2160	40	\N	\N	\N	Poz-58268	Poz	\N	\N	CHENHYB	residue	\N	\N	\N	\N	\N	unexpected date	military camp: ditch fill	\N	komor2019a	2023-03-07 17:21:13	jan@localhost	2024-09-26 18:03:09	robert@localhost
+26653	PRMIS1	S11031	Item-10645	FEEBA	\N	3770	35	-19.5	\N	\N	KIA-30941	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	grave 13	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26654	PRMIS1	S11031	Item-10648	FEEBA	\N	3750	30	-18	\N	\N	KIA-35072	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	grave 40	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26655	PRMIS1	S11031	Item-10644	FEEBA	\N	3755	30	-20.3	\N	\N	KIA-35075	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	grave 4	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26656	PRMIS2	S11031	Item-10649	EBA	\N	3615	30	-20.2	\N	\N	KIA-35076	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	Hrob 8	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26657	PRMIS2	S11031	Item-10653	EBA	\N	3510	30	\N	\N	\N	KIA-35081	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	Hrob 32	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26658	PRMIS1	S11031	Item-10647	FEEBA	\N	3675	30	-20.6	\N	\N	KIA-35083	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	no artefact associated	funerary: grave	grave 39	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26659	PRMIS2	S11031	Item-10654	EBA	\N	3595	30	\N	\N	\N	KIA-35084	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	Hrob 42	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26663	PRMIS2	S11031	Item-10653	EBA	\N	3460	21	-18.1	\N	\N	MAMS-19129	MAMS	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	grave 32	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26813	PRMIS2	S11031	Item-10650	EBA	\N	3530	40	-19	\N	\N	UtC-13186	UtC	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	18	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26814	PRMIS3	S11031	Item-10655	EBA	\N	3410	40	-19.5	\N	\N	UtC-13188	UtC	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	27	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26815	PRMIS1	S11031	Item-10646	FEEBA	\N	3670	35	-19.3	\N	\N	UtC-13189	UtC	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	29	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26816	PRMIS2	S11031	Item-10651	EBA	\N	3560	35	-19.8	\N	\N	UtC-13190	UtC	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	31	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26817	PRMIS2	S11031	Item-10653	EBA	\N	3520	35	-19.4	\N	\N	UtC-13191	UtC	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	32	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+26818	PRMIS2	S11031	Item-10654	EBA	\N	3560	40	-18.5	\N	\N	UtC-13192	UtC	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	42	papac2021a	\N	\N	2024-09-20 17:15:38	robert@localhost
+28621	PRMIS2	S11031	\N	EBA	\N	3575	30	-19.2	\N	\N	KIA-30943	KIA	\N	\N	homosap	bone	\N	\N	femur	\N	female, 40-50 years, C (%) 50.4 collagen (%) 9.6	\N	funerary: grave	Hrob 21	ernée2015a	2023-02-16 17:22:21	jan@localhost	2024-09-26 11:51:37	robert@localhost
+28625	PRMIS2	S11031	Item-10650	EBA	\N	3597	30	\N	\N	\N	KIA-35077	KIA	\N	\N	homosap	bone / tooth	\N	\N	\N	\N	female, juvenis (14-20) C (%) 54.5 collagen (%) 0.8	\N	funerary: grave	Hrob 18	papac2021a	2023-02-16 17:22:21	jan@localhost	2024-09-26 12:53:18	robert@localhost
+28626	PRMIS2	S11031	\N	EBA	\N	3560	30	\N	\N	\N	KIA-35078	KIA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Hrob 19	ernée2012a	2023-02-16 17:22:21	jan@localhost	2024-08-21 16:32:09	adrian@localhost
+28627	PRMIS2	S11031	Item-18178	EBA	\N	3537	33	\N	\N	\N	KIA-35082	KIA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Hrob 33	ernée2012a	2023-02-16 17:22:21	jan@localhost	2024-08-21 16:32:09	adrian@localhost
+28628	PRMIS2	S11031	\N	EBA	\N	3604	27	\N	\N	\N	KIA-35708	KIA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Hrob 21	ernée2012a	2023-02-16 17:22:21	jan@localhost	2024-08-21 16:32:09	adrian@localhost
+28637	PRMIS1	S11031	\N	FEEBA	\N	3791	24	-23.7	\N	\N	MAMS-19125	MAMS	\N	\N	homosap	bone / tooth	\N	\N	\N	\N	female, infans (11-13) C:N 3.6 C(%) 63.7 collagen (%) 4.2	\N	funerary: grave	grave 4	papac2021a	2023-02-16 17:22:21	jan@localhost	2024-09-26 12:53:18	robert@localhost
+28638	PRMIS1	S11031	\N	FEEBA	\N	3745	22	-16.9	\N	\N	MAMS-19126	MAMS	\N	\N	homosap	bone / tooth	\N	\N	\N	\N	female, infans (11-13) C:N 3.6 C(%) 63.6 collagen (%) 2.1	\N	funerary: grave	grave 13	papac2021a	2023-02-16 17:22:21	jan@localhost	2024-09-26 12:53:18	robert@localhost
+28795	PRMIS2	S11031	Item-18177	EBA	LSC/GPC	3600	38	-19	\N	\N	UtC-13187	UtC	\N	\N	homosap	bone	\N	\N	\N	\N	adultus I, 20 years	\N	funerary: grave	20	ernée2012b	2023-02-16 17:22:21	jan@localhost	2024-09-24 17:28:22	robert@localhost
+33853	PRMIS2	S11031	Item-18176	EBA	\N	3450	20	-19	\N	\N	KIA-30148.1	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	13C calculated to %VPDB	\N	funerary: grave	grave cut	ernée2015a	2024-05-13 10:58:32	sam@localhost	2024-09-20 17:15:38	robert@localhost
+33854	PRMIS2	S11031	Item-18176	EBA	\N	3545	35	-15.3	\N	\N	KIA-30148.2	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	13C calculated to %VPDB	\N	funerary: grave	grave cut	ernée2015a	2024-05-13 10:58:32	sam@localhost	2024-09-20 17:15:38	robert@localhost
+33855	PRMIS2	S11031	Item-18176	EBA	\N	3550	25	-18.4	\N	\N	KIA-30942	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	13C calculated to %VPDB	\N	funerary: grave	grave cut	ernée2015a	2024-05-13 10:58:32	sam@localhost	2024-09-20 17:15:38	robert@localhost
+33856	PRMIS2	S11031	Item-18176	EBA	\N	3580	25	-19.6	\N	\N	KIA-30149.1	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	13C calculated to %VPDB	\N	funerary: grave	grave cut	ernée2015a	2024-05-13 10:58:32	sam@localhost	2024-09-20 17:15:38	robert@localhost
+33857	PRMIS2	S11031	Item-18176	EBA	\N	3575	25	-19	\N	\N	KIA-30149.2	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	13C calculated to %VPDB	\N	funerary: grave	grave cut	ernée2015a	2024-05-13 10:58:32	sam@localhost	2024-09-20 17:15:38	robert@localhost
+33858	PRMIS2	S11031	Item-18177	EBA	\N	3740	25	-19.3	\N	\N	KIA-35707	KIA	\N	\N	bosspec	bone	\N	\N	\N	\N	13C calculated to %VPDB	\N	funerary: grave	grave cut	ernée2015a	2024-05-13 10:58:32	sam@localhost	2024-09-20 16:49:56	robert@localhost
+33859	PRMIS2	S11031	Item-18178	EBA	\N	3660	35	-20.1	\N	\N	KIA-35709	KIA	\N	\N	homosap	bone	\N	\N	\N	\N	13C calculated to %VPDB	\N	funerary: grave	grave cut	ernée2015a	2024-05-13 10:58:32	sam@localhost	2024-09-20 17:15:38	robert@localhost
+9656	\N	S04303	\N	UM	LSC/GPC	7110	20	\N	\N	\N	GrN-20955	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9657	\N	S04303	\N	UM	LSC/GPC	7100	20	\N	\N	\N	GrN-20954	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9658	\N	S04303	\N	UM	LSC/GPC	6980	60	\N	\N	\N	GrN-20953	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9885	\N	S02333	\N	UM	LSC/GPC	7160	50	\N	\N	\N	GrN-26320	GrN	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6358	\N	S02736	\N	UN	\N	6465	70	\N	\N	\N	Ly-7077	Ly	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6359	\N	S02736	\N	UN	\N	6235	50	\N	\N	\N	Ly-7076	Ly	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+20162	GRISB1	S07935	\N	LM	\N	4820	80	-23.8	\N	\N	K-5382	K	\N	\N	CORYSPE	charcoal	\N	\N	\N	\N	\N	\N	settlement	cooking pit A	peter2001a	\N	\N	2025-09-01 08:56:14	helene_agerskov_rose@localhost
+38900	GRISB1	S07935	\N	LM	\N	5450	90	\N	\N	\N	K-4484	K	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	Stratigraphic sequence: layer 13	peter2001a	2025-09-01 09:05:32	helene_agerskov_rose@localhost	2025-09-01 09:05:32	helene_agerskov_rose@localhost
+38901	GRISB1	S07935	\N	LM	\N	5120	90	\N	\N	\N	K-4483	K	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	settlement	Stratigraphic sequence: layer 11	peter2001a	2025-09-01 09:05:32	helene_agerskov_rose@localhost	2025-09-01 09:05:32	helene_agerskov_rose@localhost
+38902	GRISB1	S07935	\N	LM	\N	5480	95	\N	\N	\N	K-5530	K	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	settlement	cooking pit O	peter2001a	2025-09-01 09:05:32	helene_agerskov_rose@localhost	2025-09-01 09:05:32	helene_agerskov_rose@localhost
+6441	\N	S01581	\N	MN	LSC/GPC	5360	70	\N	\N	\N	Ly-4668	Ly	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:42	adrian@localhost
+15764	\N	S06486	\N	UBA	LSC	3630	50	\N	\N	\N	BM-2642	BM	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:55:47	robert@localhost
+18330	KTLB2	S07462	\N	LN	LSC/GPC	3800	120	\N	\N	\N	Bln-554	Bln	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+15592	\N	S06386	\N	UBA	LSC/GPC	3660	70	\N	\N	\N	CAR-713	CAR	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+15593	\N	S06386	\N	UBA	LSC/GPC	2740	60	\N	\N	\N	CAR-716	CAR	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+15594	\N	S06386	\N	UM	LSC/GPC	6840	80	\N	\N	\N	CAR-721	CAR	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+6606	\N	S03099	\N	MN	LSC/GPC	5380	50	\N	\N	\N	Gif-8909	Gif	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:38	adrian@localhost
+37649	DEBTOER1	S10636	\N	MN	\N	6207	30	-19.5	\N	\N	OxA-27858	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	grave 1412-1761V	gamba2014a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+32296	VESPI-EN	S10304	\N	EN	\N	7134	37	-24.1	\N	\N	OxA-18118	OxA	\N	\N	RHUNSPE	charcoal	\N	\N	\N	\N	\N	\N	cave	\N	foren2013a	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+32297	VESPI-M	S10304	\N	UM	\N	9805	50	-23.8	\N	\N	OxA-18041	OxA	\N	\N	JUNISPE	charcoal	\N	\N	\N	\N	\N	\N	cave	\N	foren2013a	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+32298	VESPI-M	S10304	\N	UM	\N	9494	39	-23.1	\N	\N	OxA-18170	OxA	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	cave	\N	foren2013a	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+7072	GREF1	S02069	\N	LN	\N	5180	70	\N	\N	\N	UCLA-1824	UCLA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+7106	GREF1	S02069	\N	LN	\N	5100	70	\N	\N	\N	UCLA-1825	UCLA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+11724	\N	S02468	\N	MN	LSC/GPC	5225	45	\N	\N	\N	Ly-7723	Ly	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:42	adrian@localhost
+29594	NEMO1	S11827	\N	UE	\N	3847	23	\N	\N	\N	CRL-20463	CRL	\N	\N	TRITSPL	plant	\N	seed	\N	\N	\N	\N	settlement: hillfort: cultural layer	sondage 5	čižmá2021a	2023-03-07 17:21:13	jan@localhost	2024-09-20 14:33:18	robert@localhost
+22214	ARG	S08353	\N	MM	\N	6870	50	-20.1	\N	\N	AAR-4093	AAR	\N	\N	animind	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:49:56	robert@localhost
+22215	ARG	S08353	\N	MM	\N	7080	75	\N	\N	\N	K-4354	K	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:55:47	robert@localhost
+35524	ARG2	S08353	\N	LM	\N	4890	105	\N	\N	\N	K-4382	K	\N	\N	QUERSPE	charcoal	\N	\N	\N	bulk	\N	\N	settlement	submerged	fisch2007a	2024-08-12 08:38:11	helene@localhost	2024-09-20 16:47:45	robert@localhost
+35525	ARG2	S08353	\N	LM	\N	4840	105	\N	\N	\N	K-4383	K	\N	\N	TILISPE	charcoal	\N	\N	\N	bulk	\N	\N	settlement	submerged	fisch2007a	2024-08-12 08:38:11	helene@localhost	2024-09-20 16:47:45	robert@localhost
+35526	ARG2	S08353	\N	LM	\N	4980	105	\N	\N	\N	K-4384	K	\N	\N	TILISPE	charcoal	\N	\N	\N	bulk	\N	\N	settlement	submerged	fisch2007a	2024-08-12 08:38:11	helene@localhost	2024-09-20 16:47:45	robert@localhost
+20388	\N	S08029	\N	\N	\N	4740	75	-22.5	\N	\N	K-5536	K	\N	\N	bostaur	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+19501	OP35	S07751	\N	LN	\N	3870	60	\N	\N	\N	Kiev-5593	Kiev	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+19502	OP35	S07751	\N	LN	\N	3890	50	\N	\N	\N	Kiev-5922	Kiev	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+19503	\N	S07751	\N	\N	\N	4070	40	\N	\N	\N	Kiev-5129	Kiev	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+19504	OP35	S07751	\N	LN	\N	4130	65	\N	\N	\N	Kiev-5594	Kiev	\N	\N	\N	bone	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 17:15:38	robert@localhost
+32674	PFHUN2	S10681	Item-17820	MN	\N	6165	35	\N	\N	\N	VERA-4333	VERA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+32675	PFHUN2	S10681	Item-17822	MN	\N	6355	30	\N	\N	\N	PSUAMS-10203	PSUAMS	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+32676	PFHUN2	S10681	Item-17825	MN	\N	6185	40	\N	\N	\N	VERA-4338	VERA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+32677	PFHUN2	S10681	Item-17826	MN	\N	6250	35	\N	\N	\N	VERA-3058	VERA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+32678	PFHUN2	S10681	Item-17827	MN	\N	6260	40	\N	\N	\N	VERA-3055	VERA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+32679	PFHUN2	S10681	Item-17828	MN	\N	6330	30	\N	\N	\N	PSUAMS-10204	PSUAMS	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+32680	PFHUN2	S10681	Item-17829	MN	\N	6050	35	\N	\N	\N	PSUAMS-10207	PSUAMS	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+32681	PFHUN2	S10681	Item-17830	MN	\N	6260	40	\N	\N	\N	VERA-4331	VERA	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	funerary: grave	Human burial	gelab2023a	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+37713	PFHUN	S10681	\N	MN	\N	6237	32	-20	\N	\N	OxA-27861	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	Grave 325 V	gamba2014a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+37714	PFHUN2	S10681	\N	MN	\N	6204	29	-20.2	\N	\N	OxA-27862	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	grave PF839/1198 V	gamba2014a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+37715	PFHUN2	S10681	\N	MN	\N	6153	33	-19.9	\N	\N	OxA-28020	OxA	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	grave PF839/1198 V	gamba2014a	2025-05-15 15:59:27	jan_kolar@localhost	2025-05-15 15:59:27	jan_kolar@localhost
+12656	STJ1	S03593	\N	LN	LSC/GPC	4600	130	\N	\N	\N	Gif-1517	Gif	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:45:38	adrian@localhost
+21955	\N	S08960	\N	\N	AMS	5690	60	\N	\N	\N	GrA-33999	GrA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+21956	\N	S08960	\N	\N	AMS	6030	45	\N	\N	\N	GrA-34006	GrA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+21957	\N	S08960	\N	\N	AMS	6060	90	\N	\N	\N	GrA-34004	GrA	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+32384	JACM3	S13015	\N	LN	\N	5263	31	-25.8	\N	\N	OxA-18182	OxA	\N	\N	\N	charcoal	\N	\N	\N	bulk	CORNUSPE; VIBUSPE	\N	cave	\N	foren2013a	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+32385	JACM4	S13015	\N	LNEE	\N	5325	29	-24.5	\N	\N	OxA-18183	OxA	\N	\N	QUERSPE	charcoal	\N	\N	\N	\N	\N	\N	cave	\N	foren2013a	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+32386	JACM2	S13015	\N	MN	\N	6191	31	-24.3	\N	\N	OxA-18181	OxA	\N	\N	FRAXSPE	charcoal	\N	\N	\N	\N	\N	\N	cave	\N	foren2013a	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+32387	JACM1	S13015	\N	UM	\N	9115	45	-23.9	\N	\N	OxA-18025	OxA	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	cave	\N	foren2013a	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+28238	BESTA2	S11354	Item-12552	MBA	\N	3970	40	\N	\N	\N	GIN-12853	GIN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28239	BESTA1	S11354	Item-12553	UE	\N	4790	180	\N	\N	\N	GIN-13617	GIN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28240	BESTA1	S11354	Item-12554	UE	\N	4570	30	\N	\N	\N	GIN-131618	GIN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28241	BESTA1	S11354	Item-12555	UE	\N	4530	60	\N	\N	\N	Kiev-13753	Kiev	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28242	BESTA2	S11354	Item-12556	MBA	\N	3600	30	\N	\N	\N	GIN-13620	GIN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28243	BESTA2	S11354	Item-12557	MBA	\N	3430	40	\N	\N	\N	GIN-13619	GIN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28244	BESTA3	S11354	Item-12558	LBA	\N	3430	30	\N	\N	\N	GIN-13615	GIN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28245	BESTA3	S11354	Item-12559	LBA	\N	3260	60	\N	\N	\N	Kiev-13752	Kiev	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+28246	BESTA5	S11354	Item-12560	EIA	\N	2560	60	\N	\N	\N	GIN-13621	GIN	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	logvi2013a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+3155	\N	S01083	\N	\N	\N	5080	65	\N	\N	\N	Lu-1636	Lu	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3161	\N	S01083	\N	\N	\N	5010	65	\N	\N	\N	Lu-1633	Lu	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3166	\N	S01083	\N	\N	\N	4970	65	\N	\N	\N	Lu-1779	Lu	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3170	\N	S01083	\N	\N	\N	4960	70	\N	\N	\N	Lu-2212	Lu	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-08-21 16:32:09	adrian@localhost
+3173	\N	S01083	\N	\N	\N	4940	110	\N	\N	\N	Lu-1780	Lu	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3227	\N	S01083	\N	\N	\N	4560	70	\N	\N	\N	Lu-2102	Lu	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+3288	\N	S01083	\N	\N	\N	4140	60	\N	\N	\N	Lu-2509	Lu	\N	\N	QUERSPE	wood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:40:07	robert@localhost
+3346	\N	S01083	\N	\N	\N	2800	50	\N	\N	\N	Lu-2508	Lu	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+20906	\N	S01083	\N	\N	\N	4990	60	\N	\N	\N	Lu-2510	Lu	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+28236	ÄNGDA1	S01083	Item-12551	EN	\N	4913	32	\N	\N	\N	UBA-39935	UBA	\N	\N	homosap	tooth	\N	\N	tooth	\N	\N	\N	funerary: grave	human burial	allen2024a	2023-01-20 17:17:54	robert@localhost	2024-09-30 11:41:32	robert@localhost
+28237	ÄNGDA1	S01083	Item-12551	EN	\N	4990	80	-18.5	\N	\N	Lu-3652	Lu	\N	\N	homosap	bone	\N	\N	\N	\N	\N	\N	funerary: grave	human burial	sjögr2022a	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+10197	\N	S03493	\N	UM	\N	7550	210	\N	\N	\N	Q-1166	Q	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+11440	\N	S01393	\N	\N	AMS	6670	85	-25.8	\N	\N	AA-21260	AA	\N	\N	PINUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:03	peter@localhost	2024-09-20 16:47:45	robert@localhost
+11441	\N	S01393	\N	\N	AMS	6410	80	-25.7	\N	\N	AA-21255	AA	\N	\N	CORYAVE	plant	burnt: charred	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:03	peter@localhost	2024-09-20 14:42:44	robert@localhost
+11442	\N	S01393	\N	UM	AMS	5535	55	-26.6	\N	\N	AA-25230	AA	\N	\N	BETUSPE	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	2022-02-23 17:02:03	peter@localhost	2024-09-20 16:47:45	robert@localhost
+17543	\N	S07208	\N	UBA	LSC	3780	140	\N	\N	\N	UB-2344	UB	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+17544	\N	S07208	\N	UBA	LSC	3440	120	\N	\N	\N	UB-2343	UB	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9475	\N	S02277	\N	UM	LSC/GPC	9175	80	\N	\N	\N	GrN-6086	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost
+9476	\N	S02277	\N	UM	LSC/GPC	8790	100	\N	\N	\N	GrN-6075	GrN	\N	\N	\N	charcoal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	2024-09-20 16:47:45	robert@localhost

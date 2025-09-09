@@ -1,0 +1,314 @@
+IndividualID	GraveID	IndividualName	Culture	AgeMin	AgeMax	AgeCategorical	AgeNote	Sex	DepositionType	CitationID	ItemID	aDNAID	aDNACitationID	Flag	notes	time_added	user_added	time_last_update	user_last_update
+C03292	G02622	feature 14/15	Bell Beaker	12	16	infant/subadult	young	0	inhumation	olald2018a	Item-10904	I6534	olald2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03293	G02623	feature 1562/13	Bell Beaker	15	20	subadult/adult: young	juvenile	0	inhumation	olald2018a	Item-10905	I6535	olald2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03294	G02624	feature 1561/13	Bell Beaker	30	35	adult: young/mature/elderly	adult	0	inhumation	olald2018a	Item-10906	I6581	olald2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03295	G02625	feature 34/15	Bell Beaker	20	25	adult: young	\N	1	inhumation	olald2018a	Item-10907	I6582	olald2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03296	G02626	\N	Bell Beaker	\N	\N	\N	\N	0.5	\N	olald2018a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03297	G02627	\N	Bell Beaker	\N	\N	\N	\N	0.5	\N	olald2018a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03298	G02628	\N	Bell Beaker	\N	\N	\N	\N	0.5	\N	olald2018a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03299	G02629	\N	Bell Beaker	\N	\N	\N	\N	0.5	\N	olald2018a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C09529	G09276	Østrup homo I	\N	\N	\N	\N	\N	0.5	bog body	allen2022a	Item-12714	NEO596	allen2022a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09530	G09277	Østrup homo II	\N	29	31	adult: mature	\N	0	bog body	allen2022a	Item-12715	NEO602	allen2022a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C14436	G14240	\N	\N	30	50	\N	30 - 50 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14437	G14241	\N	\N	30	40	\N	30 - 40 y	0.75	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14438	G14242	\N	\N	30	50	\N	30 - 50 y	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14439	G14243	\N	\N	40	50	\N	40-50 y	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14440	G14244	\N	\N	14	20	\N	14 - 20 y	0.75	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14441	G14245	\N	\N	20	30	\N	20 - 30 y	1	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14442	G14246	\N	\N	20	30	\N	20 - 30 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14443	G14247	\N	\N	18	20	\N	18 - 20 y	1	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14444	G14248	\N	\N	20	25	\N	20 - 25 y	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14445	G14249	\N	\N	17	20	\N	17 - 20 y	1	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14446	G14250	\N	\N	35	50	\N	35 - 50 y	0.5	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14447	G14251	\N	\N	50	70	\N	50 - 70 y	1	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14448	G14252	\N	\N	14	18	\N	14 - 18 y	0.5	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14449	G14253	\N	\N	18	24	\N	18 - 24 y	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14450	G14254	\N	\N	25	35	\N	25 - 35 y	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14451	G14255	\N	\N	20	40	\N	20 - 40 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14452	G14256	\N	\N	20	40	\N	20 - 40 y	0.5	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14453	G14257	\N	\N	20	30	\N	20 - 30 y	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14454	G14258	\N	\N	20	30	\N	20 - 30 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14455	G14259	\N	\N	9	17	\N	14 ± 2.5 y	0.5	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14456	G14260	\N	\N	20	40	\N	20 - 40 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14457	G14261	\N	\N	40	50	\N	40 - 50 y	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14458	G14262	\N	\N	20	30	\N	20 - 30 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14459	G14263	\N	\N	30	40	\N	30 - 40 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14460	G14264	\N	\N	30	40	\N	30 - 40 y	1	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14461	G14265	\N	\N	20	25	\N	20 - 25 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14462	G14266	\N	\N	30	40	\N	30 - 40 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14463	G14267	\N	\N	20	30	\N	20 - 30 y	0.25	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14997	G14801	\N	\N	\N	\N	adult: mature	MA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14998	G14802	\N	\N	\N	\N	adult: young	YA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C14999	G14803	\N	\N	\N	\N	adult: young	YA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15000	G14804	\N	\N	\N	\N	adult: mature	MA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15001	G14805	\N	\N	\N	\N	adult: young	YA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15002	G14806	\N	\N	\N	\N	adult: mature	MA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15003	G14807	\N	\N	\N	\N	adult: mature	MA	1	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15004	G14808	\N	\N	\N	\N	adult: mature	MA	0.5	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15005	G14809	\N	\N	\N	\N	adult: mature	MA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15006	G14810	\N	\N	\N	\N	subadult/adult: young/mature/elderly	A	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15007	G14811	\N	\N	\N	\N	adult: mature	MA	0	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C15008	G14812	\N	\N	\N	\N	subadult	JU	1	\N	hrnčí2019a	\N	\N	\N	\N	\N	2024-11-04 10:58:08	sam@localhost	2024-11-04 10:58:08	sam@localhost
+C13174	G12611	\N	\N	\N	\N	adult: young/mature/elderly	adult	0	inhumation	pokut2019a	\N	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13167	G12605	\N	\N	\N	\N	adult: young/mature/elderly	adult	0	inhumation	pokut2019a	\N	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13170	G12608	Human	\N	\N	\N	adult: young/mature/elderly	adult	0	inhumation	pokut2019a	\N	\N	\N	\N	Human	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13171	G12608	Horse	\N	\N	\N	\N	\N	0.5	inhumation	pokut2019a	\N	\N	\N	\N	Horse	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13166	G12604	\N	\N	\N	\N	adult: young/mature/elderly	adult	1	inhumation	pokut2019a	\N	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13168	G12606	\N	\N	\N	\N	adult: young/mature/elderly	adult	1	inhumation	pokut2019a	\N	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13169	G12607	\N	\N	\N	\N	adult: young/mature/elderly	adult	1	inhumation	pokut2019a	\N	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13172	G12609	\N	\N	\N	\N	adult: young/mature/elderly	adult	1	inhumation	pokut2019a	\N	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13173	G12610	\N	\N	\N	\N	adult: young/mature/elderly	adult	0	inhumation	pokut2019a	\N	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C12931	G12419	\N	\N	\N	\N	\N	Not examined this publication	0.5	inhumation	wilhe2015a	Item-17612	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C12932	G12420	\N	\N	\N	\N	\N	Not examined this publication	0.5	inhumation	wilhe2015a	Item-17613	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C12934	G12422	\N	\N	\N	\N	\N	Not examined this publication	0.5	inhumation	wilhe2015a	Item-17615	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C12930	G12418	\N	\N	\N	\N	\N	Not examined this publication	0.5	inhumation	wilhe2015a	Item-17611	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C12933	G12421	\N	\N	\N	\N	\N	Not examined this publication	0.5	inhumation	wilhe2015a	Item-17614	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C06626	G05531	Погребение 1	\N	\N	\N	\N	\N	0	inhumation	никит1964а	Item-11395	HAL001	saag2021a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C00613	G03897	\N	\N	\N	\N	\N	\N	0.5	inhumation	veit1996a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C06961	G07437	\N	\N	35	45	\N	adultus	1	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C06962	G07438	\N	\N	40	\N	adult: mature	maturus	1	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 11:17:27	sam@localhost
+C06963	G07439	\N	\N	40	59	adult: mature	maturus	0	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 11:17:26	sam@localhost
+C06964	G07440	\N	\N	23	59	adult: mature	adultus/maturus	1	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C06965	G07441	\N	\N	10	11	subadult	infant II	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C06966	G07442	\N	\N	1.5	2	\N	infant I	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C06967	G07443	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C09390	G09175	\N	\N	\N	\N	\N	\N	0.5	inhumation	allen2022a	Item-12588	NEO855	allen2022a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C06844	G05725	Grave 2	\N	30	40	adult: mature	adultus/maturus	0	inhumation	linde2020a	Item-11457	pcw350	linde2020a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C16930	G05725	\N	\N	40	50	\N	40–50	0.5	\N	belka2022a	\N	\N	\N	\N	\N	2025-03-24 13:26:21	sam@localhost	2025-03-24 13:26:21	sam@localhost
+C06845	G05726	Grave 3	\N	3	4	infant	infans I	0.5	inhumation	linde2020a	Item-11647	pcw361	linde2020a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C06846	G05726	os W	\N	4	5	subadult	infans I	0.5	inhumation	linde2020a	Item-11458	pcw362	linde2020a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2025-03-21 14:39:32	sam@localhost
+C16931	G05726	osS	\N	30	40	\N	30–40	1	\N	belka2022a	\N	\N	\N	\N	\N	2025-03-24 13:26:21	sam@localhost	2025-03-24 13:26:21	sam@localhost
+C11009	G10641	\N	\N	8	8	\N	8	0.5	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C11010	G10642	\N	\N	20	40	adult: young/mature	20-40	0	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C11011	G10643	\N	\N	40	\N	\N	40+	0	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C11012	G10644	\N	\N	20	40	adult: young/mature	20-40	1	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C11013	G10645	\N	\N	16	22	\N	16-22	0	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C11014	G10646	\N	\N	20	40	adult: young/mature	20-40	0	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C11015	G10647	\N	\N	16	22	\N	16-22	0	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C11016	G10648	\N	\N	20	40	adult: young/mature	20-40	0	\N	legge2021a	\N	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C03935	G03127	Burial 9	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	\N	I5235	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03936	G03127	Burial 12	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	\N	I5236	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03937	G03127	Burial 14	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	\N	I5237	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03938	G03127	Burial 16a	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	Item-11064	I5238	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03939	G03127	Burial 17	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	Item-11065	I5239	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03940	G03127	Burial 18b	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	Item-11066	I5244	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03941	G03127	Burial 22	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03942	G03127	Burial 24	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	Item-11067	I5241	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03943	G03127	Burial 26	\N	\N	\N	\N	\N	0.5	inhumation	mathi2018a	Item-11068	I5242	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03944	G03128	\N	\N	\N	\N	adult: mature/elderly	old adult	0.75	inhumation	borić2013a	Ite-11557	I5234	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03945	G03129	\N	\N	\N	\N	adult: mature/elderly	old adult	0.75	inhumation	borić2013a	Ite-11581	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C08039	G07862	a	\N	\N	\N	adult: young/mature/elderly	adult	1	inhumation	borić2013a	Ite-11558	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08042	G07865	\N	\N	\N	\N	adult: mature/elderly	old adult	0	inhumation	borić2013a	Ite-11561	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08043	G07866	\N	\N	\N	\N	adult: young/mature/elderly	adult	0.75	inhumation	borić2013a	Ite-11562	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08045	G07868	\N	\N	\N	\N	adult: mature/elderly	old adult	0.25	inhumation	borić2013a	Ite-11564	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08046	G07869	a	\N	\N	\N	adult: mature/elderly	old adult	1	inhumation	borić2013a	Ite-11565	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08047	G07870	\N	\N	\N	\N	adult: mature/elderly	old adult	0.75	inhumation	borić2013a	Ite-11566	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08048	G07871	1	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	borić2013a	Ite-11567	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08049	G07872	\N	\N	\N	\N	adult: mature/elderly	old adult	0.75	inhumation	borić2013a	Ite-11568	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08050	G07873	b	\N	\N	\N	adult: mature/elderly	old adult	1	inhumation	borić2013a	Ite-11569	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08051	G07874	\N	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	borić2013a	Ite-11570	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08053	G07876	\N	\N	\N	\N	adult: young/mature/elderly	adult	0.25	inhumation	borić2013a	Ite-11572	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08054	G07877	\N	\N	\N	\N	infant	infant	0.5	inhumation	borić2013a	Ite-11573	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08055	G07878	1	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	borić2013a	Ite-11574	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08056	G07879	\N	\N	\N	\N	adult: mature/elderly	old adult	0.75	inhumation	borić2013a	Ite-11575	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08057	G07882	\N	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	borić2013a	Ite-11578	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08059	G07884	\N	\N	\N	\N	subadult/adult: young	teen	0.5	inhumation	borić2013a	Ite-11580	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08037	G07856	\N	\N	\N	\N	adult: mature/elderly	old adult	0.5	inhumation	borić2013a	Ite-11552	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C03946	G03130	\N	\N	\N	\N	adult: mature/elderly	old adult	0	inhumation	borić2013a	Ite-11554	I5232	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C03947	G03131	\N	\N	\N	\N	adult: mature/elderly	old adult	1	inhumation	borić2013a	Ite-11555	I5233	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C08038	G07860	a	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	borić2013a	Ite-11556	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C03948	G03132	\N	\N	\N	\N	adult: mature/elderly	old adult	0.5	inhumation	borić2013a	Ite-11576	I5409	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C08141	G03132	1	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	borić2013a	Ite-11577	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C03949	G03133	\N	\N	\N	\N	adult: mature/elderly	old adult	0	inhumation	borić2013a	Ite-11553	I5240	mathi2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C08040	G07863	\N	\N	\N	\N	adult: young/mature/elderly	adult	0.25	inhumation	borić2013a	Ite-11559	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08041	G07864	\N	\N	\N	\N	infant/subadult	child	0.5	inhumation	borić2013a	Ite-11560	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08044	G07867	\N	\N	\N	\N	adult: mature/elderly	old adult	1	inhumation	borić2013a	Ite-11563	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08052	G07875	\N	\N	\N	\N	adult: mature/elderly	old adult	0.75	inhumation	borić2013a	Ite-11571	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C08058	G07883	\N	\N	\N	\N	\N	unknown	0.5	inhumation	borić2013a	Ite-11579	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C10771	G10404	\N	\N	\N	\N	adult: young/mature/elderly	Adult	0.5	\N	legge2021a	Item-13792	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07290	G05775	Tamula I	\N	25	35	adult: young/mature	middle adult	1	inhumation	tõrv2016a	Item-11475	Tamula I	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07292	G05777	Tamula III	\N	\N	\N	adult: young/mature/elderly	middle adult	0.25	inhumation	tõrv2016a	Item-11476	Tamula III	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07296	G05781	Tamula VII	\N	\N	\N	subadult	older child	0.5	inhumation	tõrv2016a	Item-11478	Tamula VII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07297	G05782	Tamula VIII	\N	\N	\N	adult: young/mature/elderly	middle adult	1	inhumation	tõrv2016a	Item-11479	Tamula VIII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07298	G05783	Tamula IX	\N	\N	\N	adult: young/mature/elderly	middle adult	0.25	inhumation	tõrv2016a	Item-11480	Tamula IX	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07299	G05784	Tamula X	\N	\N	\N	adult: young/mature/elderly	middle adult	0.75	inhumation	tõrv2016a	Item-11481	Tamula X	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07304	G05788	Tamula XIV	\N	\N	\N	subadult	sub-adult	0.5	inhumation	tõrv2016a	Item-11483	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07308	G05792	Tamula XVIII	\N	\N	\N	adult: mature/elderly	older adult	0.75	inhumation	tõrv2016a	Item-11484	Tamula XVIII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07309	G05793	Tamula XIX	\N	\N	\N	adult: young/mature/elderly	middle adult	0.25	inhumation	tõrv2016a	Item-11485	Tamula XIX	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07310	G05793	Tamula XIXa	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07312	G05795	Tamula XXI	\N	\N	\N	adult: young/mature/elderly	middle adult	0.25	inhumation	tõrv2016a	Item-11486	Tamula XXI	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07313	G05795	Tamula XXIa	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	tõrv2016a	Item-11487	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07314	G05796	Tamula XXII	\N	\N	\N	adult: mature/elderly	older adult	0.25	inhumation	tõrv2016a	Item-11488	Tamula XXII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07315	G05797	Tamula XXIII	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	tõrv2016a	Item-11489	Tamula XXIII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07295	G05780	Tamula VI	\N	\N	\N	subadult	adolescent	0.5	inhumation	tõrv2016a	Item-11477	Tamula VI	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07300	G05785	Tamula XI	\N	\N	\N	adult: young/mature/elderly	middle adult	0.25	inhumation	tõrv2016a	Item-11482	Tamula XI	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07291	G05776	Tamula II	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07293	G05778	Tamula IV	\N	\N	\N	adult: young/mature/elderly	adult	0.25	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07294	G05779	Tamula V	\N	\N	\N	infant	infant	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07301	G05786	Tamula XII	\N	\N	\N	infant/subadult	young child	0.5	inhumation	tõrv2016a	\N	Tamula XII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07302	G05787	Tamula XIII	\N	\N	\N	infant/subadult	young child	0.5	inhumation	tõrv2016a	\N	Tamula XIII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07303	G05787	Tamula XIIIa	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07305	G05789	Tamula XV	\N	\N	\N	infant	infant	0.5	inhumation	tõrv2016a	\N	Tamula XV	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07306	G05790	Tamula XVI	\N	\N	\N	subadult	older child	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07307	G05791	Tamula XVII	\N	\N	\N	adult: young/mature/elderly	middle adult	0.75	inhumation	tõrv2016a	\N	Tamula XVII	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07311	G05794	Tamula XX	\N	\N	\N	adult: young/mature/elderly	middle adult	0.25	inhumation	tõrv2016a	\N	Tamula XX	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07316	G05798	Tamula XXIV	\N	\N	\N	infant/subadult	young child	0.5	inhumation	tõrv2016a	\N	Tamula XXIV	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07317	G05798	Tamula XXIVa	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07318	G05799	Tamula XXV	\N	\N	\N	subadult	sub-adult	0.5	inhumation	tõrv2016a	\N	Tamula XXV	mittn2018a	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07319	G05800	Tamula (year 1956)	\N	\N	\N	\N	\N	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07320	G05801	Tamula (year 1961)	\N	\N	\N	adult: young/mature/elderly	adult	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07321	G05802	Tamula (year 2007a)	\N	\N	\N	adult: young/mature/elderly	adult?	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07322	G05802	Tamula (year 2007b)	\N	\N	\N	subadult	sub-adult	0.5	inhumation	tõrv2016a	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07598	G06022	Grave 4	\N	35	50	adult: mature	maturus I	1	inhumation	ernée2015a	Item-10644	PMI002	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07599	G06023	Grave 13	\N	11	13	infant	infans	1	inhumation	ernée2015a	Item-10645	PMI001	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07600	G06024	Grave 29	\N	25	40	adult: young/mature	adultus I-II	1	inhumation	ernée2015a	Item-10646	PMI003	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07601	G06025	Grave 39	\N	50	\N	adult: mature/elderly	maturus II-senilis	0	inhumation	ernée2015a	Item-10647	PMI004	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07602	G06026	Grave 40	\N	20	30	adult: young/mature	adultus I	0.5	inhumation	ernée2015a	Item-10648	PMI006	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07603	G06027	Grave 8	\N	20	30	adult: young/mature	adultus I	1	inhumation	ernée2015a	Item-10649	PMI011	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07604	G06028	Grave 18	\N	14	20	subadult	juvenis	1	inhumation	ernée2015a	Item-10650	PMI008	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07605	G06029	Grave 31	\N	40	60	adult: mature/elderly	maturus II	0	inhumation	ernée2015a	Item-10651	PMI009	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07606	G06030	Grave 32	\N	50	60	adult: mature/elderly	maturus II	0.75	inhumation	ernée2015a	Item-10653	PMI007	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C07607	G06031	Grave 42	\N	20	30	adult: young/mature	adultus I	1	inhumation	ernée2015a	Item-10654	PMI010	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C13603	G13029	\N	\N	30	50	adult: mature	\N	0.25	inhumation	ernée2015a	Item-18176	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13604	G13030	\N	\N	\N	\N	subadult/adult: young	juv.–ad.I	0	inhumation	ernée2015a	Item-18177	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13605	G13031	\N	\N	35	\N	adult: mature/elderly	adult II	1	inhumation	ernée2015a	Item-18178	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C07608	G06032	Grave 27	\N	8	12	infant	infans	1	inhumation	ernée2015a	Item-10655	PMI012	papac2021a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C17355	G16921	13/1	\N	20	35	\N	\N	0	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17356	G16922	13/2	\N	20	35	\N	\N	1	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17357	G16923	\N	\N	20	35	\N	\N	0	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17358	G16924	131	\N	20	35	\N	\N	0.5	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17359	G16925	132	\N	20	35	\N	\N	0.5	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17360	G16926	\N	\N	0.5	6	\N	\N	0.5	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17361	G16927	\N	\N	50	\N	\N	\N	0	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17362	G16928	135	\N	7	14	\N	\N	0.5	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17363	G16929	136	\N	20	35	\N	\N	0	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C17364	G16930	137	\N	0.5	6	\N	\N	0.5	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C07176	G07659	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C15156	G07659	HUNG300	\N	14	16	\N	\N	0.5	\N	gamar2018a	\N	\N	\N	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 11:14:52	yuzhen_li@localhost
+C07177	G07660	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C15157	G07660	HUNG301	\N	45	55	\N	\N	0	\N	gamar2018a	\N	\N	\N	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 11:14:52	yuzhen_li@localhost
+C07178	G07661	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07179	G07662	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07180	G07663	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07181	G07664	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C07182	G07665	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C15158	G07665	HUNG302	\N	40	59	\N	\N	1	\N	gamar2018a	\N	\N	\N	\N	sex by aDNA	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 11:14:52	yuzhen_li@localhost
+C07183	G07666	\N	\N	\N	\N	\N	\N	0.5	inhumation	depae2020b	\N	\N	\N	\N	\N	2024-09-18 10:15:03	adrian@localhost	2024-09-18 10:15:03	adrian@localhost
+C15161	G07666	HUNG306	\N	40	59	\N	\N	1	\N	gamar2018a	\N	\N	\N	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 11:14:52	yuzhen_li@localhost
+C13331	G12921	HUNG305; Feature 353	\N	\N	\N	\N	\N	0	inhumation	gelab2023a	Item-17876	I17365	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13332	G12922	HUNG305; Feature 930	\N	\N	\N	adult: young/mature/elderly	adult	0	inhumation	gelab2023a	Item-17877	I17948	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C15159	G12922	HUNG303	\N	30	35	\N	\N	0.25	\N	gamar2018a	\N	\N	\N	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 11:14:52	yuzhen_li@localhost
+C15160	G14962	HUNG304	\N	8	10	\N	\N	0.5	\N	gamar2018a	\N	\N	\N	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 11:14:52	yuzhen_li@localhost
+C15162	G14963	HUNG307	\N	\N	\N	Infant	Infant?	0.5	\N	gamar2018a	\N	\N	\N	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 11:14:52	yuzhen_li@localhost
+C15193	G14948	\N	\N	\N	\N	subadult/adult: young/mature/elderly	\N	\N	\N	vosko2021a	\N	\N	\N	\N	\N	2024-11-25 10:00:13	sam@localhost	2024-11-25 10:00:13	sam@localhost
+C15194	G14948	\N	\N	\N	\N	subadult/adult: young/mature/elderly	\N	\N	\N	vosko2021a	\N	\N	\N	\N	\N	2024-11-25 10:00:13	sam@localhost	2024-11-25 10:00:13	sam@localhost
+C15195	G14948	Skeleton 2	\N	\N	\N	subadult/adult: young/mature/elderly	\N	\N	\N	vosko2021a	\N	\N	\N	\N	\N	2024-11-25 10:00:13	sam@localhost	2024-11-25 10:00:13	sam@localhost
+C15196	G14949	Skeleton 3	\N	\N	\N	subadult/adult: young/mature/elderly	\N	\N	\N	vosko2021a	\N	\N	\N	\N	\N	2024-11-25 10:00:13	sam@localhost	2024-11-25 10:00:13	sam@localhost
+C17336	G16902	\N	\N	20	35	\N	\N	1	inhumation	kaupo2023a	\N	\N	\N	\N	\N	2025-09-04 14:19:19	yuzhen_li@localhost	2025-09-04 14:19:19	yuzhen_li@localhost
+C12136	G11414	QUIN59	\N	\N	\N	\N	\N	0.5	inhumation	brune2020a	Item-16091	QUIN59	brune2020a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C12137	G11415	QUIN234	\N	\N	\N	\N	\N	0.5	inhumation	brune2020a	Item-16092	QUIN234	brune2020a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C12138	G11416	QUIN58	\N	\N	\N	\N	\N	0.5	inhumation	brune2020a	Item-16093	QUIN58	brune2020a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C13303	G12895	718/1025	Szatmár	\N	30	adult: young	Adult	1	inhumation	whitt2013a	Item-17848	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13312	G12904	881/1252	Szatmár	3	4	subadult	\N	0.5	inhumation	whitt2013a	Item-17857	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 11:28:16	sam@localhost
+C13314	G12906	890/1261	Szatmár	36	45	adult: mature	Old Middle Adult	0	inhumation	whitt2013a	Item-17859	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13316	G12908	904/1311	Szatmár	\N	30	adult: young	Adult	1	inhumation	whitt2013a	Item-17861	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13238	G12830	HUNG471, grave 821	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18016	I21826	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13239	G12831	HUNG469, Grave 890	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18017	I21827	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13240	G12832	HUNG450, grave 342	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18018	I21840	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13241	G12833	HUNG457, Grave 134	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18019	I21842	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13242	G12834	HUNG448, grave 126	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18020	I21843	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13243	G12835	HUNG451, grave 4	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18021	I21844	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13244	G12836	HUNG520, grave 341; 341/520	\N	18	45	adult: young/mature	Mid-Adult	0	inhumation	whitt2013a	Item-17820	I21847	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13245	G12837	HUNG1109, grave 786; 786/1109	\N	0	1	infant	\N	0.5	inhumation	whitt2013a	Item-17823	I17909	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13246	G12838	HUNG1026, grave 719; 719/1026	\N	2	3	subadult	\N	0.5	inhumation	whitt2013a	Item-17821	I17911	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13247	G12839	HUNG623, grave 691	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18022	I18656	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13248	G12840	HUNG622, Grave 353	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18023	I18658	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13249	G12841	3688, Grave 352	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18024	I18659	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13250	G12842	HUNG624, Grave 768	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-17825	I18661	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13251	G12843	HUNG631, Grave 773	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-17826	I18657	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13252	G12844	517, grave 338; 338/517	\N	10	12	subadult	\N	0.5	inhumation	whitt2013a	Item-17988	I17950	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 11:28:26	sam@localhost
+C13253	G12845	1028, grave 721; 721/1028	\N	53	57	adult: mature	Old Middle Adult	0	inhumation	whitt2013a	Item-17822	I21898	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13254	G12846	HUNG633, grave 718	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-17827	I18660	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13255	G12847	HUNG642, grave 904	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18025	I18695	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13256	G12848	PF644, grave 644	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-17828	I21902	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13257	G12849	PF448, grave 448	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18026	I21899	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13258	G12850	PF94, grave 34	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18027	I21901	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13259	G12851	83, grave 34	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18028	I21763	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13260	G12852	252, grave 144	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18029	I21765	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13261	G12853	PF283, grave 283	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18030	I21766	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13262	G12854	PF283, grave 288	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18031	I21767	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13263	G12855	PF348, grave 348	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18032	I21768	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13264	G12856	PF78, grave 783	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18033	I21769	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13265	G12857	PF822, grave 822	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18034	I21771	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13266	G12858	PF900, grave 900	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18035	I21846	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13267	G12859	PF31, grave 31	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18036	I21714	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13268	G12860	468, grave 296; 296/468	\N	20	\N	adult: young	Adult	1	inhumation	whitt2013a	Item-17818	I23093	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13269	G12861	91, grave 34; 34/91	\N	10	11	subadult	\N	0.5	inhumation	whitt2013a	Item-17817	I23094	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13270	G12862	1105, grave 782	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18037	I21897	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13271	G12863	PF801	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-17829	I21770	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13272	G12864	HUNG458	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-17830	I21841	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13273	G12865	1128, grave 815	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18038	I17910	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13274	G12866	353, grave 356	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18039	I18662	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13275	G12867	HUNG467, grave 807	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18040	I21824	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13276	G12868	HUNG470, grave 867	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18041	I21825	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13277	G12869	123, grave 871	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18042	I21772	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13278	G12870	1236, grave 881	\N	\N	\N	\N	\N	0.5	inhumation	gelab2023a	Item-18043	I21773	gelab2023a	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13279	G12871	33/42	\N	36	45	adult: mature	Old Middle Adult	1	inhumation	whitt2013a	Item-17824	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13280	G12872	34/82	\N	36	45	adult: mature	Old Middle Adult	1	inhumation	whitt2013a	Item-17990	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13281	G12873	69/133	\N	36	45	adult: mature	Old Adult	1	inhumation	whitt2013a	Item-17991	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13282	G12874	103/208	\N	36	45	adult: mature	Old Middle Adult	0	inhumation	whitt2013a	Item-17992	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13283	G12875	134/239	\N	13	17	subadult	Adolescent	0.5	inhumation	whitt2013a	Item-17993	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13284	G12876	270/432	\N	18	45	adult: young/mature	Mid-Adult	0	inhumation	whitt2013a	Item-17994	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13285	G12877	281/444	\N	36	45	adult: mature	Old Middle Adult	1	inhumation	whitt2013a	Item-17995	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13286	G12878	282/445	\N	18	45	adult: young/mature	Mid-Adult	0	inhumation	whitt2013a	Item-17831	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13287	G12879	285/450	\N	36	45	adult: mature	Old Adult	0	inhumation	whitt2013a	Item-17832	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13288	G12880	288/454	\N	1	1.5	infant	\N	0.5	inhumation	whitt2013a	Item-17833	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13289	G12881	311/486	\N	36	45	adult: mature	Old Middle Adult	1	inhumation	whitt2013a	Item-17834	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13290	G12882	324/499	\N	36	45	adult: mature	Old Middle Adult	0	inhumation	whitt2013a	Item-17835	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13291	G12883	340/519	\N	18	45	adult: young/mature	Mid-Adult	1	inhumation	whitt2013a	Item-17836	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13292	G12884	353/532	\N	\N	45	adult: mature/elderly	Mature Adult	0	inhumation	whitt2013a	Item-17837	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13293	G12885	356/535	\N	36	45	adult: mature	Old Adult	0	inhumation	whitt2013a	Item-17838	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13294	G12886	368/562	\N	18	45	adult: young/mature	Mid-Adult	1	inhumation	whitt2013a	Item-17839	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13295	G12887	387/581	\N	26	35	adult: young/mature	Young Middle Adult	0	inhumation	whitt2013a	Item-17840	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13296	G12888	448/646	\N	2	3	subadult	\N	0.5	inhumation	whitt2013a	Item-17841	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13297	G12889	484/685	\N	13	17	subadult	Adolescent	0.5	inhumation	whitt2013a	Item-17842	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13298	G12890	486/687	\N	26	35	adult: young/mature	Young Middle Adult	0	inhumation	whitt2013a	Item-17843	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13299	G12891	644/944	\N	13	17	subadult	Adolescent	0.5	inhumation	whitt2013a	Item-17844	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13300	G12892	697/1004	\N	36	45	adult: mature	Old Middle Adult	0	inhumation	whitt2013a	Item-17845	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13301	G12893	698/1005	\N	18	45	adult: young/mature	Mid-Adult	0	inhumation	whitt2013a	Item-17846	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13302	G12894	717/1024	\N	18	25	adult: young	Young Adult	1	inhumation	whitt2013a	Item-17847	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13304	G12896	764/1079	\N	18	25	adult: young	Young Adult	0	inhumation	whitt2013a	Item-17849	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13305	G12897	773/1093	\N	36	45	adult: mature	Old Middle Adult	1	inhumation	whitt2013a	Item-17850	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13306	G12898	805/1138	\N	\N	\N	adult: young/mature/elderly	Adult	0	inhumation	whitt2013a	Item-17851	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13307	G12899	821/1168	\N	26	35	adult: young/mature	Young Middle Adult	1	inhumation	whitt2013a	Item-17852	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13308	G12900	839/1198	\N	\N	45	adult: mature/elderly	Mature Adult	1	inhumation	whitt2013a	Item-17853	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13309	G12901	861/1222	\N	\N	\N	infant/subadult	Early Adolescent	0.5	inhumation	whitt2013a	Item-17854	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13310	G12902	867/1230	\N	36	45	adult: mature	Old Middle Adult	0	inhumation	whitt2013a	Item-17855	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13311	G12903	871/1236	\N	2	4	subadult	\N	0.5	inhumation	whitt2013a	Item-17856	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13313	G12905	889/1260	\N	26	35	adult: young/mature	Young Middle Adult	1	inhumation	whitt2013a	Item-17858	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13315	G12907	897/1268	\N	26	35	adult: young/mature	Young Middle Adult	0	inhumation	whitt2013a	Item-17860	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13317	G12909	289/454	\N	10	11	subadult	\N	0.5	inhumation	whitt2013a	Item-17862	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13318	G12910	314/486	\N	36	45	adult: mature	Mid-Adult	0	inhumation	whitt2013a	Item-17863	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C13319	G12911	344/523	\N	18	25	adult: young	Young Adult	1	inhumation	whitt2013a	Item-17864	\N	\N	\N	\N	2024-09-18 10:15:08	adrian@localhost	2024-09-18 10:15:08	adrian@localhost
+C09355	G09149	Bestattung Nr. 78	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12553	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09356	G09150	Bestattung Nr. 114	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12554	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09357	G09151	Bestattung Nr. 144	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12555	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09354	G09148	KS1, Grave 117	\N	50	60	adult: mature/elderly	\N	1	inhumation	allen2022a	Item-12552	NEO057	allen2022a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09358	G09152	Bestattung Nr. 104	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12556	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09359	G09153	Bestattung Nr. 111	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12557	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09360	G09154	Bestattung Nr. 131	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12558	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09361	G09155	Bestattung Nr. 140	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12559	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09362	G09156	Bestattung Nr. 103	\N	\N	\N	\N	\N	0.5	\N	logvi2013a	Item-12560	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C09353	G09147	Grave A2408, MHM 6902	\N	18	20	adult: young	young	1	inhumation	allen2022a	Item-12551	NEO046	allen2022a	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C12943	G12430	\N	\N	\N	\N	\N	Not examined this publication	0.5	inhumation	wilhe2015a	Item-17624	\N	\N	\N	\N	2024-09-18 10:15:06	adrian@localhost	2024-09-18 10:15:06	adrian@localhost
+C15653	G15390	\N	\N	37	45	adult: mature	mature adult	0	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15654	G15391	\N	\N	26	36	adult: young/mature	middle adult	0	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15655	G15392	\N	\N	18	25	adult: young	young adult	1	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15656	G15393	\N	\N	26	36	adult: young/mature	middle adult	1	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15657	G15394	\N	\N	26	36	adult: young/mature	middle adult	0	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15658	G15395	\N	\N	26	36	adult: young/mature	middle adult	0	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15659	G15396	\N	\N	26	36	adult: young/mature	middle adult	1	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15660	G15397	\N	\N	26	36	adult: young/mature	middle adult	0	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15661	G15398	\N	\N	26	36	adult: young/mature	middle adult	1	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15662	G15399	\N	\N	26	36	adult: young/mature	middle adult	0.25	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost
+C15663	G15400	\N	\N	18	25	adult: young	young adult	0	\N	díaz2022a	\N	\N	\N	\N	\N	2024-12-10 14:05:34	sam@localhost	2024-12-10 14:05:34	sam@localhost

@@ -1,0 +1,289 @@
+GraveID	GraveName	PhaseID	GraveDepth	HumanMNI	CitationID	ItemID	notes	time_added	user_added	time_last_update	user_last_update
+G02622	feature 14/15	KOR3	\N	1	olald2018a	\N	\N	\N	\N	2022-03-28 20:55:38	robert@localhost
+G02623	feature 1562/13	KOR3	\N	1	olald2018a	\N	\N	\N	\N	2022-03-28 20:55:38	robert@localhost
+G02624	feature 1561/13	KOR3	\N	1	olald2018a	\N	\N	\N	\N	2022-03-28 20:55:38	robert@localhost
+G02625	feature 34/15	KOR3	\N	1	olald2018a	\N	\N	\N	\N	2022-03-28 20:55:38	robert@localhost
+G02626	\N	KOR3	\N	1	olald2018a	\N	reported presence of a grave; no further data	\N	\N	2022-03-28 20:55:38	robert@localhost
+G02627	\N	KOR3	\N	1	olald2018a	\N	reported presence of a grave; no further data	\N	\N	2022-03-28 20:55:38	robert@localhost
+G02628	\N	KOR3	\N	1	olald2018a	\N	reported presence of a grave; no further data	\N	\N	2022-03-28 20:55:38	robert@localhost
+G02629	\N	KOR3	\N	1	olald2018a	\N	reported presence of a grave; no further data	\N	\N	2022-03-28 20:55:38	robert@localhost
+G09276	Fire Lighter #1	STOREFL1	\N	1	allen2022a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09277	Fire Lighter #2	STOREFL1	\N	1	allen2022a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G14240	BGA 1	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14241	BGA 3	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14242	BGA 4_1	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14243	BGA 6	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14244	BGA 300	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14245	BGA 302	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14246	BGA 303	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14247	BGB 6	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14248	BGB 8	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14249	BGB 10	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14250	BGB 13	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14251	BGS 1	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14252	BGS 4	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14253	BGS 5	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14254	BGS 6	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14255	BGS 7	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14256	BGS 8	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14257	BGS 9	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14258	BGS 10	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14259	BGS 11	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14260	BGS 12	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14261	BGS 15	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14262	BGS 16	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14263	BGS 17	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14264	BGS 18	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14265	BGS 20	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14266	BGS 38	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14267	BGS 39	BAUIA	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14801	116	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14802	121	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14803	218	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14804	350	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14805	358	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14806	360	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14807	361	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14808	363	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14809	1716	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14810	5056	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14811	S/N(10753)	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G14812	S/N(11208)	LARMO	\N	1	hrnčí2019a	\N	\N	2024-11-01 13:02:23	sam@localhost	2024-11-01 13:02:23	sam@localhost
+G12611	ALT 62	CHUL1UIA1	\N	1	pokut2019a	Item-17708	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12605	ALT 53	CHUL1UIA2	\N	1	pokut2019a	Item-17702	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12608	ALT 10	CHUL1UIA3	\N	1	pokut2019a	Item-17705	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12604	ALT 47	CHUL1UIA4	\N	1	pokut2019a	Item-17701	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12606	ALT 46	CHUL1UIA4	\N	1	pokut2019a	Item-17703	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12607	ALT 12	CHUL1UIA4	\N	1	pokut2019a	Item-17704	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12609	ALT 35	CHUL1UIA4	\N	1	pokut2019a	Item-17706	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12610	ALT 112	CHUL1UIA4	\N	1	pokut2019a	Item-17707	\N	2023-11-23 13:08:25	sam@localhost	2023-11-23 13:08:25	sam@localhost
+G12419	15	GRD171EIA	\N	1	wilhe2015a	\N	\N	2023-10-17 12:42:22	sam@localhost	2023-10-17 12:42:22	sam@localhost
+G12420	2	GRD171EIA	\N	1	wilhe2015a	\N	\N	2023-10-17 12:42:22	sam@localhost	2023-10-17 12:42:22	sam@localhost
+G12422	26	GRD171EIA	\N	1	wilhe2015a	\N	\N	2023-10-17 12:42:22	sam@localhost	2023-10-17 12:42:22	sam@localhost
+G12418	8	GRD171LIA	\N	1	wilhe2015a	\N	\N	2023-10-17 12:42:22	sam@localhost	2023-10-17 12:42:22	sam@localhost
+G12421	29	GRD171LIA	\N	1	wilhe2015a	\N	\N	2023-10-17 12:42:22	sam@localhost	2023-10-17 12:42:22	sam@localhost
+G05531	Погребение 1	KHALDE1	122	1	никит1964а	\N	\N	\N	\N	2022-04-27 13:29:25	robert@localhost
+G03897	\N	STASS1	\N	1	veit1996a	\N	\N	\N	\N	2022-03-15 12:53:46	robert@localhost
+G07437	4	CEGILN	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07438	5	CEGILN	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07439	6	CEGILN	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07440	7	CEGILN	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07441	8	CEGILN	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07442	9	CEGILN	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07443	228	CEGILN	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G09175	\N	FANED1	\N	1	allen2022a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G05725	Grave 2	LUB2-1	175	1	linde2020a	\N	\N	\N	\N	2022-05-03 18:10:57	robert@localhost
+G05726	Grave 3	LUB2-1	200	2	linde2020a	\N	\N	\N	\N	2022-05-03 18:10:57	robert@localhost
+G10641	97025	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G10642	97015	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G10643	97011	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G10644	97016	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G10645	97002	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G10646	97027	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G10647	97029	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G10648	97026	SGMUMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G03127	Linear stone construction	PAD2	\N	9	mathi2018a	\N	\N	\N	\N	2022-02-09 12:50:46	robert@localhost
+G03128	Burial 6	PAD2	\N	1	mathi2018a	\N	\N	\N	\N	2022-02-09 12:50:46	robert@localhost
+G03129	Burial 30	PAD2	\N	1	mathi2018a	\N	\N	\N	\N	2022-02-09 12:50:46	robert@localhost
+G07862	6a	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07865	12	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07866	14	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07868	16	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07869	16a	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07870	17	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07871	17(1)	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07872	18	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07873	18b	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07874	20	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07876	22	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07877	23	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07878	23(1)	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07879	24	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-29 08:47:47	sam@localhost
+G07882	26	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07884	28	PAD2	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07856	1	PAD4	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G03130	Burial 4	PAD5	\N	1	mathi2018a	\N	\N	\N	\N	2022-02-09 12:50:46	robert@localhost
+G03131	Burial 5	PAD5	\N	1	mathi2018a	\N	\N	\N	\N	2022-02-09 12:50:46	robert@localhost
+G07860	5a	PAD5	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G03132	Burial 25	PAD6	\N	1	mathi2018a	\N	\N	\N	\N	2022-02-09 12:50:46	robert@localhost
+G03133	Burial 2	PAD6	\N	1	mathi2018a	\N	\N	\N	\N	2022-02-09 12:50:46	robert@localhost
+G07863	9	PAD6	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07864	11	PAD6	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07867	15	PAD6	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07875	21	PAD6	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G07883	27	PAD6	\N	1	borić2013a	\N	\N	\N	\N	2022-07-26 13:59:57	sam@localhost
+G10404	Boat Burial	ARDMED	\N	1	legge2021a	\N	\N	2023-05-01 12:30:28	sam@localhost	2023-05-01 12:30:28	sam@localhost
+G05775	Tamula I	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05777	Tamula III	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05781	Tamula VII	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05782	Tamula VIII	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05783	Tamula IX	TAMU1	\N	1	tõrv2016a	Item-11543	\N	\N	\N	2022-08-31 16:37:19	robert@localhost
+G05784	Tamula X	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05788	Tamula XIV	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05792	Tamula XVIII	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05793	Tamula XIX	TAMU1	\N	2	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05795	Tamula XXI	TAMU1	\N	2	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05796	Tamula XXII	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05797	Tamula XXIII	TAMU1	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05780	Tamula VI	TAMU2	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05785	Tamula XI	TAMU2	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05776	Tamula II	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05778	Tamula IV	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05779	Tamula V	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05786	Tamula XII	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05787	Tamula XIII	TAMU3	\N	2	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05789	Tamula XV	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05790	Tamula XVI	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05791	Tamula XVII	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05794	Tamula XX	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05798	Tamula XXIV	TAMU3	\N	2	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05799	Tamula XXV	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05800	Tamula (year 1956)	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05801	Tamula (year 1961)	TAMU3	\N	1	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G05802	Tamula (year 2007)	TAMU3	\N	2	tõrv2016a	\N	\N	\N	\N	2022-05-24 11:34:24	robert@localhost
+G06022	Grave 4	PRMIS1	15	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06023	Grave 13	PRMIS1	31	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06024	Grave 29	PRMIS1	50	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06025	Grave 39	PRMIS1	23	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06026	Grave 40	PRMIS1	30	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06027	Grave 8	PRMIS2	17	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06028	Grave 18	PRMIS2	14	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06029	Grave 31	PRMIS2	40	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06030	Grave 32	PRMIS2	74	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G06031	Grave 42	PRMIS2	42	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G13029	16	PRMIS2	110	1	ernée2015a	\N	\N	2024-05-10 13:31:26	sam@localhost	2024-05-10 13:31:26	sam@localhost
+G13030	20	PRMIS2	66	1	ernée2015a	\N	\N	2024-05-10 13:31:26	sam@localhost	2024-05-10 13:31:26	sam@localhost
+G13031	33	PRMIS2	110	1	ernée2015a	\N	\N	2024-05-10 13:31:26	sam@localhost	2024-05-10 13:31:26	sam@localhost
+G06032	Grave 27	PRMIS3	60	1	ernée2015a	\N	\N	\N	\N	2022-06-20 11:06:28	robert@localhost
+G16921	13/1	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16922	13/2	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16923	\N	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16924	131	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16925	132	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16926	\N	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16927	\N	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16928	135	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16929	136	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G16930	137	FSLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G07659	101	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07660	221	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07661	223	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07662	353	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07663	930	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07664	889	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07665	1412	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G07666	1421	DEBTOER1	\N	1	depae2020b	\N	\N	\N	\N	2022-05-16 08:49:47	sam@localhost
+G12921	HUNG305; Feature 353	DEBTOER1	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12922	HUNG305; Feature 930	DEBTOER1	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G14962	Grave Obj. 921/Str.1557	DEBTOER1	\N	2	gamar2018a	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 10:46:15	yuzhen_li@localhost
+G14963	Obj. 994/Str. 1625	DEBTOER1	\N	2	gamar2018a	\N	\N	2024-11-21 00:00:00	yuzhen_li@localhost	2024-11-28 10:46:15	yuzhen_li@localhost
+G14948	Bones 8	ERIMUE	\N	2	vosko2021a	\N	\N	2024-11-18 13:13:13	sam@localhost	2024-11-18 13:13:13	sam@localhost
+G14949	Bones 4, Box 2	ERIMUE	\N	3	vosko2021a	\N	\N	2024-11-18 13:13:13	sam@localhost	2024-11-18 13:13:13	sam@localhost
+G16902	\N	KPKLN	\N	1	kaupo2023a	\N	\N	2025-08-21 11:19:53	yuzhen_li@localhost	2025-08-21 11:19:53	yuzhen_li@localhost
+G11414	QUIN59	CASQUI1	\N	1	brune2020a	\N	\N	2023-06-21 10:22:37	robert@localhost	2023-06-21 10:22:37	robert@localhost
+G11415	QUIN234	CASQUI1	\N	1	brune2020a	\N	\N	2023-06-21 10:22:37	robert@localhost	2023-06-21 10:22:37	robert@localhost
+G11416	QUIN58	CASQUI1	\N	1	brune2020a	\N	\N	2023-06-21 10:22:37	robert@localhost	2023-06-21 10:22:37	robert@localhost
+G12895	718/1025	PFHUN1	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12904	881/1252	PFHUN1	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12906	890/1261	PFHUN1	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12908	90/1311	PFHUN1	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12830	HUNG471, grave 821	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12831	HUNG469, Grave 890	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12832	HUNG450, grave 342	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12833	HUNG457, Grave 134	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12834	HUNG448, grave 126	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12835	HUNG451, grave 4	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12836	HUNG520, grave 341; 341/520	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12837	HUNG1109, grave 786; 786/1109	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12838	HUNG1026, grave 719; 719/1026	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12839	HUNG623, grave 691	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12840	HUNG622, Grave 353	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12841	3688, Grave 352	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12842	HUNG624, Grave 768	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12843	HUNG631, Grave 773	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12844	517, grave 338; 338/517	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12845	1028, grave 721; 721/1028	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12846	HUNG633, grave 718	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12847	HUNG642, grave 904	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12848	PF644, grave 644	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12849	PF448, grave 448	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12850	PF94, grave 34	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12851	83, grave 34	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12852	252, grave 144	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12853	PF283, grave 283	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12854	PF283, grave 288	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12855	PF348, grave 348	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12856	PF78, grave 783	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12857	PF822, grave 822	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12858	PF900, grave 900	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12859	PF31, grave 31	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12860	468, grave 296; 296/468	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12861	91, grave 34; 34/91	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12862	1105, grave 782	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12863	PF801	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12864	HUNG458	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12865	1128, grave 815	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12866	353, grave 356	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12867	HUNG467, grave 807	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12868	HUNG470, grave 867	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12869	123, grave 871	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12870	1236, grave 881	PFHUN2	\N	1	gelab2023a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12871	33/42	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12872	34/82	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12873	69/133	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12874	103/208	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12875	134/239	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12876	270/432	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12877	281/444	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12878	282/445	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12879	285/450	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12880	288/454	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12881	311/486	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12882	324/499	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12883	340/519	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12884	353/532	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12885	356/535	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12886	368/562	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12887	387/581	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12888	448/646	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12889	484/685	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12890	486/687	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12891	644/944	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12892	697/1004	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12893	698/1005	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12894	717/1024	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12896	764/1079	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12897	773/1093	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12898	805/1138	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12899	821/1168	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12900	839/1198	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12901	861/1222	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12902	867/1230	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12903	871/1236	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12905	889/1260	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12907	897/1268	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12909	289/454	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G12910	314/486	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 13:30:09	robert@localhost	2023-12-15 13:30:09	robert@localhost
+G12911	344/523	PFHUN2	\N	1	whitt2013a	\N	\N	2023-12-15 11:27:13	robert@localhost	2023-12-15 11:27:13	robert@localhost
+G09149	Bestattung Nr. 78	BESTA1	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09150	Bestattung Nr. 114	BESTA1	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09151	Bestattung Nr. 144	BESTA1	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09148	KS1, Grave 117	BESTA2	90	1	allen2022a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09152	Bestattung Nr. 104	BESTA2	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09153	Bestattung Nr. 111	BESTA2	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09154	Bestattung Nr. 131	BESTA3	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09155	Bestattung Nr. 140	BESTA3	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09156	Bestattung Nr. 103	BESTA5	\N	1	logvi2013a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G09147	Grave A2408, MHM 6902	ÄNGDA1	\N	1	allen2022a	\N	\N	2023-01-20 14:11:06	robert@localhost	2023-01-20 14:11:06	robert@localhost
+G12430	\N	HLT64LIA	\N	1	wilhe2015a	\N	\N	2023-10-17 12:42:22	sam@localhost	2023-10-17 12:42:22	sam@localhost
+G15390	LYII.A.10.15064	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15391	LYII.A.10.15065	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15392	LYII.A.10.15067	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15393	LYII.A.10.15071	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15394	LYII.A.10.15077	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15395	LYII.A.10.15080	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15396	LYII.A.10.15085	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15397	LYII.A.10.15086	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15398	LYII.A.10.15089	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15399	LYII.A.10.15098	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost
+G15400	LYII.A.10.15120	LASYUE	\N	1	díaz2022a	\N	\N	2024-12-10 11:49:20	sam@localhost	2024-12-10 11:49:20	sam@localhost

@@ -1,0 +1,231 @@
+PhaseID	CitationID	DataCited	time_added	user_added	time_last_update	user_last_update
+VESBI1	yerke2009a	\N	2025-05-14 22:19:33	jan_kolar@localhost	2025-05-14 22:19:33	jan_kolar@localhost
+LIPP1	sraka2014a	C14Samples	2024-07-25 16:06:39	jan@localhost	2024-09-20 16:47:45	robert@localhost
+LIPP1	sraka2014a	Phases	2024-07-25 16:12:18	jan@localhost	2024-07-25 16:12:18	jan@localhost
+END1	oross2012b	\N	2025-05-14 22:19:33	jan_kolar@localhost	2025-05-14 22:19:33	jan_kolar@localhost
+KOR1	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+KOR2	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+KOR3	olald2018a	C14Samples	2022-08-15 16:15:34	robert@localhost	2024-09-20 17:15:38	robert@localhost
+KOR3	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+KOR4	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+KOR5	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+KOR6	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+KOR7	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+KOR8	olald2018a	Phases	\N	\N	2021-12-14 16:13:52	robert@localhost
+STOREFL1	allen2022a	Phases	2023-01-18 12:39:18	robert@localhost	2023-01-18 12:39:18	robert@localhost
+STOREFL1	allen2024a	C14Samples	2023-01-20 18:27:42	robert@localhost	2024-09-20 17:15:38	robert@localhost
+HETER1	groot2024a	Phases	2024-07-12 10:59:54	jelena@localhost	2024-07-12 10:59:54	jelena@localhost
+HETER2	groot2024a	Phases	2024-07-18 14:01:56	jelena@localhost	2024-07-18 14:01:56	jelena@localhost
+BAUIA	hrnčí2019a	Phases	2024-10-30 12:22:11	sam@localhost	2024-10-30 12:22:11	sam@localhost
+SKEPEN	brink2021a	C14Samples	2022-08-23 11:32:17	claudia@localhost	2024-09-20 17:10:35	robert@localhost
+SKEPEN	brink2021a	Phases	2022-08-16 09:04:14	claudia@localhost	2022-08-16 09:04:14	claudia@localhost
+SKEPLBA	brink2021a	C14Samples	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+SKEPLBA	brink2021a	Phases	2022-08-16 09:04:22	claudia@localhost	2022-08-16 09:04:22	claudia@localhost
+SKEPM	brink2021a	C14Samples	2022-08-23 11:32:17	claudia@localhost	2024-09-20 16:47:45	robert@localhost
+SKEPM	brink2021a	Phases	2022-08-16 09:04:30	claudia@localhost	2022-08-16 09:04:30	claudia@localhost
+SEREBRY	пашке2000a	Phases	2023-02-20 10:04:11	natalya@localhost	2023-02-20 10:04:11	natalya@localhost
+DRAGU1	haimo2009a	Phases	2023-07-12 14:03:01	jelena@localhost	2023-07-12 14:03:01	jelena@localhost
+DRAGU2	dumit1974a	C14Samples	2023-06-14 16:49:37	jan@localhost	2024-09-20 16:47:45	robert@localhost
+DRAGU2	dumit1974a	Phases	2023-06-14 15:57:30	jan@localhost	2023-06-14 15:57:30	jan@localhost
+DRAGU2	harpe2016a	C14Samples	2023-06-14 16:49:37	jan@localhost	2024-09-20 16:47:45	robert@localhost
+DRAGU2	harpe2016a	Phases	2023-06-14 15:57:30	jan@localhost	2023-06-14 15:57:30	jan@localhost
+DRAGU3	harpe2016a	C14Samples	2023-06-14 16:49:37	jan@localhost	2024-09-20 17:15:38	robert@localhost
+DRAGU3	harpe2016a	Phases	2023-06-14 15:57:30	jan@localhost	2023-06-14 15:57:30	jan@localhost
+SRKAR	jovan2017a	Phases	\N	\N	2022-04-08 15:53:13	maria@localhost
+SRKAR	porči2021a	C14Samples	2024-01-17 12:14:46	jan@localhost	2024-09-24 17:27:30	robert@localhost
+SRKAR	porči2021a	Phases	2024-01-18 17:33:39	jan@localhost	2024-01-18 17:33:39	jan@localhost
+LARMO	hrnčí2019a	Phases	2024-10-30 12:22:11	sam@localhost	2024-10-30 12:22:11	sam@localhost
+ADAMC1	st_be2019a	Phases	2023-08-04 08:59:18	jelena@localhost	2023-08-04 08:59:18	jelena@localhost
+PELAZBB1	atién2018a	Phases	2023-05-01 17:08:13	lea@localhost	2023-05-01 17:08:13	lea@localhost
+PELAZBB2	atién2018a	Phases	2023-05-01 17:08:13	lea@localhost	2023-05-01 17:08:13	lea@localhost
+PELAZBB3	atién2018a	Phases	2023-05-01 17:08:13	lea@localhost	2023-05-01 17:08:13	lea@localhost
+PELAZBBS	atién2018a	Phases	2023-05-01 17:08:13	lea@localhost	2023-05-01 17:08:13	lea@localhost
+PELAZOBB	atién2016a	Phases	2023-04-14 12:34:10	lea@localhost	2023-04-14 12:34:10	lea@localhost
+CHUL1UIA1	pokut2019a	C14Ghosts	\N	\N	\N	\N
+CHUL1UIA1	pokut2019a	Phases	2023-11-22 12:50:43	sam@localhost	2023-11-22 12:50:43	sam@localhost
+CHUL1UIA2	pokut2019a	C14Ghosts	\N	\N	\N	\N
+CHUL1UIA2	pokut2019a	Phases	2023-11-22 12:50:43	sam@localhost	2023-11-22 12:50:43	sam@localhost
+CHUL1UIA3	pokut2019a	C14Ghosts	\N	\N	\N	\N
+CHUL1UIA3	pokut2019a	Phases	2023-11-22 12:50:43	sam@localhost	2023-11-22 12:50:43	sam@localhost
+CHUL1UIA4	pokut2019a	C14Ghosts	\N	\N	\N	\N
+CHUL1UIA4	pokut2019a	Phases	2023-11-22 12:50:43	sam@localhost	2023-11-22 12:50:43	sam@localhost
+LENI1	sraka2014a	C14Samples	2024-07-25 16:06:39	jan@localhost	2024-09-20 16:47:45	robert@localhost
+LENI1	sraka2014a	Phases	2024-07-25 16:12:18	jan@localhost	2024-07-25 16:12:18	jan@localhost
+GRD171EIA	wilhe2015a	Phases	2023-10-17 10:46:51	sam@localhost	2023-10-17 10:46:51	sam@localhost
+GRD171LIA	wilhe2015a	Phases	2023-10-17 10:46:51	sam@localhost	2023-10-17 10:46:51	sam@localhost
+BOROV1	mania2016a	C14Samples	2024-03-18 18:21:42	jan@localhost	2024-09-20 17:15:38	robert@localhost
+BOROV1	mania2016a	Phases	2024-03-18 17:16:52	jan@localhost	2024-03-18 17:16:52	jan@localhost
+BOROV2	mania2016a	C14Samples	2024-03-18 18:21:42	jan@localhost	2024-09-20 17:15:38	robert@localhost
+BOROV2	mania2016a	Phases	2024-03-18 17:16:52	jan@localhost	2024-03-18 17:16:52	jan@localhost
+FERWE1	groot2024a	Phases	2024-07-17 11:02:03	jelena@localhost	2024-07-17 11:02:03	jelena@localhost
+FERWE2	groot2024a	Phases	2024-10-29 14:23:25	jelena@localhost	2024-10-29 14:23:25	jelena@localhost
+FERWE3	groot2024a	Phases	2024-11-04 12:53:37	jelena@localhost	2024-11-04 12:53:37	jelena@localhost
+MANG20A	schae2023a	C14Samples	2024-11-01 10:21:37	helene@localhost	2024-11-01 10:21:37	helene@localhost
+MANG20A	schae2023a	Phases	2024-10-30 10:23:31	helene@localhost	2024-10-30 10:23:31	helene@localhost
+FRUNT1	proci2015a	Phases	2023-06-26 07:54:10	jelena@localhost	2023-06-26 07:54:10	jelena@localhost
+KHALDE1	saag2021a	C14Samples	2022-08-30 12:25:49	robert@localhost	2024-09-20 17:15:38	robert@localhost
+KHALDE1	saag2021a	Phases	\N	\N	2022-04-27 13:02:59	robert@localhost
+STASS1	veit1996a	Phases	\N	\N	2022-03-14 18:31:15	robert@localhost
+STASS2	veit1996a	Phases	\N	\N	2022-03-14 18:31:15	robert@localhost
+MALOSN	пашке2000a	Phases	2023-03-01 15:28:02	natalya@localhost	2023-03-01 15:28:02	natalya@localhost
+BELO1	de-va2022a	Phases	\N	\N	2022-02-09 12:34:53	claudia@localhost
+CEGILN	depae2020b	Phases	\N	\N	2022-05-03 12:54:20	sam@localhost
+MEKIF1	dombo2003a	\N	2025-05-14 22:19:33	jan_kolar@localhost	2025-05-14 22:19:33	jan_kolar@localhost
+VIN1	peška2011b	C14Samples	2023-03-07 17:21:13	jan@localhost	2024-09-26 12:53:18	robert@localhost
+VIN1	peška2011b	Phases	2023-03-07 16:02:14	jan@localhost	2023-03-07 16:02:14	jan@localhost
+TRNB1	terza2014a	C14Samples	2024-07-25 16:06:38	jan@localhost	2024-09-20 14:41:43	robert@localhost
+TRNB1	terza2014a	Phases	2024-07-25 16:12:19	jan@localhost	2024-07-25 16:12:19	jan@localhost
+FANED1	allen2022a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+FANED1	allen2024a	C14Samples	2023-01-20 17:37:41	robert@localhost	2024-09-20 17:15:38	robert@localhost
+MIKOBRO	пашке2000a	Phases	2023-02-20 10:04:11	natalya@localhost	2023-02-20 10:04:11	natalya@localhost
+LUB2-1	linde2020a	C14Samples	2022-08-31 11:46:52	robert@localhost	2024-09-20 17:15:38	robert@localhost
+LUB2-1	linde2020a	Phases	\N	\N	2022-05-03 18:04:53	robert@localhost
+CAREI1	binde2006a	Phases	\N	\N	2022-06-06 11:07:07	jelena@localhost
+CAREI2	binde2006a	Phases	\N	\N	2022-06-06 11:07:07	jelena@localhost
+CAREI2	carci1996a	Phases	2024-03-15 10:19:42	natalya@localhost	2024-03-15 10:19:42	natalya@localhost
+BRN2	matei2008a	C14Samples	\N	\N	2024-09-20 17:15:38	robert@localhost
+BRN2	matei2008a	Phases	2023-02-08 14:21:47	jan@localhost	2023-02-08 14:21:47	jan@localhost
+BRN3	kaupo2023a	FaunalIsotopes	2025-06-30 10:00:08	dominika_schmidtova@localhost	2025-06-30 10:00:08	dominika_schmidtova@localhost
+HODK1	gyula2010a	ABotPhases	2025-08-15 16:55:58	natalia_riabogina@localhost	2025-08-15 16:55:58	natalia_riabogina@localhost
+HODK1	yerke2009a	\N	2025-05-14 22:19:33	jan_kolar@localhost	2025-05-14 22:19:33	jan_kolar@localhost
+SGMUMED	legge2021a	Phases	2023-05-01 09:46:12	sam@localhost	2023-05-01 09:46:12	sam@localhost
+PAD1	mathi2018a	Phases	\N	\N	2022-01-21 14:03:28	robert@localhost
+PAD2	borić2011a	C14Samples	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+PAD2	borić2011a	Phases	2023-07-21 15:45:50	jan@localhost	2023-07-21 15:45:50	jan@localhost
+PAD2	borić2013a	C14Samples	\N	\N	2024-09-20 17:15:38	robert@localhost
+PAD2	borić2013a	Phases	2023-07-21 15:45:50	jan@localhost	2023-07-21 15:45:50	jan@localhost
+PAD2	mathi2018a	C14Samples	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+PAD2	mathi2018a	Phases	\N	\N	2022-01-21 14:03:28	robert@localhost
+PAD3	mathi2018a	Phases	\N	\N	2022-01-21 14:03:28	robert@localhost
+PAD4	mathi2018a	Phases	\N	\N	2022-01-21 14:03:28	robert@localhost
+PAD5	borić2004a	C14Samples	2023-07-21 18:54:22	jan@localhost	2024-09-20 16:47:45	robert@localhost
+PAD5	borić2004a	Phases	2023-07-21 17:48:59	jan@localhost	2023-07-21 17:48:59	jan@localhost
+PAD5	borić2011a	C14Samples	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+PAD5	borić2011a	Phases	2023-07-21 17:48:59	jan@localhost	2023-07-21 17:48:59	jan@localhost
+PAD5	borić2013a	C14Samples	\N	\N	2024-09-20 17:15:38	robert@localhost
+PAD5	borić2013a	Phases	2023-07-21 15:45:50	jan@localhost	2023-07-21 15:45:50	jan@localhost
+PAD5	mathi2018a	Phases	\N	\N	2022-01-21 14:03:28	robert@localhost
+PAD6	bonsa2008a	C14Samples	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+PAD6	bonsa2008a	Phases	2023-07-21 17:48:59	jan@localhost	2023-07-21 17:48:59	jan@localhost
+PAD6	borić2004a	C14Samples	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+PAD6	borić2004a	Phases	2023-07-21 17:48:59	jan@localhost	2023-07-21 17:48:59	jan@localhost
+PAD6	borić2011a	C14Samples	2023-07-21 18:54:22	jan@localhost	2024-09-30 11:49:08	robert@localhost
+PAD6	borić2011a	Phases	2023-07-21 17:48:59	jan@localhost	2023-07-21 17:48:59	jan@localhost
+PAD6	borić2013a	C14Samples	\N	\N	2024-09-20 17:15:38	robert@localhost
+PAD6	borić2013a	Phases	2023-07-21 15:45:50	jan@localhost	2023-07-21 15:45:50	jan@localhost
+PAD6	mathi2018a	C14Samples	2022-08-25 11:17:19	robert@localhost	2024-09-20 17:15:38	robert@localhost
+PAD6	mathi2018a	Phases	\N	\N	2022-01-21 14:03:28	robert@localhost
+PAD6	radov2015a	C14Samples	2023-07-21 18:54:22	jan@localhost	2024-09-20 17:15:38	robert@localhost
+PAD6	radov2015a	Phases	2023-07-21 17:48:59	jan@localhost	2023-07-21 17:48:59	jan@localhost
+PAD7	orton2016a	Phases	2024-07-23 10:05:45	jelena@localhost	2024-07-23 10:05:45	jelena@localhost
+ARDMED	legge2021a	Phases	2023-05-01 09:46:12	sam@localhost	2023-05-01 09:46:12	sam@localhost
+WILHE1	groot2024a	Phases	2024-07-11 12:54:51	jelena@localhost	2024-07-11 12:54:51	jelena@localhost
+SUCEV1	haimo2009a	Phases	2023-07-13 14:06:40	jelena@localhost	2023-07-13 14:06:40	jelena@localhost
+SIKUL1	gaast2017a	Phases	2023-07-26 10:41:53	jelena@localhost	2023-07-26 10:41:53	jelena@localhost
+ORUB1	reed2022b	Phases	2023-05-09 12:21:49	natalya@localhost	2023-05-09 12:21:49	natalya@localhost
+ARUN1	pail2019a	Phases	2025-05-06 15:06:00	fredrik_dahlberg@localhost	2025-05-06 15:06:00	fredrik_dahlberg@localhost
+UOB1	šabat2019a	C14Samples	2023-03-07 17:21:12	jan@localhost	2024-08-21 16:32:09	adrian@localhost
+UOB1	šabat2019a	Phases	2023-03-07 16:02:14	jan@localhost	2023-03-07 16:02:14	jan@localhost
+UOB2	komor2019a	C14Samples	2023-03-07 17:21:12	jan@localhost	2024-09-26 12:53:18	robert@localhost
+UOB2	komor2019a	Phases	2023-03-07 16:02:14	jan@localhost	2023-03-07 16:02:14	jan@localhost
+UOB2	paulu2008a	C14Samples	2023-03-07 17:21:12	jan@localhost	2024-09-26 12:53:18	robert@localhost
+UOB2	paulu2008a	Phases	2023-03-07 16:02:14	jan@localhost	2023-03-07 16:02:14	jan@localhost
+DEREIVK	пашке2000a	Phases	2023-03-01 15:28:02	natalya@localhost	2023-03-01 15:28:02	natalya@localhost
+CHER1	varal2021a	ABotIsotopes	2022-08-04 12:54:10	adrian@localhost	2022-08-04 12:54:10	adrian@localhost
+CHER1	varal2021a	Phases	\N	\N	2022-06-30 12:06:00	claudia@localhost
+CHER2	varal2021a	ABotIsotopes	2022-08-04 12:54:10	adrian@localhost	2022-08-04 12:54:10	adrian@localhost
+CHER2	varal2021a	Phases	2022-08-09 16:18:40	adrian@localhost	2022-08-09 16:18:40	adrian@localhost
+CHER3	varal2021a	ABotIsotopes	2022-08-04 12:54:10	adrian@localhost	2022-08-04 12:54:10	adrian@localhost
+CHER3	varal2021a	Phases	2022-08-09 16:18:40	adrian@localhost	2022-08-09 16:18:40	adrian@localhost
+CHER4	varal2021a	ABotIsotopes	2022-08-04 12:54:10	adrian@localhost	2022-08-04 12:54:10	adrian@localhost
+CHER4	varal2021a	Phases	2022-08-09 16:18:40	adrian@localhost	2022-08-09 16:18:40	adrian@localhost
+SARAT1	bălăş2003d	Phases	\N	\N	2022-05-30 14:49:57	jelena@localhost
+SARAT1	haimo1994a	Phases	2023-08-02 12:49:56	jelena@localhost	2023-08-02 12:49:56	jelena@localhost
+SARAT1	lazar2010a	C14Samples	2023-06-16 18:23:54	jan@localhost	2024-09-20 17:15:38	robert@localhost
+SARAT1	lazar2010a	Phases	2023-11-17 14:00:23	jan@localhost	2023-11-17 14:00:23	jan@localhost
+SARAT2	lazar2010a	C14Samples	2023-06-16 18:23:54	jan@localhost	2024-09-20 17:15:38	robert@localhost
+SARAT2	lazar2010a	Phases	2023-11-17 14:00:48	jan@localhost	2023-11-17 14:00:48	jan@localhost
+TAMU1	tõrv2016a	C14Samples	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+TAMU1	tõrv2016a	Phases	\N	\N	2022-05-09 14:59:23	robert@localhost
+TAMU2	tõrv2016a	C14Samples	2022-08-31 15:24:47	robert@localhost	2024-09-20 17:15:38	robert@localhost
+TAMU2	tõrv2016a	Phases	\N	\N	2022-05-09 14:59:23	robert@localhost
+TAMU3	tõrv2016a	Phases	\N	\N	2022-05-24 11:32:10	robert@localhost
+PRB1	komor2019a	C14Samples	2023-03-07 17:21:13	jan@localhost	2024-09-26 18:03:09	robert@localhost
+PRB1	komor2019a	Phases	2023-03-07 16:02:14	jan@localhost	2023-03-07 16:02:14	jan@localhost
+PRMIS1	papac2021a	C14Samples	2023-02-16 17:22:21	jan@localhost	2024-09-26 12:53:18	robert@localhost
+PRMIS1	papac2021a	Phases	\N	\N	2022-05-27 11:15:44	robert@localhost
+PRMIS2	ernée2012a	C14Samples	2023-02-16 17:22:21	jan@localhost	2024-08-21 16:32:09	adrian@localhost
+PRMIS2	ernée2012a	Phases	2023-02-14 22:53:21	jan@localhost	2023-02-14 22:53:21	jan@localhost
+PRMIS2	ernée2012b	C14Samples	2023-02-16 17:22:21	jan@localhost	2024-09-24 17:28:22	robert@localhost
+PRMIS2	ernée2012b	Phases	2023-02-14 22:53:34	jan@localhost	2023-02-14 22:53:34	jan@localhost
+PRMIS2	ernée2015a	C14Samples	2023-02-16 17:22:21	jan@localhost	2024-09-26 11:51:37	robert@localhost
+PRMIS2	ernée2015a	Phases	2023-02-14 22:52:53	jan@localhost	2023-02-14 22:52:53	jan@localhost
+PRMIS2	papac2021a	C14Samples	2023-02-16 17:22:21	jan@localhost	2024-09-26 12:53:18	robert@localhost
+PRMIS2	papac2021a	Phases	\N	\N	2022-05-27 11:15:44	robert@localhost
+PRMIS3	papac2021a	C14Samples	\N	\N	2024-09-20 17:15:38	robert@localhost
+PRMIS3	papac2021a	Phases	\N	\N	2022-05-27 11:15:44	robert@localhost
+FSLN	kaupo2023a	Phases	2025-08-07 14:13:32	yuzhen_li@localhost	2025-08-07 14:13:32	yuzhen_li@localhost
+GRISB1	peter2001a	\N	2025-09-01 08:42:34	helene_agerskov_rose@localhost	2025-09-01 08:42:34	helene_agerskov_rose@localhost
+BINNE1	groot2024a	Phases	2024-11-04 12:53:37	jelena@localhost	2024-11-04 12:53:37	jelena@localhost
+DEBTOER1	depae2020b	Phases	\N	\N	2022-05-04 14:37:11	sam@localhost
+DEBTOER1	gamar2018a	Phases	2023-02-07 10:27:47	jelena@localhost	2023-02-07 10:27:47	jelena@localhost
+DEBTOER1	gamba2014a	\N	2025-05-14 22:19:33	jan_kolar@localhost	2025-05-14 22:19:33	jan_kolar@localhost
+DEBTOER1	gelab2023a	Phases	2023-11-20 15:37:57	robert@localhost	2023-11-20 15:37:57	robert@localhost
+DEBTOER2	gelab2023a	Phases	2023-11-20 15:38:06	robert@localhost	2023-11-20 15:38:06	robert@localhost
+DEBTOER3	gelab2023a	Phases	2023-11-20 15:38:15	robert@localhost	2023-11-20 15:38:15	robert@localhost
+DEBTOER4	gelab2023a	Phases	2023-11-20 15:38:23	robert@localhost	2023-11-20 15:38:23	robert@localhost
+DEBTOER5	gelab2023a	Phases	2023-11-20 15:38:33	robert@localhost	2023-11-20 15:38:33	robert@localhost
+CACSBB	waldr1998a	Phases	2023-04-14 12:34:10	lea@localhost	2023-04-14 12:34:10	lea@localhost
+VESPI-EN	foren2013a	C14Samples	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+VESPI-EN	light2011a	Phases	\N	\N	2022-04-08 15:53:13	maria@localhost
+VESPI-EN	welke2022a	Phases	\N	\N	2022-04-19 10:13:52	jelena@localhost
+VESPI-M	foren2013a	C14Samples	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+VESPI-M	foren2013a	Phases	2023-10-31 13:51:08	jan@localhost	2023-10-31 13:51:08	jan@localhost
+VESPI-M	light2011a	Phases	\N	\N	2022-04-08 15:53:13	maria@localhost
+ERIMUE	vosko2021a	Phases	2024-11-18 12:13:18	sam@localhost	2024-11-18 12:13:18	sam@localhost
+NEMO1	čižmá2021a	C14Samples	2023-03-07 17:21:13	jan@localhost	2024-09-20 14:33:18	robert@localhost
+NEMO1	čižmá2021a	Phases	2023-03-07 16:02:14	jan@localhost	2023-03-07 16:02:14	jan@localhost
+KPKLN	kaupo2023a	Phases	2025-08-07 14:13:32	yuzhen_li@localhost	2025-08-07 14:13:32	yuzhen_li@localhost
+SVEN91	pilič2017b	Phases	2023-02-17 11:50:47	jelena@localhost	2023-02-17 11:50:47	jelena@localhost
+CASQUI1	brune2020a	Phases	2023-06-21 09:59:57	robert@localhost	2023-06-21 09:59:57	robert@localhost
+TEBEA1	binde2006a	Phases	\N	\N	2022-06-06 11:07:07	jelena@localhost
+TEBEA2	binde2006a	Phases	\N	\N	2022-06-06 11:07:07	jelena@localhost
+ARG2	fisch2007a	C14Samples	2024-08-12 08:38:11	helene@localhost	2024-09-20 16:47:45	robert@localhost
+ARG2	fisch2007a	Phases	2024-08-09 14:59:05	helene@localhost	2024-08-09 14:59:05	helene@localhost
+CHITI1	bălăş2014b	Phases	\N	\N	2022-04-29 10:25:37	jelena@localhost
+CHITI1	bréha2012a	Phases	\N	\N	2022-05-02 10:51:57	jelena@localhost
+PFHUN	gamba2014a	\N	2025-05-14 22:19:33	jan_kolar@localhost	2025-05-14 22:19:33	jan_kolar@localhost
+PFHUN	whitt2013a	Phases	2023-01-25 10:12:39	emily@localhost	2023-01-25 10:12:39	emily@localhost
+PFHUN1	gelab2023a	Phases	2023-10-20 23:51:24	robert@localhost	2023-10-20 23:51:24	robert@localhost
+PFHUN1	whitt2013a	Phases	2023-01-24 12:56:51	emily@localhost	2023-01-24 12:56:51	emily@localhost
+PFHUN2	depae2020b	Phases	2022-08-25 11:50:30	sam@localhost	2022-08-25 11:50:30	sam@localhost
+PFHUN2	gamba2014a	\N	2025-05-14 22:19:33	jan_kolar@localhost	2025-05-14 22:19:33	jan_kolar@localhost
+PFHUN2	gelab2023a	C14Samples	2024-01-11 10:41:50	robert@localhost	2024-08-21 16:32:09	adrian@localhost
+PFHUN2	gelab2023a	Phases	2023-10-20 23:51:33	robert@localhost	2023-10-20 23:51:33	robert@localhost
+PFHUN2	whitt2013a	Phases	2023-01-24 12:55:14	emily@localhost	2023-01-24 12:55:14	emily@localhost
+JACM1	foren2013a	C14Samples	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+JACM1	foren2013a	Phases	2023-10-31 13:51:09	jan@localhost	2023-10-31 13:51:09	jan@localhost
+JACM2	foren2013a	C14Samples	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+JACM2	foren2013a	Phases	2023-10-31 13:51:09	jan@localhost	2023-10-31 13:51:09	jan@localhost
+JACM3	foren2013a	C14Samples	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+JACM3	foren2013a	Phases	2023-10-31 13:51:09	jan@localhost	2023-10-31 13:51:09	jan@localhost
+JACM4	foren2013a	C14Samples	2023-10-31 14:28:24	jan@localhost	2024-09-20 16:47:45	robert@localhost
+JACM4	foren2013a	Phases	2023-10-31 13:51:09	jan@localhost	2023-10-31 13:51:09	jan@localhost
+BESTA1	logvi2013a	C14Samples	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+BESTA1	logvi2013a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+BESTA2	logvi2002a	Phases	2024-06-01 15:47:00	robert@localhost	2024-06-01 15:47:00	robert@localhost
+BESTA2	logvi2013a	C14Samples	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+BESTA2	logvi2013a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+BESTA3	logvi2002a	Phases	2024-06-01 15:47:53	robert@localhost	2024-06-01 15:47:53	robert@localhost
+BESTA3	logvi2013a	C14Samples	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+BESTA3	logvi2013a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+BESTA4	logvi2002a	Phases	2024-06-01 15:48:04	robert@localhost	2024-06-01 15:48:04	robert@localhost
+BESTA4	logvi2013a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+BESTA5	logvi2013a	C14Samples	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+BESTA5	logvi2013a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+BESTA6	logvi2013a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+ÄNGDA1	allen2022a	Phases	2022-11-29 13:02:56	robert@localhost	2022-11-29 13:02:56	robert@localhost
+ÄNGDA1	allen2024a	C14Samples	2023-01-20 17:17:54	robert@localhost	2024-09-30 11:41:32	robert@localhost
+ÄNGDA1	sjögr2022a	C14Samples	2023-01-20 17:17:54	robert@localhost	2024-09-20 17:15:38	robert@localhost
+HLT64LIA	wilhe2015a	Phases	2023-10-17 10:46:51	sam@localhost	2023-10-17 10:46:51	sam@localhost
+LASYUE	díaz2022a	Phases	2024-12-04 11:04:17	sam@localhost	2024-12-04 11:04:17	sam@localhost

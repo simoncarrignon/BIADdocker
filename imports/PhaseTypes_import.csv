@@ -1,0 +1,184 @@
+PhaseID	Type	time_added	user_added	time_last_update	user_last_update
+VESBI1	funerary: grave	2025-05-14 22:25:41	jan_kolar@localhost	2025-05-14 22:25:41	jan_kolar@localhost
+VESBI1	settlement	2025-05-14 22:25:41	jan_kolar@localhost	2025-05-14 22:25:41	jan_kolar@localhost
+VESBI1	habitation: house	2025-05-14 22:25:41	jan_kolar@localhost	2025-05-14 22:25:41	jan_kolar@localhost
+VESBI1	settlement: ditch	2025-05-14 22:25:41	jan_kolar@localhost	2025-05-14 22:25:41	jan_kolar@localhost
+VESBI1	fire: oven	2025-05-14 22:25:41	jan_kolar@localhost	2025-05-14 22:25:41	jan_kolar@localhost
+LIPP1	settlement: pit	2024-07-25 15:35:25	jan@localhost	2024-07-25 15:35:25	jan@localhost
+END1	settlement	2025-05-14 22:25:40	jan_kolar@localhost	2025-05-14 22:25:40	jan_kolar@localhost
+KOR1	settlement	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR2	funerary: cemetery	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR2	settlement	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR3	funerary: cemetery	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR3	settlement	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR4	funerary: cemetery	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR5	funerary: cemetery	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR5	settlement	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR6	settlement	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR7	funerary: cemetery	\N	\N	2021-12-14 16:38:27	robert@localhost
+KOR8	settlement: village	\N	\N	2021-12-14 16:38:27	robert@localhost
+STOREFL1	fen/marshland/mire	2023-01-18 12:39:59	robert@localhost	2023-01-18 12:39:59	robert@localhost
+STOREFL1	funerary: bog	2023-01-18 12:40:17	robert@localhost	2023-01-18 12:40:17	robert@localhost
+HETER1	settlement	2024-07-12 10:58:37	jelena@localhost	2024-07-12 10:58:37	jelena@localhost
+HETER2	settlement	2024-07-18 14:10:32	jelena@localhost	2024-07-18 14:10:32	jelena@localhost
+TBO	cultural layer	\N	\N	\N	\N
+TBO	pit	\N	\N	\N	\N
+TBO	settlement	\N	\N	\N	\N
+DRZ	settlement	\N	\N	\N	\N
+DRZ2	settlement	\N	\N	\N	\N
+DRZ3	settlement	\N	\N	\N	\N
+PUSC	settlement	\N	\N	\N	\N
+BAUIA	funerary	2024-10-30 12:42:03	sam@localhost	2024-10-30 12:42:03	sam@localhost
+SKEPEN	cultural layer	2022-08-16 09:05:26	claudia@localhost	2022-08-16 09:05:26	claudia@localhost
+SKEPEN	posthole	2022-08-16 09:13:05	claudia@localhost	2022-08-16 09:13:05	claudia@localhost
+SKEPEN	fire: hearth	2022-08-16 09:13:21	claudia@localhost	2022-08-16 09:13:21	claudia@localhost
+SKEPLBA	cultural layer	2022-08-16 09:05:19	claudia@localhost	2022-08-16 09:05:19	claudia@localhost
+SKEPM	cultural layer	2022-08-16 09:05:11	claudia@localhost	2022-08-16 09:05:11	claudia@localhost
+SEREBRY	settlement	2023-02-20 09:56:46	natalya@localhost	2023-02-20 09:56:46	natalya@localhost
+DRAGU1	settlement	2023-07-12 14:04:15	jelena@localhost	2023-07-12 14:04:15	jelena@localhost
+DRAGU2	settlement	2023-06-14 15:53:37	jan@localhost	2023-06-14 15:53:37	jan@localhost
+DRAGU3	settlement	2023-06-14 15:53:37	jan@localhost	2023-06-14 15:53:37	jan@localhost
+SRKAR	settlement	\N	\N	2022-04-08 15:31:29	maria@localhost
+SRKAR	funerary: grave	2024-01-18 17:25:25	jan@localhost	2024-01-18 17:25:25	jan@localhost
+MRO	settlement	\N	\N	\N	\N
+LARMO	funerary	2024-10-30 12:42:03	sam@localhost	2024-10-30 12:42:03	sam@localhost
+ADAMC1	settlement	2023-08-04 08:58:49	jelena@localhost	2023-08-04 08:58:49	jelena@localhost
+PELAZBB1	habitation: house: stone	2023-05-01 16:56:43	lea@localhost	2023-05-01 16:56:43	lea@localhost
+PELAZBB2	habitation: house: stone	2023-05-01 16:56:43	lea@localhost	2023-05-01 16:56:43	lea@localhost
+PELAZBB3	habitation: house: stone	2023-05-01 16:56:43	lea@localhost	2023-05-01 16:56:43	lea@localhost
+PELAZBBS	secondary find	2023-05-01 16:56:43	lea@localhost	2023-05-01 16:56:43	lea@localhost
+PELAZOBB	habitation: house: stone	2023-04-17 11:25:33	lea@localhost	2023-04-17 11:25:33	lea@localhost
+PELAZOBB	settlement: enclosure: stone wall	2023-04-17 11:25:33	lea@localhost	2023-04-17 11:25:33	lea@localhost
+CHUL1UIA1	funerary: barrow	2023-11-22 12:52:21	sam@localhost	2023-11-22 12:52:21	sam@localhost
+CHUL1UIA2	funerary: barrow	2023-11-22 12:52:21	sam@localhost	2023-11-22 12:52:21	sam@localhost
+CHUL1UIA3	funerary: barrow	2023-11-22 12:52:21	sam@localhost	2023-11-22 12:52:21	sam@localhost
+CHUL1UIA4	funerary: barrow	2023-11-22 12:52:21	sam@localhost	2023-11-22 12:52:21	sam@localhost
+LENI1	settlement: pit	2024-07-25 15:35:25	jan@localhost	2024-07-25 15:35:25	jan@localhost
+GRD171EIA	funerary	2023-10-17 10:51:24	sam@localhost	2023-10-17 10:51:24	sam@localhost
+GRD171LIA	funerary	2023-10-17 10:51:24	sam@localhost	2023-10-17 10:51:24	sam@localhost
+VVLP	posthole	\N	\N	\N	\N
+BOROV1	settlement: tell	2024-03-18 16:57:43	jan@localhost	2024-03-18 16:57:43	jan@localhost
+BOROV2	settlement: tell	2024-03-18 16:57:43	jan@localhost	2024-03-18 16:57:43	jan@localhost
+FERWE1	settlement	2024-07-17 11:01:07	jelena@localhost	2024-07-17 11:01:07	jelena@localhost
+FERWE2	settlement: village	2024-10-29 14:50:12	jelena@localhost	2024-10-29 14:50:12	jelena@localhost
+FERWE3	settlement: village	2024-11-04 12:52:53	jelena@localhost	2024-11-04 12:52:53	jelena@localhost
+HAAR1	settlement	\N	\N	\N	\N
+MANG20A	funerary: barrow: secondary grave	2024-10-30 10:45:25	helene@localhost	2024-10-30 10:45:25	helene@localhost
+RAT	pit	\N	\N	\N	\N
+RAT	settlement	\N	\N	\N	\N
+FRUNT1	settlement	2023-06-26 07:53:44	jelena@localhost	2023-06-26 07:53:44	jelena@localhost
+KHALDE1	funerary: cemetery	\N	\N	2022-04-27 13:04:34	robert@localhost
+STASS1	funerary: grave	\N	\N	2023-04-20 20:16:22	Rscripts@macelab-server.biochem.ucl.ac.uk
+STASS1	settlement	\N	\N	2022-03-14 18:38:38	robert@localhost
+STASS2	settlement	\N	\N	2022-03-14 18:38:38	robert@localhost
+MALOSN	settlement	2023-03-01 15:29:29	natalya@localhost	2023-03-01 15:29:29	natalya@localhost
+LSMII	pit	\N	\N	\N	\N
+LSMII	settlement	\N	\N	\N	\N
+MADIL1	funerary: cemetery	2024-01-29 13:29:20	jelena@localhost	2024-01-29 13:29:20	jelena@localhost
+MADIL1	funerary: urn	2024-01-29 13:29:30	jelena@localhost	2024-01-29 13:29:30	jelena@localhost
+HENE	pit	\N	\N	\N	\N
+HENE	settlement: enclosure: entrenched	\N	\N	\N	\N
+HENE1	ditch	\N	\N	\N	\N
+HENE1	settlement: enclosure	\N	\N	\N	\N
+BELO1	settlement	\N	\N	2022-02-09 13:08:16	claudia@localhost
+CEGILN	funerary: grave	\N	\N	2023-04-20 20:16:22	Rscripts@macelab-server.biochem.ucl.ac.uk
+ODLA191	fire: burnt area	\N	\N	\N	\N
+MEKIF1	settlement	2025-05-14 22:25:46	jan_kolar@localhost	2025-05-14 22:25:46	jan_kolar@localhost
+VIN1	settlement	2023-03-07 16:31:43	jan@localhost	2023-03-07 16:31:43	jan@localhost
+TRNB1	funerary: cemetery	2024-07-25 15:35:25	jan@localhost	2024-07-25 15:35:25	jan@localhost
+FANED1	funerary: grave	2022-11-29 13:19:15	robert@localhost	2023-04-20 20:16:22	Rscripts@macelab-server.biochem.ucl.ac.uk
+FANED1	shell midden	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+MIKOBRO	settlement	2023-02-20 09:56:46	natalya@localhost	2023-02-20 09:56:46	natalya@localhost
+LUB2-1	funerary: barrow	\N	\N	2022-05-03 18:07:34	robert@localhost
+CAREI1	pit	2024-03-04 12:23:24	natalya@localhost	2024-03-04 12:23:24	natalya@localhost
+CAREI2	pit	2024-03-04 12:23:10	natalya@localhost	2024-03-04 12:23:10	natalya@localhost
+CAREI2	habitation: house	2024-03-15 10:26:56	natalya@localhost	2024-03-15 10:26:56	natalya@localhost
+BRN3	pit	2025-06-30 09:08:39	dominika_schmidtova@localhost	2025-06-30 09:08:39	dominika_schmidtova@localhost
+HODK1	habitation: house	2025-05-14 22:25:41	jan_kolar@localhost	2025-05-14 22:25:41	jan_kolar@localhost
+HODK1	settlement	2025-05-14 22:25:41	jan_kolar@localhost	2025-05-14 22:25:41	jan_kolar@localhost
+SGMUMED	funerary	2023-05-01 09:49:34	sam@localhost	2023-05-01 09:49:34	sam@localhost
+PAD1	funerary: cemetery	\N	\N	2022-01-21 15:37:13	robert@localhost
+PAD2	funerary: cemetery	\N	\N	2022-01-21 15:37:13	robert@localhost
+PAD2	funerary: cemetery	2023-07-21 15:47:43	jan@localhost	2023-07-21 15:47:43	jan@localhost
+PAD2	settlement	2023-07-21 17:36:30	jan@localhost	2023-07-21 17:36:30	jan@localhost
+PAD3	funerary: cemetery	\N	\N	2022-01-21 15:37:13	robert@localhost
+PAD4	funerary: cemetery	\N	\N	2022-01-21 15:37:13	robert@localhost
+PAD5	funerary: cemetery	\N	\N	2022-01-21 15:37:13	robert@localhost
+PAD5	funerary: cemetery	2023-07-21 15:47:43	jan@localhost	2023-07-21 15:47:43	jan@localhost
+PAD5	settlement	2023-07-21 17:36:30	jan@localhost	2023-07-21 17:36:30	jan@localhost
+PAD6	funerary: cemetery	\N	\N	2022-01-21 15:37:13	robert@localhost
+PAD6	settlement	2023-07-21 17:36:30	jan@localhost	2023-07-21 17:36:30	jan@localhost
+PAD7	settlement	2024-07-23 10:06:51	jelena@localhost	2024-07-23 10:06:51	jelena@localhost
+ARDMED	funerary	2023-05-01 09:49:34	sam@localhost	2023-05-01 09:49:34	sam@localhost
+WILHE1	settlement	2024-07-11 12:53:50	jelena@localhost	2024-07-11 12:53:50	jelena@localhost
+SUCEV1	settlement	2023-07-13 14:05:43	jelena@localhost	2023-07-13 14:05:43	jelena@localhost
+SIKUL1	settlement	2023-07-26 10:40:58	jelena@localhost	2023-07-26 10:40:58	jelena@localhost
+ORUB1	pit	2023-05-09 12:27:22	natalya@localhost	2023-05-09 12:27:22	natalya@localhost
+MNNY	fire: hearth	\N	\N	\N	\N
+MNNY	pit	\N	\N	\N	\N
+MNNY	posthole	\N	\N	\N	\N
+ARUN1	sediment: sand shore	2025-05-06 15:04:39	fredrik_dahlberg@localhost	2025-05-06 15:04:39	fredrik_dahlberg@localhost
+UOB1	funerary: reused pit	2023-03-07 16:31:43	jan@localhost	2023-03-07 16:31:43	jan@localhost
+UOB2	military camp: ditch	2023-03-07 16:31:43	jan@localhost	2023-03-07 16:31:43	jan@localhost
+DODOL1	settlement	\N	\N	2022-04-08 11:14:12	jelena@macelab-server.biochem.ucl.ac.uk
+DODOL2	settlement: pile dwelling	\N	\N	2022-04-08 11:14:43	jelena@macelab-server.biochem.ucl.ac.uk
+DODOL2	funerary: cemetery	\N	\N	2022-04-08 11:15:08	jelena@macelab-server.biochem.ucl.ac.uk
+DODOL3	funerary: cemetery	\N	\N	2022-04-08 11:15:35	jelena@macelab-server.biochem.ucl.ac.uk
+DEREIVK	settlement	2023-03-01 15:29:29	natalya@localhost	2023-03-01 15:29:29	natalya@localhost
+CHER1	settlement: pile dwelling	\N	\N	2022-06-30 12:06:19	claudia@localhost
+SARAT1	settlement	2023-08-02 12:49:00	jelena@localhost	2023-08-02 12:49:00	jelena@localhost
+SARAT2	settlement	2023-11-17 13:59:33	jan@localhost	2023-11-17 13:59:33	jan@localhost
+TAMU1	funerary: cemetery	\N	\N	2022-05-09 15:06:40	robert@localhost
+TAMU1	cultural layer	\N	\N	2022-05-09 15:06:40	robert@localhost
+TAMU1	settlement	\N	\N	2022-05-09 15:06:40	robert@localhost
+TAMU2	funerary: cemetery	\N	\N	2022-05-09 15:06:40	robert@localhost
+TAMU2	settlement	\N	\N	2022-05-09 15:06:40	robert@localhost
+TAMU3	funerary: cemetery	\N	\N	2022-05-24 11:31:45	robert@localhost
+PRB1	military camp: ditch fill	2023-03-07 16:31:43	jan@localhost	2023-03-07 16:31:43	jan@localhost
+PRMIS1	funerary: cemetery	\N	\N	2022-05-27 11:22:00	robert@localhost
+PRMIS2	funerary: cemetery	\N	\N	2022-05-27 11:22:00	robert@localhost
+PRMIS3	funerary: cemetery	\N	\N	2022-05-27 11:22:00	robert@localhost
+BINNE1	settlement: village	2024-11-04 12:52:53	jelena@localhost	2024-11-04 12:52:53	jelena@localhost
+DEBTOER1	funerary: cemetery	\N	\N	2023-11-20 15:40:35	robert@localhost
+DEBTOER1	settlement	2023-11-20 15:38:57	robert@localhost	2023-11-20 15:38:57	robert@localhost
+DEBTOER1	funerary: grave	2025-05-14 22:25:36	jan_kolar@localhost	2025-05-14 22:25:36	jan_kolar@localhost
+DEBTOER2	settlement	2023-11-20 15:39:07	robert@localhost	2023-11-20 15:39:07	robert@localhost
+DEBTOER3	settlement	2023-11-20 15:39:15	robert@localhost	2023-11-20 15:39:15	robert@localhost
+DEBTOER4	settlement	2023-11-20 15:39:24	robert@localhost	2023-11-20 15:39:24	robert@localhost
+DEBTOER5	settlement	2023-11-20 15:39:35	robert@localhost	2023-11-20 15:39:35	robert@localhost
+CACSBB	funerary: tomb: megalith	2023-04-17 11:25:33	lea@localhost	2023-04-17 11:25:33	lea@localhost
+VESPI-EN	cave	\N	\N	2022-04-08 15:31:29	maria@localhost
+VESPI-M	cave	\N	\N	2022-04-08 15:31:29	maria@localhost
+VESPI-M	cave	2023-10-31 13:41:14	jan@localhost	2023-10-31 13:41:14	jan@localhost
+CWM1	settlement: enclosure	\N	\N	2022-04-25 17:09:50	maria@localhost
+ERIMUE	funerary	2024-11-18 12:55:13	sam@localhost	2024-11-18 12:55:13	sam@localhost
+NEMO1	settlement: hillfort: cultural layer	2023-03-07 16:31:44	jan@localhost	2023-03-07 16:31:44	jan@localhost
+SVEN91	settlement	2023-02-17 11:49:33	jelena@localhost	2023-02-17 11:49:33	jelena@localhost
+CASQUI1	funerary: cemetery	2023-06-21 10:21:22	robert@localhost	2023-06-21 10:21:22	robert@localhost
+GSPF	pit	\N	\N	\N	\N
+GSPF	settlement	\N	\N	\N	\N
+ARG2	settlement	2024-08-09 15:03:02	helene@localhost	2024-08-09 15:03:02	helene@localhost
+ARG2	settlement	2024-08-09 15:10:37	helene@localhost	2024-08-09 15:10:37	helene@localhost
+CHITI1	settlement: tell	\N	\N	2022-05-05 11:12:11	jelena@localhost
+CHITI1	cultural layer	\N	\N	2022-05-02 10:50:45	jelena@localhost
+FRIE2	settlement: enclosure	\N	\N	\N	\N
+PFHUN	settlement	2023-01-25 10:13:28	emily@localhost	2023-01-25 10:13:28	emily@localhost
+PFHUN	funerary: grave	2025-05-14 22:25:36	jan_kolar@localhost	2025-05-14 22:25:36	jan_kolar@localhost
+PFHUN1	settlement	2023-01-24 12:57:14	emily@localhost	2023-01-24 12:57:14	emily@localhost
+PFHUN1	funerary: cemetery	2023-01-24 12:57:30	emily@localhost	2023-10-20 23:52:14	robert@localhost
+PFHUN2	settlement	2023-01-24 11:55:32	emily@localhost	2023-01-24 11:55:32	emily@localhost
+PFHUN2	funerary: cemetery	2023-02-27 14:07:54	adrian@localhost	2023-10-20 23:52:22	robert@localhost
+PFHUN2	funerary: grave	2025-05-14 22:25:36	jan_kolar@localhost	2025-05-14 22:25:36	jan_kolar@localhost
+JACM1	cave	2023-10-31 13:41:14	jan@localhost	2023-10-31 13:41:14	jan@localhost
+JACM2	cave	2023-10-31 13:41:14	jan@localhost	2023-10-31 13:41:14	jan@localhost
+JACM3	cave	2023-10-31 13:41:14	jan@localhost	2023-10-31 13:41:14	jan@localhost
+JACM4	cave	2023-10-31 13:41:14	jan@localhost	2023-10-31 13:41:14	jan@localhost
+BESTA1	funerary: cemetery	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+BESTA2	funerary: cemetery	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+BESTA3	funerary: cemetery	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+BESTA4	funerary: cemetery	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+BESTA5	funerary: cemetery	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+BESTA6	funerary: cemetery	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+ÄNGDA1	funerary: grave	2022-11-29 13:19:15	robert@localhost	2023-04-20 20:16:22	Rscripts@macelab-server.biochem.ucl.ac.uk
+ÄNGDA1	mine: flint	2022-11-29 13:19:15	robert@localhost	2022-11-29 13:19:15	robert@localhost
+HLT64LIA	funerary	2023-10-17 10:51:24	sam@localhost	2023-10-17 10:51:24	sam@localhost
