@@ -1,4 +1,3 @@
-
 SET FOREIGN_KEY_CHECKS=0;
 
 LOAD DATA INFILE '/var/lib/mysql-files/sites_import.csv'

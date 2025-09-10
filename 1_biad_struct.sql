@@ -6959,16 +6959,15 @@ USE `BIAD`;
 
 -- Dump completed on 2025-09-08 22:18:33
 
-CREATE USER 'admin'@'127.0.0.1' IDENTIFIED BY 'your_admin_password';
+CREATE USER 'admin'@'127.0.0.1' IDENTIFIED BY 'admin1234';
 GRANT ALL PRIVILEGES ON `BIAD`.* TO 'admin'@'127.0.0.1';
-FLUSH PRIVILEGES;
 
 -- Create the Rscript user with almost all permissions like admin
-CREATE USER 'Rscripts'@'127.0.0.1' IDENTIFIED BY 'your_rscript_password';
+CREATE USER 'Rscripts'@'127.0.0.1' IDENTIFIED BY 'rscrpt1234';
 GRANT ALL PRIVILEGES ON `BIAD`.* TO 'Rscripts'@'127.0.0.1';
-FLUSH PRIVILEGES;
 
 -- Create the test_user with only read permissions
-CREATE USER 'test_user'@'127.0.0.1' IDENTIFIED BY 'your_test_user_password';
+CREATE USER 'test_user'@'127.0.0.1' IDENTIFIED BY 'test1234';
 GRANT SELECT ON `BIAD`.* TO 'test_user'@'127.0.0.1';
+
 FLUSH PRIVILEGES;
