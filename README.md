@@ -13,11 +13,21 @@ To run it:
 docker run -d  --name=mini-biad  --network="host"  biad-mini:latest
 ```
 
-We use network="host" so connection to the mysql server are made through 127.0.0.0
+
+We use network="host" so connection to the mysql server are made through 127.0.0.1
 This could be adjusted at install time
 
-There is a first dummy user call `test_user` that can be used to read the database:
+To check everything is ok:
+
+```
+docker logs mini-biad  
+```
+
+
+If the log show that mariadb is accepting connection you can useT a the dummy user called `test_user` to connect to the database
 
 ```bash
 mysql -u test_user -pyour_test_user_password -h 127.0.0.1
 ```
+
+
