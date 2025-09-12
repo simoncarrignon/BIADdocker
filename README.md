@@ -27,7 +27,7 @@ docker logs mini-biad
 If the log show that mariadb is accepting connection you can useT a the dummy user called `test_user` to connect to the database
 
 ```bash
-mysql -u test_user -pyour_test_user_password -h 127.0.0.1
+mysql -u test_user -ptest1234 -h 127.0.0.1
 ```
 
 
